@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  31 DEC 2019 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  31 DEC 2019 18:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -680,6 +680,18 @@ LaTeX Warning: Label `eq:*' multiply defined.
 
 LaTeX Warning: Label `eq:*' multiply defined.
 
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
 )
 \openout1 = `math_sem1.aux'.
 
@@ -925,26 +937,201 @@ Overfull \hbox (2.75172pt too wide) in paragraph at lines 624--627
 
 [30
 
-] [31] [32] (./math_sem1.aux)
+] [31] [32]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 18.
+[33
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 19.
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 715.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--718
+
+ []
+
+[34
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--734
+
+ []
+
+./math_sem1.tex:740: Double subscript.
+l.740 ...\approx \vert_{x_0 \approx 1 = \sqrt{x}}_
+                                                  {\vert_{x = 1}} $$ \\
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+
+ []
+
+
+Overfull \hbox (67.96246pt too wide) has occurred while \output is active
+\T2A/cmr/m/sl/10 Глава 19.  Основные правила дифференцирования, производные элементарных функций. \T2A/cmr/m/n/10 35
+ []
+
+[35]
+./math_sem1.tex:750: Extra }, or forgotten $.
+l.750 ...»СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
+                                                  $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+
+ []
+
+
+Overfull \hbox (67.96246pt too wide) has occurred while \output is active
+\T2A/cmr/m/sl/10 Глава 19.  Основные правила дифференцирования, производные элементарных функций. \T2A/cmr/m/n/10 36
+ []
+
+[36]
+./math_sem1.tex:815: Missing $ inserted.
+<inserted text> 
+                $
+l.815 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./math_sem1.tex:815: Missing } inserted.
+<inserted text> 
+                }
+l.815 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./math_sem1.tex:815: Display math should end with $$.
+<to be read again> 
+                   \@@par 
+l.815 
+      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+./math_sem1.tex:815: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.815 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./math_sem1.tex:816: Missing $ inserted.
+<inserted text> 
+                $
+l.816       F'(c) = 0 \Leftrightarrow
+                                      f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} \...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./math_sem1.tex:818: LaTeX Error: Command \end{proof} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.818   \end{proof}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./math_sem1.tex:818: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.818   \end{proof}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./math_sem1.tex:818: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.818   \end{proof}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./math_sem1.tex:818: Missing $ inserted.
+<inserted text> 
+                $
+l.818   \end{proof}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (67.96246pt too wide) has occurred while \output is active
+\T2A/cmr/m/sl/10 Глава 19.  Основные правила дифференцирования, производные элементарных функций. \T2A/cmr/m/n/10 37
+ []
+
+[37] (./math_sem1.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25390 strings out of 492163
- 627897 string characters out of 6129075
+ 25410 strings out of 492163
+ 628295 string characters out of 6129075
  830408 words of memory out of 5000000
- 29338 multiletter control sequences out of 15000+600000
+ 29358 multiletter control sequences out of 15000+600000
  27405 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,15n,103p,724b,2023s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,15n,103p,724b,2086s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-supe
 r/sfrm1728.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on math_sem1.pdf (33 pages, 490425 bytes).
+Output written on math_sem1.pdf (38 pages, 510457 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
+ 253 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
