@@ -1,0 +1,630 @@
+\documentclass[oneside]{book}
+\author{по конспектам лекций Рачковского Н.Н. \\ студентов группы 950501}
+
+\usepackage[russian]{babel}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{amsthm}
+\usepackage{empheq}
+\usepackage{xcolor}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+
+\newcommand{\boxedeq}[2]{\begin{empheq}[box={\fboxsep=6pt\fbox}]{align}\label{#1}#2\end{empheq}}
+   \newtheorem{thm}{Тероэма}[chapter] % reset theorem numbering for each chapter
+
+\pgfplotsset{compat=1.5}
+\begin{document}
+\title{Ответы на теоретические вопросы к экзамену по математике. \\ Семестр 1, 2019}
+\maketitle
+
+\chapter{Элементы теортии Множеств}
+\section{Множества и операции над ними}
+
+Множество - совокупность некоторых объектов, обладающих определёнными свойствами. Каждый из объектов
+называется элементом обозначение множества: $\{a | P(a)\}$ где P(a) - свойство, объединяющее объекты a.\\
+
+Специльные символы, обозначающие операции над множествами:
+
+\begin{enumerate}
+    \item содержится: A $\subseteq$ B. Каждый элемент множества А содержится в В.
+    \item совпадает: $A = B \Leftrightarrow A \subseteq B, B \subseteq A$
+    \item объединение: $A \cup B = \{c | c \in A \textbf{ или } c \in B\}$
+    \item пересечение: $A \cap B = \{c | c \in A \textbf{ и } c \in B\}$
+    \item теоритическо-множественная разность: $A \setminus B = \{c|c \in A \textbf{ и } c \notin B\}$
+    \item декартово произведение: $A \times B = \{(a, b) | a \in A; b \in B\}$ \footnote{каждый элемент в паре с
+          каждым другим, как при раскрытии скобок}
+\end{enumerate}
+
+Операции с $\emptyset$:
+
+\begin{enumerate}
+    \item $A \cup \emptyset = A$
+    \item $A \cap \emptyset = \emptyset$
+    \item $A \setminus \emptyset = A$
+    \item $\emptyset \setminus A = \emptyset$
+\end{enumerate}
+
+% Рассматривая операции умножения и деления над \mathbb{N}
+
+\section{Замкнутость множеств}
+
+Рассматривая операции умножения и и деления над $\mathbb{N}$ мы \textit{остаёмся} в $\mathbb{N} \Rightarrow
+\mathbb{N}$ замкнуто относительно операции умножения.Для того, чтобы $\mathbb{N}$ стало замкнуто относительно
+операции вычитания нужно добавить к нему отрицательные числа и ноль тем самым привратив его в $\mathbb{Z}$.
+Таким образом $\mathbb{Z}$ замкнуто относительно $\times, \pm$ но не $\div$. Для того, чтобы замкнуть
+$\mathbb{Z}$ относительно $\div$, нужно дополнить его дробями вида $\frac{m}{n}$, где $m \in \mathbb{Z}$
+и $n \in \mathbb{N}$. Т. О. получили $\mathbb{Q}$ Получили: $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q}
+\subset \mathbb{R}$ где $\mathbb{R}$ - действительные числа.
+
+\section{Ограниченность множеств}
+
+A ограничено сверху, если $\exists M, \forall a \in A : a \leq M$ и A ограничено снизу, если $\exists M, \forall a \in A : a \geq M$
+\begin{quote}
+    Таким образом, если множество ограничено \textbf{и} сверху \textbf{и} снизу, оно называется \textit{ограниченным}.
+    $\Rightarrow \exists M, \forall a \in A : |a| \leq M$ (1)
+\end{quote}
+
+\begin{center}
+    $\exists M_1, M_2, \forall a \in A : M_1 \leq a \leq M_2$\\
+    $M = max(|M_1|, |M_2|)$\\
+    $M \geq |M_1| \geq M_2$\\
+    $M \geq |M_1| \Rightarrow -M \leq -|M_1| \leq M_1 \Rightarrow$\\
+    $\forall a \in A : -M \leq -M_1 \leq a \leq M_2 \leq M \rightarrow -M \leq a \leq M$
+\end{center}
+Следовательно из ограниченности А получается (1).
+
+\section{Окрестности}
+
+Рассмотрим $a \in \mathbb{R}$. Окрестностью а является отрезок (b; c), содержущюю а.
+Рассмотрим $\epsilon > 0$. $\epsilon$-окрестностью а является отрезок $(a-\epsilon; a+\epsilon)$, содержущюю а.\\
+$\mathcal{U}_\epsilon(a)$ есть отрезок длиной  $2\epsilon$, центром которого является а: \\
+$\mathcal{U}_\epsilon(a) = \{x \in \mathbb{R} | |x-a|< \epsilon\}$\\
+Оно бывает и проколото: т.е. из отрезка удалена точка а: $\dot{\mathcal{U}}_\epsilon(a) = \mathcal{U} \setminus \{a\}$
+
+\chapter{Функции}
+\begin{quote}
+    обведи пж важные уравнения в коробку boxedeq\{eq:*\}\{...\}
+\end{quote}
+
+Пусть даны 2 непустых множества А и В. Отображением из А и В называется правило, согласно которому каждому элементу
+множества А соответствует не более одного элемента В. Это обозначается $f : A \rightarrow B$
+Областью определения f называется множество $D(f) = \{a \in A | \exists b = f(a)\}$\footnote{f - заданное нами правило}
+Множеством значений f называется множество $E(f) = \{b \in B | \exists a \in A; b = f(a)\}^2$ Запись
+b = f(a) обозначает, что $a \in A$ в отображениии f соответствует $b \in B$ тут b - образ, а а - прообраз. \\
+Свойства биективного\footnote{взаимооднозначного} отображения $f: A \rightarrow B$:
+\begin{enumerate}
+    \item $D(f) = A$
+    \item $E(f) = B$
+    \item $\forall a_1, a_2 \in A, a_1 \neq a_2: f(a_1) \neq f(a_2)$
+    \item обратное оторажение: $f^{-1}: B \rightarrow A; a = f^{-1}(b) \Leftrightarrow b = f(a)$
+\end{enumerate}
+График отображения $f A \rightarrow B = \{(a, b) | b = f(a)\} \subset A \times B$ Если А и В - числовые, то это функция тогда
+график функции есть подмножество в декартовом квадрате\footnote{$\mathbb{R}^2 = \mathbb{R} \times \mathbb{R}$}.
+Рассмотрим полскость с прямоугольной системой координат: элементам множества $\mathbb{R}^2$ можно поставить в соответствие
+точки этой полскости, координаты которой в этой С.К. являются  эти элементы $\mathbb{R}^2$. Тогда график функции можно предстваить как
+множество точек, причем ясно, что не каждое множество точек задает график функции. Множество точек задает график функции тогда и только
+тогда, когда любая вертикальная прямая параллельная оси ординат пересекает множество данных не более одного раза. Функция может задаваться
+\textit{аналитически, графичекси и неявно}. Неявный способ: Рассмотрим $F : \mathbb{R}^2 \rightarrow R$ и Рассмотрим $F(x;y) = 0$.
+На Координатной плоскости рассмотрим множество решений этого уравнения: $\{(x;y) \in \mathbb{R}^2 | F(x;y) = 0\}$: если оказывается, что
+это множество является графиком функции, функция задана нефвно унавнением F(x;y) = 0.
+
+\section{Типовые функции, график функции}
+Линейная функция:\\
+Функция вида $y = kx + b; k, b \in \mathbb{R}$ имеет графиком невертикальную прямую при b = 0 график функции проходит через (0; 0).
+К - угловой коеффициент равный тангенсу кгла наклона графика к Ox. Взаимное расположение двух прямых, заданных функциями
+$y_1 = k_1x + b_1$ и $y_2 = k_2x + b_2$:
+\begin{enumerate}
+    \item совпаление прямых $\Leftrightarrow k_1 = k_2; b_1 = b_2$
+    \item параллельность прямых $\Leftrightarrow k_1 = k_2 \textbf{ и } b_1 \neq b_2$
+    \item пересечение прямых $\Leftrightarrow k_1 \neq k_2$
+\end{enumerate}
+
+доказательство свойства 2:
+\begin{center}
+    $\Rightarrow)$ Пусть прямые $y_1 = k_1x + b_1$ и $y_2 = k_2x + b_2$ параллельны. Следовательно у них не общих точек:\\
+    $\begin{cases}
+        y = k_1x + b_1 \\
+        y = k_2x + b_2
+    \end{cases}$ не имеет решений \\ $\Rightarrow x(k_1 - k_2) = b_2 - b_1$ не имеет решений\\
+    Следовательно $x = \frac{b_2-b_1}{k_1-k_2} \notin \mathbb{R} \Rightarrow \begin{cases}
+        k_1 = k_2 \\ b_1 \neq b_2
+    \end{cases}$\\
+    $\Leftarrow)$ Предположим, что $\begin{cases} k_1 = k_2 \\ b_1 \neq b_2 \end{cases}$ и проведем все эти действия в обратном порядке.
+\end{center}
+
+\subsection{Формула получения угла между двумя прямыми}
+
+$\begin{cases}
+    y = k_1x + b_1 \\
+    y = k_2x + b_2
+\end{cases}$
+
+\begin{tikzpicture}
+    \begin{axis}
+        \addplot [
+            domain=-10:10,
+            samples=100,
+            color=red,
+        ]
+        {2*x + 1};
+        \addplot [
+            domain=-10:10,
+            samples=100,
+            color=blue,
+        ]
+        {4*x - 8};
+    \end{axis}
+    \node[text width=6cm, anchor=west, right] at (8,3)
+    {обозначим угол между красной и синей линиями за $\theta$, наклон линий соответственно $\phi_1$ и $\phi_2$
+    $\theta = \phi_1 - \phi_2$ \\ $k_1 = \tan{\phi_1}$ \\
+    $k_2 = \tan{\phi_2}$ \\
+    $\theta = \tan{\phi_1} - \tan{\phi_2} \Rightarrow$ \boxedeq{eq:*}{\theta  = \frac{k_1-k_2}{1+k_1k_2}}};
+\end{tikzpicture}
+
+Таким образом 2 прямые взаимоперпендикулярны тогда и только тогда когда $k_1 = \frac{-1}{k_2}$
+
+\subsection{Основные элементарные функции}
+Степенная функция \\
+\begin{tikzpicture}
+    \begin{axis}
+        \addplot{x^2};
+    \end{axis}
+    \node[text width=2cm, anchor=west, right] at (0, -1) {n = 2n};
+\end{tikzpicture}
+\begin{tikzpicture}
+    \begin{axis}
+        \addplot{x^3};
+    \end{axis}
+    \node[text width=2cm, anchor=west, right] at (0, -1) {n = 2n+1};
+\end{tikzpicture}\\
+\begin{tikzpicture}
+    \begin{axis}
+        \addplot{x^(1/8)};
+    \end{axis}
+    \node[text width=6cm, anchor=west, right] at (0, -1) {$x^\frac{1}{n}$ где н - четное};
+\end{tikzpicture}
+\begin{tikzpicture}
+    \begin{axis}
+        [xmin=-5, xmax=5,
+        ymin=-5, ymax=5]
+        \addplot{x^(1/6)};
+    \end{axis}
+    \node[text width=6cm, anchor=west, right] at (0, -1) {$x^\frac{1}{n}$ где н - нечетное};
+\end{tikzpicture}
+ДОДЕЛАЙС
+
+\chapter{Окружность, Эллипс, Гипербола, Парабола}
+Пусть Существует прямоугольная система координат Oxy; Пусть даны две точки $A(x_1; y_1), B(x_2; y_2)$;
+Тогда расстояние между А и В вычисляется так: \boxedeq{eq:*}{|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+
+\section{Фигуры и канонические уравнения фигур}
+Говорят, что уравнение на плоскости задет некоторую фигуру, если принадлежность M(x; y) этой фигуре равносильно
+выполнению равенства f(x; y) = 0 для каждой точки этой фигуры.
+
+\subsection{Окружность}
+\textbf{Окружностью называется множество всех точек в плоскости, удаленных от данной фиксированной точки, называемой
+центром окружности на одно и то же расстояние, называемое радиусом окружности.} \\
+дана точа M(x; y) и окружность с центром О($x_0, r_0$). М $\in \omega(O, r) \Leftrightarrow |MO|=R \Leftrightarrow
+|MO|^2 = r^2 \Leftrightarrow$ \boxedeq{eq:*}{(x-x_0)^2+(y-y_0)^2 = r^2}
+Равенство 3.2 есть уравнение окружности т.к. оно равносильно принадлежности точки М к окружности.
+
+\subsection{Эллипс}
+Пусть на плоскости заданы 2 точки $F_1, F_2$, расстояние между которыми равно 2с; и пусть дано
+некоторое число $a > c$. \textbf{Эллипсом называется множество всех точек ранной плоскости, длял которых
+сумма расстояний от этой точки до точек $F_1$ и $F_2 = 2a$.} Точки F называются фокусами эллипса. Вывод:
+\begin{center}
+        Зададим на плоскости ПСК с $Ox = F_1F_2$; координаты точек F получаются: $F_1(-c; 0), F_2(c; 0)$ \\
+        Возьмем произвольную точку $M(x; y) \Rightarrow (MF_1 + F_1F_2) = 2a \Rightarrow$ \\
+        $\sqrt{(x+c)^2 + y^2} + \sqrt{(x-c)^2 + y^2} = 2a$ \\
+        $\therefore (x+c)^2 + y^2 = 4a^2 - 4a\sqrt{(x-c)^2 + y^2} + (x-c)^2 + y^2$ \\
+        $\therefore a^2(x-c)^2+a^2y^2 = a^4 - 2a^2cx+c^2x^2$ \\
+        \dots \\
+        $\therefore b^2 = a^2 - c^2$ \\
+        $\therefore b^2x^2 + a^2y^2 = a^2b^2$, делим на $a^2b^2$ \\
+        \boxedeq{eq:*}{\frac{(x-x_0)^2}{a^2}+\frac{(y-y_0)^2}{b^2} = 1}\footnote{неуверен в записи, особенно в $(MF_1 + F_1F_2) = 2a$}
+\end{center}
+Так как обе переменных x и y в четных степенях, эллипс симметричен относительно начала координат.
+Эллипс ограничен прямоугольником 2а на 2b. В случае совпадения a и b получим $\omega(0, a)$.
+\textbf{эксцентриситет эллипса: $\varepsilon = \frac{c}{a}$}. $\varepsilon \in [0; 1] \therefore \varepsilon = 0$ для окружности.
+
+\subsection{Гипербола}
+На плоскости заданы несовпадающие точки $F_1, F_2$, расстояние между которыми равно 2с. Пусть $a \in (0; c)$.
+\textbf{Гиперболой называется множество точек, для которых разность расстояний от точки до $F_1$ и $F_2$.} $F_1$ и $F_2$ это
+фокусы гиперболы. На плоскости задана ПСК с $Ox = F_1F_2$; координаты точек F получаются: $F_1(-c; 0), F_2(c; 0)$
+\begin{center}
+    \pgfplotsset{every axis/.append style={
+        axis x line=middle,    % put the x axis in the middle
+        axis y line=middle,    % put the y axis in the middle
+        axis line style={<->}, % arrows on the axis
+        xlabel={$x$},          % default put x on x-axis
+        ylabel={$y$},          % default put y on y-axis
+        }}
+    % arrows as stealth fighters
+    \tikzset{>=stealth}
+    \begin{tikzpicture}
+    \begin{axis}[
+    xmin=-5,xmax=5,
+    ymin=-5,ymax=5]
+    \addplot [red,thick,domain=-2:2] ({cosh(x)}, {sinh(x)});
+    \addplot [red,thick,domain=-2:2] ({-cosh(x)}, {sinh(x)});
+    \addplot[red,dashed] expression {x};
+    \addplot[red,dashed] expression {-x};
+    \draw[fill] (400,500) circle  [radius=1pt];
+    \draw[fill] (600,500) circle  [radius=1pt];
+    \end{axis}
+    \end{tikzpicture}
+
+    wywod urawnenija giperboly zdesja.
+
+    \boxedeq{eq:*}{\frac{(x-x_0)^2}{a^2}+\frac{(y-y_0)^2}{b^2} = -1}
+
+\end{center}
+Так как обе переменных x и y в четных степенях, эллипс симметричен относительно начала координат.
+$y = \pm\frac{b}{a}x$ - асимптоты гиперболы. a и b - полуоси гиперболыб точки пересеччения с Ox - вершины.
+\textbf{эксцентриситет гиперболы: $\varepsilon = \frac{c}{a}$}. $c > a \Rightarrow \varepsilon >1$
+
+\subsection{Парабола}
+На плоскости задана прямая $\Delta$ и $F \notin \Delta$. \textbf{Параболой называется множество точек плоскости
+равноудаленных от $\Delta$ и F.} При этом $\Delta$ - директрисса параболы, F - фокус Параболы. Введем ПСК:
+Ox проходит через $F$ и $\perp \Delta \Rightarrow F(\frac{p}{2}; 0)$ где p - расстояние от F до $\Delta$.
+\begin{center}
+    Уравнение параболы
+
+    wywod urawnenija tuta
+
+    \boxedeq{eq:*}{y = \pm 2px}
+\end{center}
+y в уравнении в чтной степени $\Rightarrow$ парабола симметрична относительно Ox при $x \geq 0$ получается, \
+что парабола расположена в правой полуплоскости.
+\chapter{MISHUPA}
+\pagebreak
+
+\chapter{Числовая последовательность и ее предел. Свойства сходящихся последовательностей.}
+Числовая последовательность называется отображением в котором каждому $\mathbb{N}$ числу соответствует
+некоторое число. Последовательности принято изображать $\{x_n\} = x_1; x_2; \dots x_n$
+Если из $\{x_n\}$ взято некое бесконечное подмножество, из которого сформирована другая последовательность,
+в которой \textbf{порядок следования членов такой же как и в исходной последовательности, то она
+называется подпоследовательностью.} Обозначение $\{{x_n}_m\}$.
+Из определения последовательности: если $k_1 < k_2 \Rightarrow m_1 < m_2$.\\
+Число а называется пределом последовательности \\ $\lim_{n \rightarrow \infty}{x_n = a} \Leftrightarrow$
+$\forall\epsilon>0,  \exists N=N(\epsilon) \in \mathbb{N}, \forall n \geq N: |x_n - a| < \epsilon$
+$\Rightarrow \lim_{n \rightarrow \infty}{x_n = a} \Leftrightarrow$ в сколь угодно малой $\mathcal{U}_\epsilon(a)$
+может находиться \textbf{конечное число членов этой последовательности}.
+
+Предел числовой последовательности есть точчка, в которой \textit{кучкуются} почти все члены последовательности
+за исключением, может последнего члена.
+
+Последовательность, имеющая предел называется \textit{сходящейся}; в противном случае - \textit{расходящейся}.
+Расходящиеся последовстельности также включают бесконечно большие последовательности.
+\begin{center}
+    бесконечно большие последовательности:\\
+    $lim_{n \rightarrow \infty}{k_n} = \infty \Leftrightarrow$ \\
+    $\forall M > 0, \exists N=N(M) \in \mathbb{N}, \forall n \geq N: |x_n| > M$ \\
+    бесконечно малые последовательности:\\
+    $lim_{n \rightarrow \infty}{k_n} = -\infty \Leftrightarrow$\\
+    $\forall M < 0, \exists N=N(M) \in \mathbb{N}, \forall n \geq N: |x_n| < M$ \\
+\end{center}
+
+\section{Свойства сходящихся последовательностей {\LARGE{DOKAZAT' SWOJSTWA}}}
+\begin{enumerate}
+    \item Сходящаяся последовательность имеет единственный предел. Действительно, если предположть,
+          что пределов 2, можноуказать несколько $\mathcal{U}_\epsilon$ этих пределов, не пересекающте
+          друг друга. По определению предела внутри каждой из этих  $\mathcal{U}_\epsilon(a)$ должно
+          содержаться бесконечно много членов последовательности, что есть противоречие.
+    \item Если Последовательность сходится к а, то любая подпоследовательность этоц последовательности сходиться к а.
+    \item Любая мходящаяся последовательность ограничена: \begin{center}
+        Пусть $\epsilon = 1: \exists \in \mathbb{N}, n \geq N: |x_n - a| < 1 \Leftrightarrow$
+        $|x_n| - |a| \leq |x_n - a| < 1 \Leftrightarrow$ \\
+        $|x_n| - |a| < 1 \Rightarrow |x_n| < |a| + 1$ \\
+        Пусть члены $x_1 \dots x_{N-1}$, не попавшие в рассматриваемую окрестность точки а. и Пусть
+        \textcolor{red}{$M = max(|x_1| \dots |x_{N-1}|, |a+1|)$} $\forall n, |x_n| \leq M$
+        \end{center}
+    \item Если для 2х членов последоватеьностей ${x_n}$ и ${y_n}$, сходящихся к числам a и b
+          соответственно, начиная с некоторого номера $ x_n < y_n, a \leq b$: \begin{center}
+                Пусть $\lim_{n \rightarrow \infty}{x_n = a}$ \\$\lim_{n \rightarrow \infty}{y_n = b}$ \\
+                $a < b \Rightarrow \exists N \in \mathbb{N}, A_n \geq N: x_n < y_n$ \\
+                Примем $\epsilon = \frac{b-a}{2}$ \\
+                $\exists N_1, N_2 \in \mathbb{N}, \forall n \geq N_1, |x_n - a| < \frac{b-a}{2},$ \\
+                                                  $\forall n \geq N_2, |y_n - b| < \frac{b-a}{2}$ \\
+            $\therefore$ при $N = max(N_1, N_2)$ \\
+            $\forall n \geq N: \begin{cases}
+                \begin{cases}
+                    x_n > a - \frac{b-a}{2} \\
+                    x_n > a + \frac{b-a}{2}
+                \end{cases} \\
+                b - \frac{b-a}{2} < y_n < b + \frac{b-a}{2}
+            \end{cases}$
+          \end{center}
+    \item Если для 3х последовательностей ${x_n}$, ${y_n}$, ${z_n}$ выполняется $x_n \leq y_n \leq z_n$
+          $lim_{x_n \rightarrow \infty}{x_n = a}\; lim_{x_n \rightarrow \infty}{z_n = a}$, то ${y_n}$ также сходится к $a$
+    \item Если $lim_{x_n \rightarrow \infty}{x_n = a \neq 0}$, то начиная с некоторого номера $|x_m| >
+          \frac{a}{2}$ все члены этой последовательности имеют тот же знак, что и $a$.
+    \item \begin{thm}
+        Пусть ${x_n}$ и ${y_n}$ сходятся к $a$ и $b$, тогда \begin{enumerate}
+            \item $\{x_n \pm y_n\} = k\; \lim_{n \rightarrow \infty}{k_n = a \pm b}$
+            \item $\forall c \{c \cdot x_n\}\; \lim_{n \rightarrow \infty}{= c \cdot a}$
+            \item $lim_{n \rightarrow \infty}{\{x_n \cdot y_n\} = a \cdot b}$
+            \item $lim_{n \rightarrow \infty}\{{\frac{1}{\textcolor{red}{x_n}}\}{= \frac{1}{a}}}$, если $a \neq 0$
+            \item $lim_{n \rightarrow \infty}{\{{\frac{y_n}{x_n}}\}= \frac{b}{a}}$, если $a \neq 0$
+        \end{enumerate}
+    \end{thm}
+\end{enumerate}
+
+\chapter{MISHUPA}
+\pagebreak
+
+\chapter{Монотонные последовательности, теорема Вейкерштрасса}
+ебаьт где это в конспекте?
+
+\chapter{MISHUPA}
+\pagebreak
+
+\chapter{Предел функции в точке и на бесконечности, Односторонние пределы.}
+
+{\LARGE КАК-ТО МАЛО НАПИСАНО}
+
+Предел функции на бесконечности определяется так:
+\section{Бесконечный предел, Предел на бесконечности}
+\begin{itemize}
+    \item $\lim_{x \rightarrow \infty}{f(x)} = A \Leftrightarrow \\ \forall \epsilon > 0, \exists \delta > 0,
+           \forall x, |x| > \delta; |f(x) - A| < \epsilon$
+    \item $\lim_{x \rightarrow x_0}{f(x)} = \infty \Leftrightarrow \\ \forall \epsilon > 0, \exists \delta > 0,
+           \forall x \in \dot{\mathcal{U}}_{\delta(x_0)}, |f(x)| > \epsilon$
+\end{itemize}
+
+\section{Односторонние пределы}
+$y = f(x)$ определена на $(x-\delta; x)$. \\
+$\lim_{x \rightarrow x_0 - 0}{f(x)} = A$: Односторонним пределом слева функции $y = f(x)$ называется $A:
+\forall \epsilon > 0, \exists \delta_1 > 0, \forall x \in (x_0-\delta_0; x_0): |f(x)-A|<\epsilon$, если $A$ существует. \\
+Анологично определяется предел справа: $\lim_{x \rightarrow x_0 + 0}{f(x)} = A$ $\forall \epsilon > 0, \exists \delta_1 > 0,
+\forall x \in (x_0+\delta_0; x_0): |f(x)-A|<\epsilon$
+
+\boxedeq{eq:*}{
+    \lim_{x \rightarrow x_0}{f(x) = a} \Leftrightarrow \lim_{x \rightarrow x_0 - 0}{f(x)} = A = \lim_{x \rightarrow x_0 + 0}{f(x)}
+}
+
+\pgfplotsset{every axis/.append style={
+        axis x line=middle,    % put the x axis in the middle
+        axis y line=middle,    % put the y axis in the middle
+        axis line style={<->}, % arrows on the axis
+        xlabel={$x$},          % default put x on x-axis
+        ylabel={$y$},          % default put y on y-axis
+        title = предел слева(точка на красном) и справа(точка на синем)
+        }}
+    \begin{tikzpicture}
+    \begin{axis}[
+    xmin=-5,xmax=5,
+    ymin=-5,ymax=5]
+    \addplot [red,thick, domain=-4:2] expression {-3};
+    \addplot [blue,thick, domain=2:5] expression {0.2*x + 3};
+    \addplot [black, dashed] coordinates {(2,-3) (2, 3.1)};
+    \draw (700,840) circle[radius=2pt];
+    \draw (700,200) circle[radius=2pt];
+    \end{axis}
+    \node [text width=6cm, anchor=west, right] at (8,3) {в данном случае предела у функции нет};
+    \end{tikzpicture}
+
+\chapter{MS}
+\pagebreak
+
+\chapter{Непрерывность функций в точке, их свойства.}
+$y = f(x)$ непрерывна в точке $x_0$, если она определена в этой точке, а также в $\mathcal{U}_{(x)}$ и при этом
+$\lim_{x \rightarrow x_0}{f(x_0) \Leftrightarrow \\ \forall \epsilon > 0, \exists \delta > 0, \forall x, |x - x_0|
+< \delta : |f(x) - f(x_0| < \epsilon }$
+$\Delta_x = x-x_0$ - приращение аргумента \\
+$\Delta f(x_0) = f(x) - f(x_0)$ - есть приращение функции в $x_0$ \\
+$y = f(x)$ непрерывна в $x_0 \Leftrightarrow$
+\boxedeq{eq:*}{
+    \forall \epsilon > 0, \exists \delta > 0, |\Delta x| < \delta \Rightarrow |\Delta f(x_0)|
+    < \epsilon \Leftrightarrow \lim_{\Delta x \rightarrow 0}{\Delta f(x_0)} = 0
+}
+\begin{quote}
+    Непрерывность функции в точке означает то, что в любой, сколь угодно маленькой окрестности, бесконечно малое приращение аргумента
+    влечёт за собой бесконечно маое приращение функции.
+\end{quote}
+
+Свойства непрерывной функции в точке
+\begin{enumerate}
+    \item Если функция непрерывна в точке $x_0$, тов некоторой окрестности этой точки эта функция ограничена.
+    \item Если функция непрерывна в точке $x_0$ и $f(x_0) \neq 0$, то в некоторой окрестности $x_0$ функция имеет тот же знак, что и $f(x_0)$
+    \item Если $y = f(x_0)$ и $y = g(x_0)$ непрерывна в точке $x_0$ и $f(x_0) < g(x_0)$, то $\exists \mathcal{U}_{(x_0)}$ где $f(x) < g(x)$
+    \item Если $y = f(x_0)$ и $y = g(x_0)$ непрерывна в точке $x_0$, то так же непрерывны $y = f(x_0) \pm y = g(x_0)$, $y = f(x_0) \cdot y = g(x_0)$, $y = f(x_0) y \div g(x_0)$
+    \item Непрерывность композиции функций: Если $y = g(x_0)$ непрерывна в точке $x_0$, $z = f(x_0)$ непрерывна в точке $y_0 = g(x_0)$, то
+          $y = f(g(x))$ непрерывна в точке $x_0$.
+          \begin{proof}
+            $ \\
+            \forall \epsilon > 0, \exists \delta > 0, \forall x \in \mathcal{U}_{\delta(x_0)}: |g(x) - g(x_0)|<\epsilon \\
+            \forall \sigma > 0, \exists \tau > 0, \forall y \in \mathcal{U}_{\tau(y_0)}: |f(y) - f(y_0)|<\sigma \\
+            \forall \sigma > 0, \exists \delta > 0, \forall x \in \mathcal{U}_{\delta(x_0)}: |f(g(x)) - f(g(x_0))|<\sigma \\
+            $
+            что и означает непрерывность $y = f(g(x))$ в точке $x_0$
+        \end{proof}
+\end{enumerate}
+
+\section{Односторонняя непрерывность}
+
+$y = f(x)$ определена на $(x_0 - \delta; x_0]$ такая функция называется непрерывной слева, если $\lim_{x \rightarrow x_0 - 0}{f(x)} = f(x_0)$
+аналогично функция называется непрерывной справа, если $\lim_{x \rightarrow x_0 + 0}{f(x)} = f(x_0)$. Так как функция непрерывна,
+она непрерывна слева и справа. \\
+Функция называется разрывна в точке $x_0$, если она либо не определена в этой точке, либо определена, но не непрерывна. \\
+Классификация точек разрыва:
+\begin{enumerate}
+    \item Если существуют и конечны оба односторонних пределаи эти односторонние пределы не равны друг другу, то эта точка - точка разрыва
+          первого рода.
+    \item Если функции справа равен пределу слева и не равен значению функции в точке, это точка устранимого разрыва.
+          $lim_{x \rightarrow x_0+0}{f(x)} = lim_{x \rightarrow x_0-0}{f(x)} \neq f(x_0)$
+    \item Если хотя бы один из односторонних пределов бесконечен или не существует - точка разрыва второго рода
+\end{enumerate}
+
+\pgfplotsset{every axis/.append style={
+        axis x line=middle,    % put the x axis in the middle
+        axis y line=middle,    % put the y axis in the middle
+        axis line style={<->}, % arrows on the axis
+        xlabel={$x$},          % default put x on x-axis
+        ylabel={$y$},          % default put y on y-axis
+        title = Точки разрыва
+        }}
+    \begin{tikzpicture}
+    \begin{axis}[
+    xmin=-5,xmax=5,
+    ymin=-5,ymax=5]
+    \addplot [red,thick, domain=-4:2] expression {-3};
+    \addplot [blue,thick, domain=2:5] expression {0.2*x + 3};
+    \addplot [black, dashed] coordinates {(2,-3) (2, 3.1)};
+    \draw (700,840) circle[radius=2pt];
+    \draw (700,200) circle[radius=2pt];
+    \node[text width=6cm, anchor=west, right] at (0, 40) {первого рода};
+    \end{axis}
+    \end{tikzpicture}
+    \begin{tikzpicture}
+        \begin{axis}[
+        xmin=-5,xmax=5,
+        ymin=-5,ymax=5]
+        \addplot [blue,thick, domain=-4:1.9] expression {0.2*x + 3};
+        \addplot [blue,thick, domain=2.1:5] expression {0.2*x + 3};
+        \addplot [black, dashed] coordinates {(2,1) (2, 3.1)};
+        \draw (700,840) circle[radius=2pt];
+        \draw [fill] (700,600) circle[radius=2pt];
+        \node[text width=6cm, anchor=west, right] at (600, 60) {устранимого \\ разрыва};
+        \end{axis}
+        \end{tikzpicture} \\
+        \begin{tikzpicture}
+            \begin{axis}[
+            xmin=-5,xmax=5,
+            ymin=-5,ymax=5]
+            \addplot [blue,thick, domain=-4:1.9] expression {0.2*x + 3};
+            \addplot [blue,thick, domain=2.1:5] expression {1/(x-2)};
+            \addplot [black, dashed] coordinates {(2,-5) (2, 5)};
+            \node[text width=6cm, anchor=west, right] at (0, 20) {второго рода};
+            \end{axis}
+            \end{tikzpicture}
+    \section{Непрерывными а любой точке ОДЗ являются}
+    \begin{itemize}
+        \item постоянные функции
+        \item $y = x$
+        \item $y = a_n x^m + a_{n-1} x^{m-1} + \dots + a_0$
+        \item дробно-рациональные функции $y = \frac{P(x)}{Q(x)}$, P(x), Q(x) - многочлены степени х
+        \item функции $\sin, \cos, \tan, \cot$
+    \end{itemize}
+
+    \chapter{MS}
+    \pagebreak
+
+    \chapter{Сравение функций, эквивалентные функции}
+    Пусть $y = f(x)$ и $y = g(x)$ определены в $\mathcal{U}_{x_0}$. Говорят, что $f(x)$ сравнима с $g(x)$, если
+    \boxedeq{eq:*}{
+        \exists \epsilon, \exists \mathcal{U}_{x_0}, \forall x_0 \in \mathcal{U}_{x_0} : |f(x)| \leq \epsilon |g(x)|
+    }
+    В этом случае пишут, что $f(x) = O(g(x))$. \\
+    Очевидно, что $f(x) = O(g(x))$ при $x \rightarrow x_0 \Leftrightarrow \lim_{x \rightarrow x_0}{\frac{f(x)}{f(x)}} \leq \epsilon$
+    а это означает, что $\frac{f(x)}{f(x)}$ ограничена в $\mathcal{U}_{x_0}$.
+
+    Говорят, что $y = f(x)$ бесконечно мала по сравнению $y = g(x)$ при $x \rightarrow x_0$, если
+    $\forall \epsilon > 0, \exists \delta > 0, \forall x \in \mathcal{U}_{x_0} : |f(x)| < \\
+    \textcolor{red}{\LARGE{HILFE\_MIR!\_ICH\_HABE\_DAS\_KONSPEKT\_NICHT!}}$ тогда пишут, что
+    $f(x) = o(f(x))$ при $x \rightarrow x_0 \Rightarrow \lim_{x \rightarrow x_0}{|\frac{f(x)}{f(x)}|} = 0 \Leftrightarrow f(x0 = f(x) \cdot \alpha(x))$
+    где $\alpha(x)$ - БМФ при $x \rightarrow x_0$.
+
+    \section{Эквивалентность}
+
+    Функции $y = f(x)$ и $y = g(x)$ квивалентны при $x \rightarrow x_0$, если $\lim_{x \rightarrow x_0}{\frac{f(x)}{g(x)}} = 1$ или
+    конечному числу А, тогда пишется $f(x) \thicksim g(x)$ при $x \rightarrow x_0 \Rightarrow f(x) \thicksim g(x) \Leftrightarrow
+    f(x) = g(x) + o(g(x))$, тут $y = g(x)$ - главная часть $y = f(x)$
+    \begin{thm}
+        Если $f(x) \thicksim g(x)$ при $x \rightarrow x_0$, то $\forall x$: \begin{itemize}
+            \item $\lim_{x \rightarrow x_0}{f(x) \cdot h(x)} = lim_{x \rightarrow x_0}{g(x) \cdot h(x)}$
+            \item $\lim_{x \rightarrow x_0}{\frac{f(x)}{h(x)}} = \lim_{x \rightarrow x_0}{\frac{g(x)}{h(x)}}$
+        \end{itemize}
+    \end{thm}
+
+    Таблица эквивалентных при $x \rightarrow x_0$: \\
+    \begin{center}
+        \begin{tabular}{c|c}
+            sin(x) & x\\
+            tg(x) & x\\
+            arcsin(x) & x\\
+            arctg(x) & x\\
+            $1 - cos(x)$ & $\frac{x^2}{2}$ \\
+            $\ln{a}$ & x \\
+            $a^x - 1$ & $x \cdot \ln{a}$ \\
+            $\log_{a}{1+x}$ & $\frac{x}{\ln{a}}$ \\
+            $e^x - 1$ & x \\
+            $(1+x)^\beta - 1$ & $\beta x$ \\
+            $x^\beta - 1$ & $\beta(x-1)$
+
+
+
+        \end{tabular}
+    \end{center}
+
+\chapter{МС}
+
+\chapter{Непрерывность функции на отрезке}
+Пусть $y = f(x), [a;b] \subset \mathcal{D}(y)$. $y = f(x)$ непрерывна на $[a;b]$, если она непрерывна в каждой точке интервала $(a;b)$ и
+непрерывна справа в точке $a$ и слува в точке $b$.
+\begin{thm}
+    Кантора о вложенных отрезках. \\
+    Имеется $[a;b]$ и совокупность вложенных отрезков $[a;b] \supset [a_1;b_1] \supset [a_2;b_2] \supset \dots \supset [a_n; b_n]
+    \supset \dots$ и при этом $\lim_{n \rightarrow \infty}{b_n - a_n} = 0$\footnote{вложены друг в друга и уменьшаются}, тогда
+    \boxedeq{eq:*}{
+        \exists a \in [a; b] : \lim_{n \rightarrow \infty}{a_n} = \lim_{n \rightarrow \infty}{b_n}
+    }
+\end{thm}
+Используя теорему Кантора Докажем теорему Больцана-Вейерштрасса
+\begin{proof}
+    $\forall \{x_n\} \subset [a; b]$ можно выделить мходящуюся подпоследовательность:\\
+    Разобьём $[a; b]$ точкой С пополам и рассмотрим $[a_1; b_1]$, половину первоначального отрезка.\\
+    Эта половна содержит бесконечно много точек из $\{x_n\}$. Пусть $x_{n_1} \in [a_1; b_1]$. \\
+    Точкой $C_2$ Разобьём отрезок $[a_1; b_1]$ пополам и мрассмотрим $[a_2; b_2]$, она содержит бесконечно много точек из $\{x_n\}$ \\
+    и в этом отрезке обозначим $x_{n_k}$, чтобы $n_2 > n_1$ и так далее. Получим \\
+    \begin{center}
+        $\{x_{n_k}\} \in [a_k; b_k], \forall k \in \mathbb{N} \Rightarrow$ \\
+        $a_k \leq x_{n_k} \leq, b_k - a_k = \frac{b_k - a_k}{2^k}$ \\
+        $\lim_{n \rightarrow \infty}{\frac{b_k - a_k}{2^k} = 0}$ \\
+        По теореме Кантора имеем: $\lim_{n \rightarrow \infty}{a_k} = \lim_{n \rightarrow \infty}{b_k} = a$\\
+        В неравенстве $a_k \leq x \leq b_k$ перейдём к пределам.\\
+        По теореме о 2х милиционерах:\\
+        $a_0 \leq \lim_{n \rightarrow \infty}{x_{n_k}} \leq a_0 \Rightarrow \lim_{n \rightarrow \infty}{x_{n_k}} = a_0 \in [a; b]$
+    \end{center}
+\end{proof}
+\begin{thm}
+Если $y = f(x)$ непрерывна на $[a; b]$, то она ограничена на этом отрезке. \\
+$ \exists c > 0, \forall x \in [a;b]: |f(x)| \leq c $
+\end{thm}
+\begin{proof}
+    Пусть $y = f(x)$ непрерывна на $[a; b]$. Предположим, что она неограничена на этом отрезке. \\
+    Отсюда $\forall n \in \mathbb{N}, \exists x_n \in [a;b]: |f(x)| \geq n$\\
+    Отсюда по Больцана-Вейерштрасса в $\{x_n\}$ можно выделить сходящуюся подпоследовательность $\{x_{n_k}\}$ с пределом $x_0 \in [a; b]$\\
+    Отсюда $\forall k, |f(x_{x_k})| > n_k, \lim_{k \rightarrow \infty}{|f(x_{x_k})|} \geq \infty$ \\
+    Поскольку $\{x_n\} \rightarrow x_0$, в $x_0$ функция не является непрерывной, а терпит разрыв второго рода, что протеворечит нашему утверждению.
+\end{proof}
+
+\begin{thm}
+    Вейерштрасса. \\
+    Непрерывная на $[a; b]$ функция достинает на нём своего максимального и минимального значений.
+\end{thm}
+
+\chapter{МС}
+
+\chapter{Производная функции, односторонние производные}
+
+Пусть $y = f(x), x_0 \in \mathcal{D}(f(x))$. Рассмотрим график функции. и  прямые $y = k(x - x_0) + f(x_0)$
+Среди всех таких прямвх рассмотрим ту, которая наиболее тесно прижимается к графику функции $f(x)$.
+Такая прямая называется касательной к графику функции в точке $(x_0; f(x_0))$. Эту прямую можно найти так:
+На графике функции рассмотрим кроме $(x_0; f(x_0))$ и прямую, проходящую через эти точки. Эта прямая - секущая
+
+
+
+
+
+
+
+
+
+\end{document}

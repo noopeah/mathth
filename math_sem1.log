@@ -1,0 +1,1180 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  31 DEC 2019 10:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**math_sem1.tex
+(./math_sem1.tex
+LaTeX2e <2019-10-01> patch level 3
+(c:/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
+(c:/texlive/2019/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/12/08 3.37 The Babel package
+
+(c:/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/12/08 3.37 Babel switching mechanism
+)
+(c:/texlive/2019/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+(c:/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/12/08 3.37 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(c:/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+(c:/texlive/2019/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(c:/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks14
+\labelindent=\skip43
+\enit@outerparindent=\dimen104
+\enit@toks=\toks15
+\enit@inbox=\box27
+\enit@count@id=\count91
+\enitdp@description=\count92
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks17
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen114
+\pgfutil@tempdimb=\dimen115
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box30
+
+(c:/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen118
+\pgf@y=\dimen119
+\pgf@xa=\dimen120
+\pgf@ya=\dimen121
+\pgf@xb=\dimen122
+\pgf@yb=\dimen123
+\pgf@xc=\dimen124
+\pgf@yc=\dimen125
+\pgf@xd=\dimen126
+\pgf@yd=\dimen127
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count105
+\c@pgf@countb=\count106
+\c@pgf@countc=\count107
+\c@pgf@countd=\count108
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count109
+ (c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) (c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen128
+\pgfmath@count=\count112
+\pgfmath@box=\box31
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen129
+\pgf@picmaxx=\dimen130
+\pgf@picminy=\dimen131
+\pgf@picmaxy=\dimen132
+\pgf@pathminx=\dimen133
+\pgf@pathmaxx=\dimen134
+\pgf@pathminy=\dimen135
+\pgf@pathmaxy=\dimen136
+\pgf@xx=\dimen137
+\pgf@xy=\dimen138
+\pgf@yx=\dimen139
+\pgf@yy=\dimen140
+\pgf@zx=\dimen141
+\pgf@zy=\dimen142
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen143
+\pgf@path@lasty=\dimen144
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen145
+\pgf@shorten@start@additional=\dimen146
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count114
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen147
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen148
+\pgf@pt@y=\dimen149
+\pgf@pt@temp=\dimen150
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen151
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen152
+\pgf@sys@shading@range@num=\count115
+\pgf@shadingcount=\count116
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box35
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box36
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen153
+\pgf@nodesepend=\dimen154
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+)) (c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen155
+\pgffor@skip=\dimen156
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count117
+\pgfplotmarksize=\dimen157
+)
+\tikz@lastx=\dimen158
+\tikz@lasty=\dimen159
+\tikz@lastxsaved=\dimen160
+\tikz@lastysaved=\dimen161
+\tikz@lastmovetox=\dimen162
+\tikz@lastmovetoy=\dimen163
+\tikzleveldistance=\dimen164
+\tikzsiblingdistance=\dimen165
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count118
+\tikznumberofchildren=\count119
+\tikznumberofcurrentchild=\count120
+\tikz@fig@count=\count121
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count122
+\pgfmatrixcurrentcolumn=\count123
+\pgf@matrix@numberofcolumns=\count124
+)
+\tikz@expandcount=\count125
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(c:/texlive/2019/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks34
+\t@pgfplots@tokb=\toks35
+\t@pgfplots@tokc=\toks36
+\pgfplots@tmpa=\dimen166
+\c@pgfplots@coordindex=\count126
+\c@pgfplots@scanlineindex=\count127
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count128
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count129
+\t@pgfplotstable@a=\toks37
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count130
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-pdftex.def)))
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen167
+\pgfdecoratedremainingdistance=\dimen168
+\pgfdecoratedinputsegmentcompleteddistance=\dimen169
+\pgfdecoratedinputsegmentremainingdistance=\dimen170
+\pgf@decorate@distancetomove=\dimen171
+\pgf@decorate@repeatstate=\count131
+\pgfdecorationsegmentamplitude=\dimen172
+\pgfdecorationsegmentlength=\dimen173
+)
+\tikz@lib@dec@box=\box41
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
+\pgfplots@numplots=\count132
+\pgfplots@xmin@reg=\dimen174
+\pgfplots@xmax@reg=\dimen175
+\pgfplots@ymin@reg=\dimen176
+\pgfplots@ymax@reg=\dimen177
+\pgfplots@zmin@reg=\dimen178
+\pgfplots@zmax@reg=\dimen179
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (c:/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks43
+)
+(c:/texlive/2019/texmf-dist/tex/latex/mathtools/empheq.sty
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+
+(c:/texlive/2019/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2019/07/31 v1.22 mathematical typesetting tools
+
+(c:/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count133
+\calc@Bcount=\count134
+\calc@Adimen=\dimen180
+\calc@Bdimen=\dimen181
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count135
+\calc@Cskip=\skip52
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count136
+\l_MT_multwidth_dim=\dimen182
+\origjot=\skip53
+\l_MT_shortvdotswithinadjustabove_dim=\dimen183
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen184
+\l_MT_above_intertext_sep=\dimen185
+\l_MT_below_intertext_sep=\dimen186
+\l_MT_above_shortintertext_sep=\dimen187
+\l_MT_below_shortintertext_sep=\dimen188
+)
+\l_EQ_equationtype_int=\count137
+\l_EQ_alignmentmode_int=\count138
+\l_EQ_totalwidth_dim=\dimen189
+\l_EQ_displaywidth_dim=\dimen190
+\l_EQ_temp_linewidth_dim=\dimen191
+\EmphEqdelimitershortfall=\dimen192
+\EmphEqdelimiterfactor=\count139
+\g_EQ_toptag_height_dim=\dimen193
+\g_EQ_bottomtag_depth_dim=\dimen194
+\g_EQ_toprow_height_dim=\dimen195
+\g_EQ_bottomrow_depth_dim=\dimen196
+\g_EQ_widesttag_dim=\dimen197
+\EQ_mathdisplay_box=\box42
+\EQ_tag_box=\box43
+\g_EQ_temprow_int=\count140
+)
+(c:/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen198
+\WF@size=\dimen199
+\c@WF@wrappedlines=\count141
+\WF@box=\box44
+\WF@everypar=\toks44
+Package: wrapfig 2003/01/31  v 3.6
+)
+\c@thm=\count142
+ (./math_sem1.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
+.
+
+(c:/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+)
+\openout1 = `math_sem1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ ABD: EveryShipout initializing macros
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count143
+\scratchdimen=\dimen256
+\scratchbox=\box45
+\nofMPsegments=\count144
+\nofMParguments=\count145
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen257
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
+\everyMPtoPDFconversion=\toks46
+) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.16} (current compat level: 1.5).
+
+\Hy@linkcounter=\count149
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[1
+
+] [2]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+[3
+
+]
+Overfull \hbox (99.84491pt too wide) in paragraph at lines 168--169
+[][] 
+ []
+
+[4]
+NOTE: coordinate (2Y5.0e0],3Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y4.58334e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y4.16668e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y3.75002e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y3.33336e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.9167e0],3Y0.0e0]) has been dropped because it is unbounde
+d (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.50004e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.08338e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.66672e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.25006e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y8.334e-1],3Y0.0e0]) has been dropped because it is unbounde
+d (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y4.1673999e-1],3Y0.0e0]) has been dropped because it is unbo
+unded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y7.999e-5],3Y0.0e0]) has been dropped because it is unbounde
+d (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y5.0e0],3Y0.0e0]) has been dropped because it is unbounded (
+in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y4.58334e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y4.16668e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y3.75002e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y3.33336e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.9167e0],3Y0.0e0]) has been dropped because it is unbounde
+d (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.50004e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y2.08338e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.66672e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y1.25006e0],3Y0.0e0]) has been dropped because it is unbound
+ed (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y8.334e-1],3Y0.0e0]) has been dropped because it is unbounde
+d (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y4.1673999e-1],3Y0.0e0]) has been dropped because it is unbo
+unded (in y). (see also unbounded coords=jump). 
+NOTE: coordinate (2Y7.999e-5],3Y0.0e0]) has been dropped because it is unbounde
+d (in y). (see also unbounded coords=jump). 
+
+Overfull \hbox (105.40854pt too wide) in paragraph at lines 173--201
+[] [] 
+ []
+
+
+Overfull \hbox (88.69795pt too wide) in paragraph at lines 173--201
+[] []
+ []
+
+[5] [6]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Overfull \hbox (17.68355pt too wide) in paragraph at lines 212--214
+\T2A/cmr/bx/n/10 лен-ных от дан-ной фик-си-ро-ван-ной точ-ки, на-зы-ва-е-мой це
+н-тром окруж-
+ []
+
+[7
+
+] [8] [9]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+[10
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+[11
+
+]
+Overfull \hbox (2.56679pt too wide) in paragraph at lines 316--320
+[]\T2A/cmr/m/n/10 Сходящаяся по-сле-до-ва-тель-ность име-ет един-ствен-ный пре-
+дел. Дей-стви-
+ []
+
+
+Overfull \hbox (97.12753pt too wide) has occurred while \output is active
+\T2A/cmr/m/sl/10 Глава 5.  Числовая последовательность и ее предел. Свойства сх
+одящихся последовательностей. \T2A/cmr/m/n/10 12
+ []
+
+[12]
+Overfull \hbox (97.12753pt too wide) has occurred while \output is active
+\T2A/cmr/m/sl/10 Глава 5.  Числовая последовательность и ее предел. Свойства сх
+одящихся последовательностей. \T2A/cmr/m/n/10 13
+ []
+
+[13]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+[14
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
+[15
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
+[16
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+75.
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 375.
+
+Overfull \hbox (114.8951pt too wide) in paragraph at lines 411--412
+[][] 
+ []
+
+[17
+
+]
+Overfull \hbox (22.8346pt too wide) has occurred while \output is active
+\T2A/cmr/m/sl/10 Глава 9.  Предел функции в точке и на бесконечности, Односторо
+нние пределы. \T2A/cmr/m/n/10 18
+ []
+
+[18]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 10.
+[19
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 11.
+
+Overfull \hbox (17.40475pt too wide) in paragraph at lines 417--426
+\OMS/cmsy/m/n/10 U[]$ \T2A/cmr/m/n/10 и при этом $[][] []$
+ []
+
+[20
+
+]
+Overfull \hbox (40.1728pt too wide) in paragraph at lines 460--462
+\T2A/cmr/m/n/10 ции в точ-ке, это точ-ка устра-ни-мо-го раз-ры-ва. $\OML/cmm/m/
+it/10 lim[][] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 lim[][] \OMS/cmsy/m/n/10 6\OT1
+/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (63.0058pt too wide) in paragraph at lines 484--507
+[][] [] 
+ []
+
+[21] [22]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 12.
+[23
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 13.
+
+LaTeX Font Warning: Command \LARGE invalid in math mode on input line 530.
+
+
+Overfull \hbox (5.09053pt too wide) in paragraph at lines 528--533
+[][]$ \T2A/cmr/m/n/10 то-гда
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 541.
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+[24
+
+] [25]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 14.
+[26
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 15.
+
+Overfull \hbox (9.13028pt too wide) in paragraph at lines 572--577
+\T2A/cmr/m/it/10 Имеется $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; 
+\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ]$ \T2A/cmr/m/it/10 и со-во-куп-ность вло-жен
+-ных от-рез-ков $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; \OML/cmm/
+m/it/10 b\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^[ \OT1/cmr/m/n/10 [\OML/cmm/m/it/
+10 a[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 b[]\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10 
+^^[ \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 b[]
+\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10 ^^[
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--586
+
+ []
+
+[27
+
+] [28]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 16.
+[29
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 17.
+[30
+
+] (./math_sem1.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25361 strings out of 492163
+ 627286 string characters out of 6129075
+ 830408 words of memory out of 5000000
+ 29309 multiletter control sequences out of 15000+600000
+ 27405 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,15n,103p,724b,2023s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.p
+fb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/sym
+bols/msam10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pf
+b><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texl
+ive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2019/t
+exmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2019/texmf-dist/
+fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2019/texmf-dist/fonts/type
+1/public/cm-super/sfbx2488.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/c
+m-super/sfrm0600.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sf
+rm0700.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb
+><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texli
+ve/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2019/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2019/texmf-dist/f
+onts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1
+/public/cm-super/sfti1000.pfb>
+Output written on math_sem1.pdf (31 pages, 466870 bytes).
+PDF statistics:
+ 225 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
