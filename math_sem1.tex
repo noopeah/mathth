@@ -704,6 +704,48 @@ $x_1 - x_0 = \Delta x, f(x_1) - f(x_0) = \Delta f(x_0) \\ f'(x_0) = lim_{\Delta 
 \pagebreak
 
 \chapter{Основные правила дифференцирования, производные элементарных функций.}
+Так как производная - предел, из свойств пределов можно вывести свойства производных:
+\begin{enumerate}
+  \item $(f \pm g)' = f' \pm g'$
+  \item $(cf)' = c(f)'$
+  \item $(f \cdot g)' = f'g \cdot g'f$
+  \item\footnote{proofs are pending} $(\frac{f}{g})' = \frac{f'g - g'f}{g^2}$
+  \item $c' = 0$
+\end{enumerate}
+%\begin{table}
+  \begin{center}
+      \begin{tabular}{c|c}
+        $f(x)$ & $f'(x)$ \\
+        \hline \\
+        $tg(x)$ & $\frac{1}{cos^2(x)}$ \\
+          \hline \\
+        $ctg(x)$ & $\frac{-1}{cos^2(x)}$ \\
+          \hline \\
+        $x^k$ & $k \cdot x^{x-1}$ \\
+          \hline \\
+        $e^x$ & $e^x$ \\
+          \hline \\
+        $log_a x$ & $\frac{1}{x \cdot ln(a)}$ \\
+          \hline \\
+        $ln(x)$ & $\frac{1}{x}$ \\
+          \hline \\
+        $arcsin(x)$ & $\frac{1}{\sqrt{1 - x^2}}$ \\
+          \hline \\
+        $arccos(x)$ & $\frac{-1}{\sqrt{1 - x^2}}$ \\
+          \hline \\
+        $arctg(x)$ & $\frac{1}{1 + x^2}$ \\
+          \hline \\
+        $arcctg(x)$ & $\frac{-1}{1 + x^2}$ \\
+      \end{tabular}
+  \end{center}
+%\end{table}
+Производная сложной функции:
+\begin{itemize}
+  \item $(f(g(x)))' = f'(g(x)) \cdot g'(x)$
+  \item $(f^{-1}(y))' = \frac{1}{f'(x)}$ при $y = f(x)$
+  \item $f'(x) = \frac{1}{f^{-1}(y)}$ при $y = f(x)$
+
+\chapter{Дифференциал функции}
 
 Функция называется дифференцируемой в точке $x_0$, если её $\Delta f(\Delta x)$ можно предстваить так:
 $f(x) - f(x_0) = A(x - x_0) + o(x - x_0)$ где $A$ - конечное число; $A(x - x_0)$ называется дифференциалом.
@@ -730,7 +772,7 @@ $f(x) - f(x_0) = A(x - x_0) + o(x - x_0)$ где $A$ - конечное числ
 Заметим, что формула справедлива и когда $x$ - функция.
 \boxedeq{eq:*}{df(x(t)) = (f'(x(t)))' dt = f'(x) \cdot x(t)dt = f'(x)dx}
 
-Дифференциал сожно использовать и при приблиэённом вычислении значения функции:\\
+Дифференциал можно использовать и при приблиэённом вычислении значения функции:\\
 $$f(x) - f(x_0) = df(x_0) + o(x - x_0), x \rightarrow x_0 \Rightarrow$$ при $x$ близких к $x_0$
 $o(x- x_0) \approx 0 \Rightarrow f(x) - f(x_0) \approx df(x_0) \Rightarrow$ \\
 \boxedeq{eq:*}{f(x) \approx f(x_0) + df(x_0)}
@@ -818,19 +860,7 @@ $$
       F'(c) = 0 \Leftrightarrow f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} \cdot g'(c) = 0
     $$
   \end{proof}
-\end{thm}
-
-\chapter{Уравнение касательной и нормали к графику функции}
-Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
-\pagebreak
-
-\chapter{Основные правила дифференцирования. Производные элементарных функций}
-Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
-\pagebreak
-
-\chapter{Дифференциал функции}
-Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
-\pagebreak
+\end{thm}\pagebreak
 
 \chapter{Производные и дифференциалы высших порядков}
 Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
@@ -840,13 +870,120 @@ $$
 Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
 \pagebreak
 
-\chapter{Локальный экстремум функции, теорема Ферма(та, которая отстойная, а не которая великая терема Ферма)}
-Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
+\chapter{Локальный экстремум функции, теорема Ферма}
+
+Определение локального максимума и локального минимума
+Пусть функция $y=f(x)$ определена в некоторой $\delta-$окрестности точки $x_0$, где $\delta>0$. Говорят, что функция $f(x)$ имеет локальный максимум в точке $x_0$,
+$\forall x \neq x_0 \in \mathcal{U}_{\delta(x_0)}: f(x) \leq f(x_0)$. Если поменять знак на строгий, то максимум строгий, если знак перевернуть, то будет смнимум, а если
+знак перевернуть и поменять на строгий, то строгого минимума.
+
+\begin{thm}
+  Ферма: Пусть $y = f(x)$ в точке $x_0$ имеет локальный экстремум\footnote{max || min} $\Rightarrow$ если
+  $$\exists \mathcal{U}_{(x_0)} \forall x \in \mathcal{U}_{(x_0)}: f(x_0) \leq f(x) $$ \\ для мин. экстр $f(x_0) \geq f(x)}$
+  \begin{proof}
+    Если $x_0$ - точка локального максимума функции $f(x)$, то $\exists \mathcal{U}_{(x_0)} \forall x \in \mathcal{U}_{(x_0)}: f(x_0) \leq f(x) $.
+    Рассмотрим односторонние пределы:
+    $$
+      \lim_{x \rightarrow x_0 - 0}{\frac{f(x) - f(x_0)}{x - x_0}} \geq 0, f(x) - f(x_0) \leq 0, x < x_0
+    $$ \\ $$
+      \lim_{x \rightarrow x_0 + 0}{\frac{f(x) - f(x_0)}{x - x_0}} \leq 0, f(x) - f(x_0) \leq 0, \frac{f(x) - f(x_0)}{x - x_0} \geq 0
+    $$
+    Так как функция дифференцируема в точке, то Существует предел, равный производной функции, равный обоим односторонним пределам и
+    $$
+    \begin{cases}
+      f'(x_0) \geq 0 \\
+      f'(x_0) \leq 0
+    \end{cases} \Rightarrow f'(x_0) = 0
+    $$
+  \end{proof}
+\end{thm}
 \pagebreak
 
 \chapter{Теоремы Ролля, Лагранжа, Коши}
-Данная глава находится в разработке, при отсутствии в ней полезной информации (или вообще какой-либо информации вините еврея, араба и немца (с явными расистскими наклонностями)
-\pagebreak
+\begin{thm}
+
+Ролля: Пусть $y = f(x)$ непрерывна на $[a;b]$ и дифференцируема на $(a;b)$ и Если $f(a) = f(b), \exists c \in [a;b]: f'(c) = 0 \forall (a;b)$
+
+\begin{proof}
+  Если $f(x)$ не постоянна, то по теореме Вейерштрасса она достигает на этом отрезке своего маесимального и минимального значений, что не равны друг другу,
+  а значит, чтчо хоть один их нах отличается от  $f(a) = f(b)$. Обозначим такую точку экстремума $c \in (a;b)$ \\
+  $f(c) \neq f(a) = f(b)$ и по теореме Ферма $f'(c) = 0$
+      \begin{center}
+        \pgfplotsset{every axis/.append style={
+                axis x line=middle,    % put the x axis in the middle
+                axis y line=middle,    % put the y axis in the middle
+                axis line style={<->}, % arrows on the axis
+                xlabel={$x$},          % default put x on x-axis
+                ylabel={$y$},          % default put y on y-axis
+                title = удовлетв. усл.
+                }}
+            \begin{tikzpicture}
+            	\begin{axis}[
+            		xmin=-5,xmax=5,
+            		ymin=-5,ymax=5]
+            	   \addplot [red,thick, domain=-3:3] expression {cos(deg(3*x))+2};
+                 \draw [fill] (800,500) circle[radius=2pt];
+                 \node[text width=1cm, anchor=west, right] at (760, 450) {$b$};
+                 \draw [fill] (200,500) circle[radius=2pt];
+                 \node[text width=1cm, anchor=west, right] at (160, 450) {$a$};
+                 \addplot [blue,thick, domain=-2.5:-1.75] expression {3};
+                 \addplot [blue,thick, domain=-1.5:-0.75] expression {1};
+                 \addplot [blue,thick, domain=-0.25:0.25] expression {3};
+                 \addplot [blue,thick, domain=0.75:1.25] expression {1};
+                 \addplot [blue,thick, domain=1.75:2.5] expression {3};
+            	\end{axis}
+            \end{tikzpicture}\\
+            Для функции удовлетворяющей условиям теоремы Ролля обязательно найдётся точка на графике, касательной в которой будет горизонтальная прямая
+          \end{center}
+  \end{proof}
+\end{thm}
+\begin{thm}
+  Каши: Пусть $y = f(x)$ и Пусть $y = g(x)$ непрерывны на $[a; b]$ и дифференцируемы на $(a;b), g'(x) \neq 0$, тогда $$
+    \exists c \in (a;b): \frac{f(a) - f(b)}{g(a) - g(b)} = \frac{f'(c)}{g'(c)}
+  $$
+  \begin{proof}
+    Пусть функция $F(x) = f(x) - f(a) - \frac{f(b) - f(a)}{g(b) - g(a)} \cdot (g(x) - g(a))$.
+    Функция $F$ уодвлетворяет условиям теоремы Ролля $\Rightarrow \\ \exists c \in (a; b): F'(x) = 0$
+    $$
+      F'(x) = f'(x) - \frac{f(b)-f(a)}{g(b) - g(a)} \cdot g'(x)
+
+      F'(c) = 0 \Leftrightarrow f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} \cdot g'(c) = 0
+    $$
+  \end{proof}
+\end{thm}
+\begin{thm}
+  Лагранжа о конечном приращении. \\ Пусть $y = f(x)$ непрерывна на $[a;b]$ и дифференцируема на $(a;b)$ тогда
+  $\exists c \in (a;b) : \frac{f(b) - f(a)}{b - a} = f'(c)$
+  \begin{proof}
+    наряду с $y = f(x)$ рассмотрим $g(x) \equiv x$. Заметим, что эти 2 функции удовлетворяют всем условиям теоремы Каши. Тогда получается,
+    что $\exists c \in (a;b) : \frac{f(b) - f(a)}{g(b) - g(a)} = \frac{f'(c)}{g'(c)} = \frac{f(b) - f(a)}{b - a} = \frac{f'(c)}{1}$
+  \end{proof}
+\end{thm}
+\begin{center}
+  \pgfplotsset{every axis/.append style={
+          axis x line=middle,    % put the x axis in the middle
+          axis y line=middle,    % put the y axis in the middle
+          axis line style={<->}, % arrows on the axis
+          xlabel={$x$},          % default put x on x-axis
+          ylabel={$y$},          % default put y on y-axis
+          title = Геосмысл,
+          %ticks=none
+          }}
+      \begin{tikzpicture}
+        \begin{axis}[
+          xmin=-5,xmax=5,
+          ymin=-5,ymax=5]
+           \addplot [red,thick, domain=-4:4] expression {2*sqrt(x + 4) - 1};
+           \addplot [blue,dashed, domain=-4:4] expression {x+3.5};
+           \addplot [blue,dashed, domain=-4:4] expression {x+4};
+           \draw [fill] (200,600) circle[radius=2pt];
+        \end{axis}
+      \end{tikzpicture}
+    \end{center}
+Геосмысл теоремы Лагранжа:
+Прямая, прохлдящая через точки $(a; f(a)), (b; b(b))$ задаётся уравнением $y = k(x-a) + f(a)$. $k$ найдём из условия прохождения этой прямой через точку
+$(b; f(b))$. $f(b) = k(b - a)+f(a)$ \\ $k = \frac{f(b) - f(a)}{b - a} \Rightarrow$ на $(a;b)$ в условиях теоремы Лагранжа Существует такая точка $c$,
+в которой касательная к графику функции параллельна хорде, стягивающей $(a; f(a)), (b; b(b))$
 
 \chapter{Правило Лопиталя}
 Пусть функции $f(x)$ и $g(x)$ непрерывны и дифференцируемы в окрестности точки $x_{0}$ и обращаются в нуль в этой точке: $f(x_{0})=g(x_{0})=0$. Пусть $g'(x_{0})\neq 0$. Если существует предел $\lim_{x \to x_{0}} \dfrac{f'(x)}{g'(x)}$, то $\lim_{x \to x_{0}} \dfrac{f(x)}{g(x)} = \lim_{x \to x_{0}} \dfrac{f'(x)}{g'(x)}$.\\

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  1 JAN 2020 17:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  2 JAN 2020 00:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1008,59 +1008,57 @@ Overfull \hbox (46.43663pt too wide) has occurred while \output is active
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 19.
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 717.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 720--720
-
- []
-
 [34
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 728--729
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 20.
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 720.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 733--734
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+
+ []
+
+[35
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--736
+Underfull \hbox (badness 10000) in paragraph at lines 736--737
 
  []
 
-./math_sem1.tex:742: Double subscript.
-l.742 ...\approx \vert_{x_0 \approx 1 = \sqrt{x}}_
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--739
+
+ []
+
+./math_sem1.tex:745: Double subscript.
+l.745 ...\approx \vert_{x_0 \approx 1 = \sqrt{x}}_
                                                   {\vert_{x = 1}} $$ \\
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 742--743
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 744--745
+Underfull \hbox (badness 10000) in paragraph at lines 747--748
 
  []
 
-
-Overfull \hbox (207.2285pt too wide) has occurred while \output is active
-\T2A/cmr/m/sl/10 √À¿¬¿ 19.  Œ—ÕŒ¬Õ€≈ œ–¿¬»À¿ ƒ»‘‘≈–≈Õ÷»–Œ¬¿Õ»ﬂ, œ–Œ»«¬ŒƒÕ€≈ ›À≈Ã≈Õ“¿–Õ€’ ‘”Õ ÷»…. \T2A/cmr/m/n/10 35
- []
-
-[35]
-./math_sem1.tex:752: Extra }, or forgotten $.
-l.752 ...ª—è –º–∏–Ω. —ç–∫—Å—Ç—Ä $f(x_0) \geq f(x)}
+./math_sem1.tex:755: Extra }, or forgotten $.
+l.755 ...ª—è –º–∏–Ω. —ç–∫—Å—Ç—Ä $f(x_0) \geq f(x)}
                                                   $
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1068,29 +1066,24 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 758--758
-
- []
-
-
-Overfull \hbox (207.2285pt too wide) has occurred while \output is active
-\T2A/cmr/m/sl/10 √À¿¬¿ 19.  Œ—ÕŒ¬Õ€≈ œ–¿¬»À¿ ƒ»‘‘≈–≈Õ÷»–Œ¬¿Õ»ﬂ, œ–Œ»«¬ŒƒÕ€≈ ›À≈Ã≈Õ“¿–Õ€’ ‘”Õ ÷»…. \T2A/cmr/m/n/10 36
- []
-
 [36]
-./math_sem1.tex:817: Missing $ inserted.
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+
+ []
+
+[37]
+./math_sem1.tex:820: Missing $ inserted.
 <inserted text> 
                 $
-l.817 
+l.820 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./math_sem1.tex:817: Missing } inserted.
+./math_sem1.tex:820: Missing } inserted.
 <inserted text> 
                 }
-l.817 
+l.820 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1098,18 +1091,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./math_sem1.tex:817: Display math should end with $$.
+./math_sem1.tex:820: Display math should end with $$.
 <to be read again> 
                    \@@par 
-l.817 
+l.820 
       
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-./math_sem1.tex:817: Extra }, or forgotten \endgroup.
+./math_sem1.tex:820: Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.817 
+l.820 
       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1117,54 +1110,54 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./math_sem1.tex:818: Missing $ inserted.
+./math_sem1.tex:821: Missing $ inserted.
 <inserted text> 
                 $
-l.818       F'(c) = 0 \Leftrightarrow
+l.821       F'(c) = 0 \Leftrightarrow
                                       f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} \...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-./math_sem1.tex:820: LaTeX Error: Command \end{proof} invalid in math mode.
+./math_sem1.tex:823: LaTeX Error: Command \end{proof} invalid in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.820   \end{proof}
+l.823   \end{proof}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math_sem1.tex:820: LaTeX Error: Something's wrong--perhaps a missing \item.
+./math_sem1.tex:823: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.820   \end{proof}
+l.823   \end{proof}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math_sem1.tex:820: LaTeX Error: Something's wrong--perhaps a missing \item.
+./math_sem1.tex:823: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.820   \end{proof}
+l.823   \end{proof}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./math_sem1.tex:820: Missing $ inserted.
+./math_sem1.tex:823: Missing $ inserted.
 <inserted text> 
                 $
-l.820   \end{proof}
+l.823   \end{proof}
                    
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1172,16 +1165,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-
-Overfull \hbox (207.2285pt too wide) has occurred while \output is active
-\T2A/cmr/m/sl/10 √À¿¬¿ 19.  Œ—ÕŒ¬Õ€≈ œ–¿¬»À¿ ƒ»‘‘≈–≈Õ÷»–Œ¬¿Õ»ﬂ, œ–Œ»«¬ŒƒÕ€≈ ›À≈Ã≈Õ“¿–Õ€’ ‘”Õ ÷»…. \T2A/cmr/m/n/10 37
- []
-
-[37]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 20.
-[38
-
-]
+[38]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 21.
 [39
 
@@ -1191,6 +1175,20 @@ Overfull \hbox (207.2285pt too wide) has occurred while \output is active
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 23.
+./math_sem1.tex:843: Extra }, or forgotten $.
+l.843 ...ª—è –º–∏–Ω. —ç–∫—Å—Ç—Ä $f(x_0) \geq f(x)}
+                                                  $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
+
+ []
+
 [41
 
 ]
@@ -1198,97 +1196,188 @@ Overfull \hbox (207.2285pt too wide) has occurred while \output is active
 [42
 
 ]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 25.
-[43
+./math_sem1.tex:910: Missing $ inserted.
+<inserted text> 
+                $
+l.910 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 26.
-[44
+./math_sem1.tex:910: Missing } inserted.
+<inserted text> 
+                }
+l.910 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 27.
+./math_sem1.tex:910: Display math should end with $$.
+<to be read again> 
+                   \@@par 
+l.910 
+      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
 
-Underfull \hbox (badness 10000) in paragraph at lines 852--853
+./math_sem1.tex:910: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.910 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
- []
-
-
-Overfull \hbox (0.32219pt too wide) in paragraph at lines 854--856
-[]\T2A/cmr/bx/n/10 «‡ÏÂ˜‡ÌËÂ: \T2A/cmr/m/n/10 œ‡-‚Ë-ÎÓ ÀÓ-ÔË-Ú‡-Îˇ Ú‡Í-ÊÂ ÒÔ‡-‚Â‰-ÎË-‚Ó, ÂÒ-ÎË $[][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 854--856
-
- []
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 866.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 866.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 866.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 866.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 868--871
-
- []
-
-[45
-
-]
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 879.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 879.
+./math_sem1.tex:911: Missing $ inserted.
+<inserted text> 
+                $
+l.911       F'(c) = 0 \Leftrightarrow
+                                      f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} \...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 879.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 879.
-
-
-Overfull \hbox (3.92935pt too wide) in paragraph at lines 887--896
-[] [][] [] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 [[]] = [] [][] [] = [] [][] [] =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 919--920
-
- []
-
-
-Overfull \hbox (52.06071pt too wide) in paragraph at lines 921--926
-[]$[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )) = [\OMS/cmsy/m/n/10 1 ^^@ 1\OT1/cmr/m/n/10 ] = [][]([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 ) = [][]([]) =
- []
-
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 929--930
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 938--939
-
- []
-
-[47]
-
-./math_sem1.tex:947: LaTeX Error: \begin{enumerate} on input line 884 ended by \end{document}.
+./math_sem1.tex:913: LaTeX Error: Command \end{proof} invalid in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.947 \end{document}
-                    
+l.913   \end{proof}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./math_sem1.tex:913: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.913   \end{proof}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./math_sem1.tex:913: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.913   \end{proof}
+                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./math_sem1.tex:913: Missing $ inserted.
+<inserted text> 
+                $
+l.913   \end{proof}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.6022pt too wide) in paragraph at lines 944--948
+\T2A/cmr/m/n/10 √ÂÓÒÏ˚ÒÎ ÚÂÓ-Â-Ï˚ À‡„‡Ì-Ê‡: œˇ-Ï‡ˇ, ÔÓ-ıÎ-‰ˇ-˘‡ˇ ˜Â-ÂÁ ÚÓ˜-ÍË $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 b\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ))$
+ []
+
+[43]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 25.
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--951
+
+ []
+
+
+Overfull \hbox (0.32219pt too wide) in paragraph at lines 952--954
+[]\T2A/cmr/bx/n/10 «‡ÏÂ˜‡ÌËÂ: \T2A/cmr/m/n/10 œ‡-‚Ë-ÎÓ ÀÓ-ÔË-Ú‡-Îˇ Ú‡Í-ÊÂ ÒÔ‡-‚Â‰-ÎË-‚Ó, ÂÒ-ÎË $[][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--954
+
+ []
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 964.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 964.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 964.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 964.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--969
+
+ []
+
+[44
+
+]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 977.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 977.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 977.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 977.
+
+
+Overfull \hbox (3.92935pt too wide) in paragraph at lines 985--994
+[] [][] [] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 [[]] = [] [][] [] = [] [][] [] =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1018
+
+ []
+
+
+Overfull \hbox (52.06071pt too wide) in paragraph at lines 1019--1024
+[]$[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )) = [\OMS/cmsy/m/n/10 1 ^^@ 1\OT1/cmr/m/n/10 ] = [][]([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 ) = [][]([]) =
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1028
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1037
+
+ []
+
+[46]
+
+./math_sem1.tex:1045: LaTeX Error: \begin{enumerate} on input line 982 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1045 \end{document}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -1300,23 +1389,23 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 884 (\begingroup)
+### semi simple group (level 1) entered at line 982 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 26014 strings out of 492163
- 638051 string characters out of 6129075
- 834540 words of memory out of 5000000
- 29915 multiletter control sequences out of 15000+600000
+ 26039 strings out of 492163
+ 638582 string characters out of 6129075
+ 834539 words of memory out of 5000000
+ 29940 multiletter control sequences out of 15000+600000
  28634 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,15n,103p,724b,2086s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,15n,103p,724b,2092s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/
 public/cm-super/sfrm1728.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on math_sem1.pdf (48 pages, 524379 bytes).
+Output written on math_sem1.pdf (47 pages, 537442 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
- 202 compressed objects within 3 object streams
+ 281 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
