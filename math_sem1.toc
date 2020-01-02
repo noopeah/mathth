@@ -1,48 +1,53 @@
 \babel@toc {russian}{}
-\contentsline {chapter}{\numberline {1}Множества}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Множества и операции над ними}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Замкнутость множеств}{4}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Ограниченность множеств}{4}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Окрестности}{4}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Функции}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Графики}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}угол между прямыми}{6}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Основные элементарные функции}{7}{subsection.2.1.2}%
-\contentsline {chapter}{\numberline {3}Плоские фигуры}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Уравнения фигур}{9}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Окружность}{9}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Эллипс}{9}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Гипербола}{10}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Парабола}{11}{subsection.3.1.4}%
-\contentsline {chapter}{\numberline {4}DPMW}{12}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Последовательности}{13}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Свойства}{14}{section.5.1}%
-\contentsline {chapter}{\numberline {6}DPMW}{16}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Монотонные последовательности, теорема Вейкерштрасса}{17}{chapter.7}%
-\contentsline {chapter}{\numberline {8}DPMW}{18}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Предел функции в точке и на бесконечности, Односторонние пределы.}{19}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Бесконечный предел, Предел на бесконечности}{19}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Односторонние пределы}{19}{section.9.2}%
-\contentsline {chapter}{\numberline {10}DPMW}{21}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Непрерывность}{22}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Односторонняя}{23}{section.11.1}%
-\contentsline {section}{\numberline {11.2}непрерывны $\forall x \in \mathcal {D}(f(x))$}{24}{section.11.2}%
-\contentsline {chapter}{\numberline {12}DPMW}{25}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Сравнение функций}{26}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Эквивалентность}{26}{section.13.1}%
-\contentsline {chapter}{\numberline {14}DPMW}{28}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Непрерывность функции на отрезке}{29}{chapter.15}%
-\contentsline {chapter}{\numberline {16}DPMW}{31}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Производная функции, односторонние производные}{32}{chapter.17}%
-\contentsline {chapter}{\numberline {18}DPMW}{35}{chapter.18}%
-\contentsline {chapter}{\numberline {19}правила дифференцирования}{36}{chapter.19}%
-\contentsline {chapter}{\numberline {20}Дифференциал функции}{38}{chapter.20}%
-\contentsline {section}{\numberline {20.1}Св. производной}{39}{section.20.1}%
-\contentsline {chapter}{\numberline {21}Производные и дифференциалы высших порядков}{42}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Дифференцирование функции, заданной параметрически}{43}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Локальный экстремум функции, теорема Ферма}{44}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Теоремы Ролля, Лагранжа, Коши}{46}{chapter.24}%
-\contentsline {chapter}{\numberline {25}Правило Лопиталя}{48}{chapter.25}%
-\contentsline {chapter}{\numberline {35}Определённый интеграл}{51}{chapter.35}%
-\contentsline {section}{\numberline {35.1}Свойства}{52}{section.35.1}%
-\contentsline {section}{\numberline {35.2}Формула Ньютона-Лейбница\\}{54}{section.35.2}%
+\contentsline {chapter}{\numberline {1}PUBLIC SERVICE ANNOUNCEMENT}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Множества}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Множества и операции над ними}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Замкнутость множеств}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Ограниченность множеств}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Окрестности}{5}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Функции}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Графики}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}угол между прямыми}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Основные элементарные функции}{8}{subsection.3.1.2}%
+\contentsline {chapter}{\numberline {4}Плоские фигуры}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Уравнения фигур}{10}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Окружность}{10}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Эллипс}{10}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Гипербола}{11}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Парабола}{12}{subsection.4.1.4}%
+\contentsline {chapter}{\numberline {5}DPMW}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Последовательности}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Свойства}{15}{section.6.1}%
+\contentsline {chapter}{\numberline {7}DPMW}{17}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Монотонные последовательности, теорема Вейкерштрасса}{18}{chapter.8}%
+\contentsline {chapter}{\numberline {9}DPMW}{19}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Предел функции в точке и на бесконечности, Односторонние пределы.}{20}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Бесконечный предел, Предел на бесконечности}{20}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Односторонние пределы}{20}{section.10.2}%
+\contentsline {chapter}{\numberline {11}DPMW}{22}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Непрерывность}{23}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Односторонняя}{24}{section.12.1}%
+\contentsline {section}{\numberline {12.2}непрерывны $\forall x \in \mathcal {D}(f(x))$}{25}{section.12.2}%
+\contentsline {chapter}{\numberline {13}DPMW}{26}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Сравнение функций}{27}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Эквивалентность}{27}{section.14.1}%
+\contentsline {chapter}{\numberline {15}DPMW}{29}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Непрерывность функции на отрезке}{30}{chapter.16}%
+\contentsline {chapter}{\numberline {17}DPMW}{32}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Производная функции, односторонние производные}{33}{chapter.18}%
+\contentsline {chapter}{\numberline {19}DPMW}{36}{chapter.19}%
+\contentsline {chapter}{\numberline {20}правила дифференцирования}{37}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Дифференциал функции}{39}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Св. производной}{40}{section.21.1}%
+\contentsline {chapter}{\numberline {22}Производные и дифференциалы высших порядков}{43}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Дифференцирование функции, заданной параметрически}{44}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Локальный экстремум функции, теорема Ферма}{45}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Теоремы Ролля, Лагранжа, Коши}{47}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Правило Лопиталя}{49}{chapter.26}%
+\contentsline {chapter}{\numberline {35}Определённый интеграл}{52}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Свойства}{53}{section.35.1}%
+\contentsline {section}{\numberline {35.2}Формула Ньютона-Лейбница\\}{55}{section.35.2}%
+\contentsline {chapter}{\numberline {36}Бином Ньютона}{57}{chapter.36}%
+\contentsline {chapter}{\numberline {37}Бесконечно малые и бесконечно большие последовательности и их свойства}{59}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Основные свойства б.м. и б.б. последовательностей}{59}{section.37.1}%
+\contentsline {chapter}{\numberline {38}Бесконечно малые и бесконечно большие функции}{60}{chapter.38}%

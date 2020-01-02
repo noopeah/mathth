@@ -36,6 +36,11 @@
 \maketitle
 \tableofcontents
 
+\chapter{PUBLIC SERVICE ANNOUNCEMENT}
+{\Huge DEAR SLAVS, TODAY, I HAVE TO ASK YOU TO HELP ME! HELP ME AND THIS PROJECT BY REARRANGING QUESTIONS IN THE CORRENT ORDER, SO IT MAKES SENSE.
+ALSO, I'D LIKE TO SEE PLACEHOLDERS FOR ALL OF THE QUESTIONS THAT ARE NOT IMPLEMENTED YET. \\
+  {\Huge \LaTeX-хуячеры}}
+
 \chapter[Множества]{Элементы теортии Множеств}
 \section{Множества и операции над ними}
 
@@ -1211,8 +1216,148 @@ $$
 \end{thm}
 \section{Формула Ньютона-Лейбница\\}
 
+Для $y = f(x)$ на $[a;b]$ рассмотрим функцию $\Phi(x) = \int_{a}^x f(t) dt, x \in [a;b]$
+\begin{thm}
+  Если функция интегрируема на $[a;b]$, $\Phi(x)$ непрерывна на $[a;b]$
+  \begin{proof}
+    так как функция интегрируема она граничена на $[a;b]$ $$
+      \exists M > 0, \forall x \in [a;b]: |f(x)| \leq M.
+    $$
+    Возьмём произвольное $x \in [a;b], \Delta_x > 0$.
+    Рассмотрим $$
+      |-\Phi(x) + \Phi(x+\Delta_x)| = |\int_{a}^{x+\Delta_x} f(t) dt - \int_{a}^x f(t) dt = $$\\$$
+      |\int_{a}^x f(t) dt + \int_{x}^{x+\Delta_x} f(t) dt - \int_{a}^x f(t) dt| = $$\\$$
+      |\int_{x}^{x+\Delta_x} f(t) dt| \leq |\int_{x}^{x+\Delta_t} |f(t)| dt| $$\\$$
+      \leq |\int_{x}^{x+\Delta_x} M dt| \leq M|\int_{x}^{x+\Delta_x} dt| = M\Delta_x
+      $$ $ 0 \leq |\Phi(x+\Delta_x) - \Phi(x)| \leq M\Delta_x $
+      $M\Delta_x \rightarrow 0 $ при $ \Delta_x \rightarrow 0 \Rightarrow \lim_{\Delta_x \rightarrow 0}{\Phi(x+\Delta_x)} = \Phi(x)$
+      Следовательно $\Phi(x)$ непрерывна из-за того, что $x$ выбран произвольно.
+  \end{proof}
+\end{thm}
+\begin{thm}
+  $y = f(x)$ непрерывна, отсюда $\Phi(x)$ дифференцируема на $[a;b]$. При этом $\Phi'(x) = f(x)$.
+  \begin{proof}
+    $$
+      x \in (a;b), x + \Delta_x \in (a;b). $$\\$$
+      \Phi (x+\Delta_x) - \Phi(x) = \int_{x}^{x+\Delta_x} f(t) dt \vert_{\div \Delta_x}$$\\$$
+      \frac{\Phi(x+\Delta_x) - \Phi(x)}{\Delta_x} = \frac{1}{\Delta_x}\int_{x}^{x+\Delta_x} f(t) dt$$\\
+    По теореме о среднем $$
+      \frac{1}{\Delta_x}f(\xi)(x+\Delta_x - x) = f(\xi), \xi \in [x; x+\Delta_x]$$\\
+      Если $\Delta_x \rightarrow 0, \xi \rightarrow x$ $$
+        \frac{\Phi(x+\Delta_x) - \Phi(x)}{\Delta_x} = f(\xi)
+      $$ При переходе к пределу с $\Delta_x \rightarrow 0$ получим $\Phi'(x) = f(x)$
+      Таким образом, Если функция $y = f(x)$ непрерывна на $[a;b]$, $\Phi(x)$ - первообразная для $f(x)$
+  \end{proof}
+\end{thm}
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{\LARGEКТО-НИБУДЬ,КТО МОЖЕТ МЫСЛИТЬ, РАСПОЛОЖИТЕ ЭТИ ВОПРОСЫ ВЕРНО!!!!!!!!!!!!!!!!!!!!!!}
+
+\chapter{Бином Ньютона}
+\begin{quote}
+	Бином Ньютона:
+	$(a+b)^n=\sum\limits_{i=0}^nC_{n}^ia^ib^{n-i}$\\
+	Сочетания: $C_{n}^i= \frac{n!}{i!(n-i)!} $
+\end{quote}
+Применим метод математической индукции:
+
+\begin{enumerate}
+	\item При n=1 имеем:
+	$a+b=C_{1}^0a^0b^1+C_{1}^1a^1b^0=\frac{1!}{0!(1-0)!}b+\frac{1!}{1!(1-1)!}a=b+a$
+	Таким образом, при $n=1$ формула верна
+	\itemПри $n = 2$:
+	\begin{quote}
+		$(a+b)^2=C_2^0a^0b^2+C_2^1a^1b^1+C_2^2a^2b^0=\frac{2!}{0!(2-0)!}b:2+\frac{2!}{1!(2-1)!}ab++\frac{2!}{2!(2-2)!}a^2=b^2+2ab+a^2$
+	\end{quote}
+		Для $n=2$ также справедлива формула бинома Ньютона
+	\item Предположим, что она верна и при $n=k$:
+	\begin{quote}
+		$(a+b)^k=\sum\limits_{i=0}^kC_{k}^ia^ib^{k-i}$
+	\end{quote}
+	\item Предположим, что она верна и при $n=k+1$\\\textit{Действительно:}
+	\begin{quote}
+	$(a+b)^{k+1}=(a+b)^k(a+b)=(\sum\limits_{i=0}^kC_{k}^ia^ib^{k-i})(a+b)=\sum\limits_{i=0}^kC_{k}^ia^{i+1}b^{k-i}++\sum\limits_{i=0}^kC_{k}^ia^ib^{k-i+1}=C_k^ka^{k+1}b^{0} + \sum\limits_{i=0}^{k-1}C_k^ia^{i+1}b^{k-i}+\sum\limits_{i=1}^{k}C_k^ia^{i}b^{k-i+1} + C_k^0b^{k+1}a^0=$
+	\end{quote}
+Заметим, что в обеих суммах сумма показателей степеней $a$ и $b$ в каждом слагаемом равна одному и тому же $(k+1)$. С другой стороны, каждая из этих сумм содержит ровно одно слагаемое с множителями $ab^k$ и ровно одно слагаемое с показателями $a^2b^{k-1}$ и $a^kb$, поэтому:
+\begin{quote}$=C_k^ka^{k+1}b^{0} + \sum\limits_{i=0}^{k-1}(C_k^i + C_k^{i+1} a^{i+1}b^{k-i}+C_k^0b^{k+1}a^0$
+\\$C_k^i+C_k^{i+1}=\frac{k!}{i!(k-1)!}+\frac{k!}{(i+1)!(k-i-1)!}=\frac{k!(i+1)+k!(i-1)}{(i+1)!(k-i)!}=\frac{k!(k+1)}{(i+1)!(k-i)!}=\\=\frac{(k+1)!}{(i+1)!(k-i)!}=\frac{(k+1)!}{(i+1)!((k+1)-(i+1))!}=C_{k+1}^{i+1}$\end{quote}
+Продолжая цепочку равенств в вычисляемом $(a+b)^{k+1}$, получаем:
+\begin{quote}$1*a^{k+1}b^0+\sum\limits_{i=0}^{k+1}C_{k+1}^{i+1}a^{i+1}b^{k-1}+1*a^0b^{k+1}$\\
+$1=C_{k+1}^{k+1}=C_{k+1}^0$\end{quote}
+В сумме сделаем замену $j=i+1$:
+\begin{quote}$C_{k+1}^{k+1}a^{k+1}b^0+\sum\limits_{i=1}^kC_{k+1}^ja^jb^{(k+1)-j}+C_{k+1}^0a^0b^{k+1}=\sum\limits_{j=0}^kC_{k+1}^j a^j b^{(k+1)-j}$
+\end{quote}
+Таким образом, мы показали, что формула Бинома Ньютона справедлива при $n=k+1$ $\Rightarrow$ эта формула справедлива для любого натурального n
+\end{enumerate}
+
+\chapter{Бесконечно малые и бесконечно большие последовательности и их свойства}
+Выделяют бесконечно большие последовательности - последовательности, имеющие пределом бесконечность.
+Говорят, что последовательность $\{x_n\}$ имеет бесконечный предел, если $\forall M>0 \exists N=N(M)\in\mathbb{N}, \forall n \geq N : |x_n|>M$
+Последовательность называется бесконечно малой последовательностью (б.м.п.), если $\forall \epsilon > 0 \exists n_0 \in \mathbb{N}: \forall n\geq n_0$ выполняется равенство $ |x_n|<\epsilon$
+\section{Основные свойства б.м. и б.б. последовательностей}
+\begin{enumerate}
+\item Сумма б.м. последовательностей есть б.м.п.
+\item Произведение ограниченной последовательности и б.м. есть б.м.п.
+\item Если $\{x_n\}$ б.м.п., то $\{x_n\}$ - ограниченная последовательность
+\item Произведение б.м.п. есть последовательность б.м.
+\item Если $\{x_n\}$ б.м.п. и $x_n = c$, $\forall n \in \mathbb{N}$, то $c=0$, т.е. $x_n = c,  \forall n \in
+\mathbb{N}$
+\item Если $\{x_n\}$ б.м.п. и $x_n \neq 0,  \forall n\geq n_0: \{\frac{1}{x_n}\}^\infty_{n=n_0}$ - б.б.п
+\item Если $\{x_n\}$ б.б.п., то $\exists n_0 \in \mathbb{N}:x_n \neq 0,  \forall n\geq n_0$ и последовательность $ \{\frac{1}{x_n}\}^\infty_{n=n_0}$ - б.м.п
+\end{enumerate}
+
+\chapter{Бесконечно малые и бесконечно большие функции}
+БНФ не люди
+Пусть функция $y = f(x)$ определена в окрестности $U(x_0)$. Эта функция называется бесконечно малой при $x \rightarrow x_0$, если\\ $\lim\limits_{x\rightarrow x_0}f(x)=0$\\
+А бесконечно большой при $x \rightarrow x_0$ - если\\ $\lim\limits_{x\rightarrow x_0}f(x)=\infty$
+\begin{enumerate}
+\item Сумма и произведение любого конечного числа и б.м.ф. является б.м.ф
+\item Пусть функция $y = f(x)$ б.м.ф. при $x \rightarrow x_0$, а функция $y = g(x)$ ограничена в $U(x_0)$, то есть  $\exists c > 0 : \forall x \in U(x_0): |g(x)|\leq c$. Тогда функция $y=f(x)*g(x)$ является б.м.ф.при $x \rightarrow x_0$
+\item произведение конечного числа б.б.ф является б.б.ф.при $x \rightarrow x_0$
+\item Пусть функция $y = f(x)$ б.б.ф. при $x \rightarrow x_0$, а функция $y = g(x)$ удовлетворяет свойству: $\exists c > 0 : \forall x \in U(x_0): |g(x)| > c$, тогда функция $y=f(x)*g(x)$ является б.б.ф.при $x \rightarrow x_0$
+\item Пусть функция $y = f(x)$ б.м.ф. при $x \rightarrow x_0$ и $f(x) \neq 0$ в $U(x_0)$, тогда функция $y=\frac{1}{f(x)}$ является б.б.ф.при $x \rightarrow x_0$
+\item Если функция $y = f(x)$ б.б.ф. при $x \rightarrow x_0$, тогда функция $y=\frac{1}{f(x)}$ является б.м.ф.при $x \rightarrow x_0$
+\end{enumerate}
 
 \end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 %% {}
