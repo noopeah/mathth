@@ -276,6 +276,10 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT c:/texlive/2019/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
 INPUT c:/texlive/2019/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
+INPUT c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+INPUT c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+INPUT c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+INPUT c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
 INPUT math_sem1.aux
 INPUT math_sem1.aux
 OUTPUT math_sem1.aux

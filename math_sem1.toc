@@ -43,3 +43,6 @@
 \contentsline {chapter}{\numberline {23}Локальный экстремум функции, теорема Ферма}{44}{chapter.23}%
 \contentsline {chapter}{\numberline {24}Теоремы Ролля, Лагранжа, Коши}{46}{chapter.24}%
 \contentsline {chapter}{\numberline {25}Правило Лопиталя}{48}{chapter.25}%
+\contentsline {chapter}{\numberline {35}Определённый интеграл}{51}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Свойства}{52}{section.35.1}%
+\contentsline {section}{\numberline {35.2}Формула Ньютона-Лейбница\\}{54}{section.35.2}%

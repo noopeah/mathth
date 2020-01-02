@@ -15,8 +15,9 @@
 \usepackage{fancyhdr}
 \usepackage[utf8]{inputenc}
 \usepackage[T1, T2A]{fontenc}
-\usepackage{color}   %May be necessary if you want to color links
+\usepackage{color}
 \usepackage{hyperref}
+\usetikzlibrary{patterns}
 \hypersetup{
     colorlinks=false, %set true if you want colored links
     linktoc=all,     %set to all if you want both sections and subsections linked
@@ -1091,6 +1092,126 @@ $f(x_{0})=\lim_{x \to x_{0}} f(x) = 0$ и $g(x_{0})=\lim_{x \to x_{0}} g(x) = 0$
 	 \begin{center}
 		$A=f(x)^{g(x)}$
 	\end{center}
+
+\setcounter{chapter}{34} %!!! remove this upon completion
+\chapter[Определённый интеграл]{Определённый интеграл и его свойства}
+Пусть задана $y = f(x)$, предположим, что $\forall x \in [a;b] \subset \mathcal{D}(f): f(x) \geq 0$
+\begin{center}
+  \pgfdeclarepatternformonly{north east lines wide}%
+   {\pgfqpoint{-1pt}{-1pt}}%
+   {\pgfqpoint{10pt}{10pt}}%
+   {\pgfqpoint{9pt}{9pt}}%
+   {
+     \pgfsetlinewidth{0.4pt}
+     \pgfpathmoveto{\pgfqpoint{0pt}{0pt}}
+     \pgfpathlineto{\pgfqpoint{9.1pt}{9.1pt}}
+     \pgfusepath{stroke}
+    }
+  \pgfplotsset{every axis/.append style={
+          axis x line=middle,    % put the x axis in the middle
+          axis y line=middle,    % put the y axis in the middle
+          axis line style={<->}, % arrows on the axis
+          xlabel={$x$},          % default put x on x-axis
+          ylabel={$y$},          % default put y on y-axis
+          }}
+      \begin{tikzpicture}
+        \begin{axis}[
+          xmin=-5,xmax=5,
+          ymin=-2,ymax=3]
+           \addplot [red,thick, domain=-4:4] expression {0.6*sqrt(x + 4)};
+           \addplot+[mark=none,domain=-2:2,samples=100,%
+              pattern=north east lines wide]%
+              {0.6*sqrt(x + 4)}
+              \closedcycle;
+           \addplot [blue, dashed] coordinates {(-2, 0) (-2, 0.8)};
+           \addplot [blue, dashed] coordinates {(2, 0) (2, 1.4)};
+        \end{axis}
+      \end{tikzpicture}
+    \end{center}
+
+Рассмотрим фигуру, ограниченную сниху $Ox$, сверху графиком функции, слева и справа - вертикальными прямыми
+$x = a, x = b$ это называется криволинейной трапецией. Чтоб найти площадь этой фигуры, разобьём её на досаточно
+большое количество очень узких вертикальных полосок, чтобы ступенчатая форма была ближе к кривой. Площадь криволинейной
+трапеции буде равна сумме площадей полосок.
+\par Разбиение $[a;b]$(конечное множество точек) таких, что $a = x_0 <x_1 < x_2 \dots < x_n = b$. На каждом $x_{[i-1;x_i]}$
+выберем $\xi_i$ и рассмотрим $f(\xi_i)$ Рассмотрим итый прямоугольник со сторонами $x_i - x_{i-1}$, площадь которого равна
+$f(\xi_i)\cdot (x_i - x_{i-1})$ Обозначим $(x_i - x_{i-1})$ за $\Delta_i$ и пусть $\Delta = \max(\Delta_i .. \Delta_n)$
+$\Delta$ - диаметр разбиения.
+\par Интегральная сумма соответствующая данному разбиению: $$
+  \sum_{i = 1}^n \Delta_i \cdot f(\xi_i)
+$$
+Рассмотрим $\lim_{\Delta \rightarrow 0}{\sum_{i = 1}^n \Delta_i \cdot f(\xi_i)} $. Если такой предел существует и конечен, не зависит от
+разбиения и от выбора $\xi_i$ , то этот предел называется определённым интегралом $\int_{a}^b f(x) dx$
+
+\begin{thm}
+  необходимые условия интегрируемости. Если функция интегрируема на отрезке, то она ограничена на этом отрезке.
+  \begin{proof}
+    Произведём разбиение $[a;b]$. Если функция неограничена на $[a;b]$, она неограничена хотя бы на одном из отрезков $[x_i - x_{i-1}]$.
+    Следовательно точку $\xi_i$ можно выбрать так, что  $|\xi_i|$ будет сколь угодно велик. В этом случае интегральная сумма стремится
+    к бесконечности и предел интегральной суммы будет зависеть от выбора $\xi_i$ и, при некотором $\xi_i$ он будет бесконечным,
+    что противоречит условиям интегрирования.
+  \end{proof}
+\end{thm}
+
+\begin{thm}
+  Если функция непрерывна на $[a;b]$, она интегрируема на $[a;b]$.
+\end{thm}
+Следствие: Если функция на $[a;b]$ имеет конечное количество точек разрыва первого рода\footnote{кусочно-непрерывна}, то она интегрируема на $[a;b]$.
+\begin{proof}
+  Функция кусочно-непрерывна на $[a;b]$ тогда и только тогда, когда этот отрезок разбивается на конечное число меньших отрезков,
+  на каждом из которых эта функция непрерывна и ограничена, по теореме 2 доказательство.
+\end{proof}
+
+\begin{thm}
+  Если функция монотонна на $[a;b]$, она интегрируема на $[a;b]$.
+\end{thm}
+
+\section[Свойства]{Свойства определённго интеграла}
+\begin{enumerate}
+  \item $\int_{a}^a f(x) dx = 0$
+  \item $\int_{a}^b dx = b-a$
+  \item $\forall f(x), g(x)$ интегрируемой на $[a;b], \forall \alpha, \beta$ $$
+          \int_{a}^b \alpha f(x) + \beta g(x) dx = \alpha \int_{a}^b f(x) dx + \beta \int_{a}^b g(x) dx
+        $$
+  \item Если $f(x) \geq 0$ на $[a;b]$, $\forall x \in [a;b]: f(x) \geq g(x)$, $$\int_{a}^b f(x) dx \geq \int_{a}^b g(x) dx$$
+  \item $$|\int_{a}^b g(x) dx| \leq \int_{a}^b g(x) dx$$
+  \begin{proof}
+      $$ \forall |\sum_{i = 1}^n \Delta_i \cdot f(\xi_i)| \leq \sum_{i = 1}^n |\Delta_i \cdot f(\xi_i)| \leq \sum_{i = 1}^n \Delta_i \cdot |f(\xi_i)|$$
+      При $\Delta \rightarrow 0$ доказывается
+    \end{proof}
+  \item $\int_{a}^b f(x) dx = -\int_{b}^a f(x) dx$
+  \item $$
+    \forall a, b, c: \int_{a}^b f(x) dx = \int_{a}^c f(x) dx + \int_{c}^b f(x) dx
+  $$
+  \begin{proof}
+    \begin{enumerate}
+      \item Пусть $c \in (a;b)$, тогда рассмотрим разбиения отрезка $[a;b]$, содержащие $c$. Тогда интегральная сумма разивается на 2 суммы: слева от $c$
+      и справа от $c$. При $\Delta \rightarrow 0$ доказывается.
+      \item $c \not\in (a;b) \Rightarrow b \in (a;c)$ по пункту $i$:$$
+        \int_{a}^c f(x) dx = \int_{a}^b f(x) dx + \int_{b}^c f(x) dx $$\\$$ \Rightarrow \int_{a}^b f(x) dx = \int_{a}^c f(x) dx + \int_{c}^b f(x) dx
+      $$
+      \item $a \in (c;b)$ аналогично
+      \item $c = a$ или $c = b$: по первому свойству.
+    \end{enumerate}
+  \end{proof}
+\end{enumerate}
+\begin{thm}
+  о среднем: Если функция непрерывна на $[a;b]$, $\exists \xi \in [a;b]: f(\xi) \cdot (b - a) = \int_{a}^b f(x) dx$
+  \begin{proof}
+    Пусть $y = f(x)$ непрерывна на $[a;b] \Rightarrow$ на этом отрезке она достигает своих максимального и минимального значений.
+    $m = min(f(x)); M = max(f(x)), x \in [a;b]$
+    $$
+      \forall x \in [a;b]: m \leq f(x) \leq M. \Rightarrow \int_{a}^b m dx \leq \int_{a}^b f(x) dx \leq \int_{a}^b M dx
+    $$ \\ $$
+      \Rightarrow m(b-a) \leq \int_{a}^b f(x) dx \leq M(b-a). a < b \Rightarrow m \leq \frac{1}{b - a}\int_{a}^b f(x) dx \leq M
+    $$ по теореме о  промежуточных значениях непрерывной функции: $$
+      \exists \xi \in [a;b]: f(\xi) = \frac{1}{b-a}\int_{a}^b f(x) dx
+    $$ умножим на $(b-a) > 0$ получим доказываемое равенство.
+  \end{proof}
+\end{thm}
+\section{Формула Ньютона-Лейбница\\}
+
+
 
 \end{document}
 
