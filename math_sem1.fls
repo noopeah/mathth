@@ -342,9 +342,9 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-OUTPUT math_sem1.toc
 INPUT c:/Users/fiiql/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/lasl1000.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecsl1000.tfm
+OUTPUT math_sem1.toc
 INPUT c:/Users/fiiql/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm
 INPUT c:/Users/fiiql/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm

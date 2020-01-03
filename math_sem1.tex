@@ -28,7 +28,7 @@
 \pagestyle{fancy}
 
 \newcommand{\boxedeq}[2]{\begin{empheq}[box={\fboxsep=6pt\fbox}]{align}\label{#1}#2\end{empheq}}
-   \newtheorem{thm}{Тероэма}[chapter] % reset theorem numbering for each chapter
+\newtheorem{thm}{Тероэма}[chapter] % reset theorem numbering for each chapter
 
 \pgfplotsset{compat=1.5}
 \begin{document}
@@ -45,7 +45,7 @@ ALSO, I'D LIKE TO SEE PLACEHOLDERS FOR ALL OF THE QUESTIONS THAT ARE NOT IMPLEME
 \section{Множества и операции над ними}
 
 Множество - совокупность некоторых объектов, обладающих определёнными свойствами. Каждый из объектов
-называется элементом обозначение множества: $\{a | P(a)\}$ где P(a) - свойство, объединяющее объекты a.\\
+называется элементом обозначение множества: $\{a | P(a)\}$ где $P(a)$ - свойство, объединяющее объекты a.\\
 
 Специльные символы, обозначающие операции над множествами:
 
@@ -85,7 +85,7 @@ $\mathbb{Z}$ относительно $\div$, нужно дополнить ег
 A ограничено сверху, если $\exists M, \forall a \in A : a \leq M$ и A ограничено снизу, если $\exists M, \forall a \in A : a \geq M$
 \begin{quote}
     Таким образом, если множество ограничено \textbf{и} сверху \textbf{и} снизу, оно называется \textit{ограниченным}.
-    $\Rightarrow \exists M, \forall a \in A : |a| \leq M$ (1)
+    $\Rightarrow \exists M, \forall a \in A : |a| \leq M (1)$
 \end{quote}
 
 \begin{center}
@@ -95,11 +95,11 @@ A ограничено сверху, если $\exists M, \forall a \in A : a \l
     $M \geq |M_1| \Rightarrow -M \leq -|M_1| \leq M_1 \Rightarrow$\\
     $\forall a \in A : -M \leq -M_1 \leq a \leq M_2 \leq M \rightarrow -M \leq a \leq M$
 \end{center}
-Следовательно из ограниченности А получается (1).
+Следовательно из ограниченности А получается $(1)$.
 
 \section{Окрестности}
 
-Рассмотрим $a \in \mathbb{R}$. Окрестностью а является отрезок (b; c), содержущюю а.
+Рассмотрим $a \in \mathbb{R}$. Окрестностью а является отрезок $(b; c)$, содержущюю а.
 Рассмотрим $\epsilon > 0$. $\epsilon$-окрестностью а является отрезок $(a-\epsilon; a+\epsilon)$, содержущюю а.\\
 $\mathcal{U}_\epsilon(a)$ есть отрезок длиной  $2\epsilon$, центром которого является а: \\
 $\mathcal{U}_\epsilon(a) = \{x \in \mathbb{R} | |x-a|< \epsilon\}$\\
@@ -114,7 +114,7 @@ $\mathcal{U}_\epsilon(a) = \{x \in \mathbb{R} | |x-a|< \epsilon\}$\\
 множества А соответствует не более одного элемента В. Это обозначается $f : A \rightarrow B$
 Областью определения f называется множество $D(f) = \{a \in A | \exists b = f(a)\}$\footnote{f - заданное нами правило}
 Множеством значений f называется множество $E(f) = \{b \in B | \exists a \in A; b = f(a)\}^2$ Запись
-b = f(a) обозначает, что $a \in A$ в отображениии f соответствует $b \in B$ тут b - образ, а а - прообраз. \\
+$b = f(a)$ обозначает, что $a \in A$ в отображениии f соответствует $b \in B$ тут b - образ, а а - прообраз. \\
 Свойства биективного\footnote{взаимооднозначного} отображения $f: A \rightarrow B$:
 \begin{enumerate}
     \item $D(f) = A$
@@ -130,11 +130,11 @@ b = f(a) обозначает, что $a \in A$ в отображениии f с
 тогда, когда любая вертикальная прямая параллельная оси ординат пересекает множество данных не более одного раза. Функция может задаваться
 \textit{аналитически, графичекси и неявно}. Неявный способ: Рассмотрим $F : \mathbb{R}^2 \rightarrow R$ и Рассмотрим $F(x;y) = 0$.
 На Координатной плоскости рассмотрим множество решений этого уравнения: $\{(x;y) \in \mathbb{R}^2 | F(x;y) = 0\}$: если оказывается, что
-это множество является графиком функции, функция задана нефвно унавнением F(x;y) = 0.
+это множество является графиком функции, функция задана нефвно унавнением $F(x;y) = 0$.
 
 \section[Графики]{Типовые функции, график функции}
 Линейная функция:\\
-Функция вида $y = kx + b; k, b \in \mathbb{R}$ имеет графиком невертикальную прямую при b = 0 график функции проходит через (0; 0).
+Функция вида $y = kx + b; k, b \in \mathbb{R}$ имеет графиком невертикальную прямую при b = 0 график функции проходит через $(0; 0)$.
 К - угловой коеффициент равный тангенсу кгла наклона графика к Ox. Взаимное расположение двух прямых, заданных функциями
 $y_1 = k_1x + b_1$ и $y_2 = k_2x + b_2$:
 \begin{enumerate}
@@ -145,7 +145,7 @@ $y_1 = k_1x + b_1$ и $y_2 = k_2x + b_2$:
 
 доказательство свойства 2:
 \begin{center}
-    $\Rightarrow)$ Пусть прямые $y_1 = k_1x + b_1$ и $y_2 = k_2x + b_2$ параллельны. Следовательно у них не общих точек:\\
+    $\Rightarrow )$ Пусть прямые $y_1 = k_1x + b_1$ и $y_2 = k_2x + b_2$ параллельны. Следовательно у них не общих точек:\\
     $\begin{cases}
         y = k_1x + b_1 \\
         y = k_2x + b_2
@@ -222,13 +222,13 @@ $\begin{cases}
 Тогда расстояние между А и В вычисляется так: \boxedeq{eq:*}{|AB| = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
 
 \section[Уравнения фигур]{Фигуры и канонические уравнения фигур}
-Говорят, что уравнение на плоскости задет некоторую фигуру, если принадлежность M(x; y) этой фигуре равносильно
-выполнению равенства f(x; y) = 0 для каждой точки этой фигуры.
+Говорят, что уравнение на плоскости задет некоторую фигуру, если принадлежность $M(x; y)$ этой фигуре равносильно
+выполнению равенства $f(x; y) = 0$ для каждой точки этой фигуры.
 
 \subsection{Окружность}
 \textbf{Окружностью называется множество всех точек в плоскости, удаленных от данной фиксированной точки, называемой
 центром окружности на одно и то же расстояние, называемое радиусом окружности.} \\
-дана точа M(x; y) и окружность с центром О($x_0, r_0$). М $\in \omega(O, r) \Leftrightarrow |MO|=R \Leftrightarrow
+дана точа $M(x; y)$ и окружность с центром О$(x_0, r_0)$. $М \in \omega(O, r) \Leftrightarrow |MO|=R \Leftrightarrow
 |MO|^2 = r^2 \Leftrightarrow$ \boxedeq{eq:*}{(x-x_0)^2+(y-y_0)^2 = r^2}
 Равенство 3.2 есть уравнение окружности т.к. оно равносильно принадлежности точки М к окружности.
 
@@ -1160,6 +1160,118 @@ $f(x_{0})=\lim_{x \to x_{0}} f(x) = 0$ и $g(x_{0})=\lim_{x \to x_{0}} g(x) = 0$
 	 \begin{center}
 		$A=f(x)^{g(x)}$
 	\end{center}
+
+
+
+\setcounter{chapter}{31}
+\chapter[Неопределённый интеграл]{Неопределённый интеграл и его свойства}
+\section[Первообразная]{Понятие первообразной}
+Пусть $y = f(x)$ - непрерывная функция, Первообразной для $f(x)$ является $F(x): F'(x) = f(x)$
+Если $F(x)$ - первообразная для $f(x)$, то $\forall C: (F(x) + C)' = f(x)$
+\begin{thm}
+  Если функция $y = g(x)$ непрерывно-дифференцируема и её $\forall x: g'(x) = 0$, $g(x) = C$
+  \begin{proof}
+    Пусть $\forall x: g'(x) = 0 \Rightarrow \forall x_1, x_2: g(x_1) = g(x_2)$. Тогда по теореме Лагранжа:
+    $\exosts \xi \in (x_1; x_2): g(x-2) - g(x_1) = g'(\xi)\cdot(x_2 - x_1) \Rightarrow$ так как $g'(\xi) = 0, g(x_2) - g(x_1) = 0 \Rightarrow g(x_2) = g(x_1)$
+  \end{proof}
+\end{thm}
+\begin{thm}
+  Если $F(x)$ первообразная для $f(x)$, то любая первообразная для $f(x)$ представима в виде $G(x) = F(x) + C$
+  \begin{proof}
+    Пусть 2 различные первообразные $F(x), G(x)$ для $f(x) \Leftrightarrow F'(x) = f(x) $ и $G'(x) = f(x)$.
+    Тогда $\forall x: (G(x) - F(x))' = G'(x) - F'(x) = f(x) - f(x) = 0 \Rightarrow$ по теорете 1 $G(x) - F(x) = C \Rightarrow G(x) = F(x) + C$
+  \end{proof}
+\end{thm}
+\textbf{совокупность всех первообразных для функции называется неопределённым интегралом этой функции $\int f(x) dx = F(x) + C$}
+\section[Свойства]{Свойства неопределённого интервала}
+\begin{enumerate}
+  \item $d(\int f(x) dx) = f(x) dx$
+  \item $\int f'(x) dx = f(x) + C$
+  \item $\forall \alpha, \beta \in \mathbb{R}, \forall f(x), g(x): \int \alpha f(x) + \beta g(x) dx = \alpha \int f(x) dx + \beta \int g(x) dx$
+  \item $\forall \alpha, \beta: F'(x) = f(x), \int f(\alpha x + \beta) dx = \frac{1}{\alpha}F(\alpha x+\beta)+C$
+\end{enumerate}
+Из таблицы производных получаем таблицу интегралов:
+
+\section{Таблица Интегралов\\}
+\begin{itemize}
+  \item \begin{equation}
+    \int 0 dx = C
+  \end{equation}
+  \item \begin{equation}
+    \int dx = x + C
+  \end{equation}
+  \item \begin{equation}
+    \int x^n = \frac{x^{n+1}}{n+1}+C, n \neq 1
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{x} = ln(|x|) + C
+  \end{equation}
+  \item \begin{equation}
+    \int a^x dx = \frac{a^x}{\ln(a)} + C
+  \end{equation}
+  \item \begin{equation}
+    \int e^x dx = e^x + C
+  \end{equation}
+  \item \begin{equation}
+    \int \sin(x) dx = -cos(x) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \cos(x) dx = sin(x) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \tg(x) dx = \ln(\frac{1}{|cos(|x|)}) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{\sqrt{1 - x^2}} = arcsin(x) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{\sqrt{a^2 - x^2}} = arcsin(\frac{x}{a}) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{x^2 + 1} = arctg(x) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{a^2 + x^2} = \frac{1}{a}arctg(\frac{x}{a}) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{x^2 - a^2} = \frac{1}{2a}ln(|\frac{x - a}{x + a}|) + C
+  \end{equation}
+  \item \begin{equation}
+    \int \frac{dx}{\sqrt{x^2 \pm a^2}} = \ln(x + \sqrt{x^2 \pm a^2}) + C
+  \end{equation}
+\end{itemize}
+
+\chapter[Замен переменной]{Метод замены переменной в неопределённом интеграле}
+\begin{thm}
+  Пусть функция $f(x)$ непрерывна, а $x = \phi(t)$ непрерывно-дифференцируема, причём $\mathcal{D}(\phi(t)) \subset \mathcal{D}(f)$, тогда
+  $\int f(x(t)) \phi'(t) dt = \int f(x) dx$ Произведём по $t$: $$
+  (\int f(x(t)) \phi'(t) dt)'_t = \int x(t) \cdot \phi'(t) $$\\$$
+  (\int f(x) dx)'_t = (\int f(x(t))dx)'_t = f'_t(x(t)) = f'_t(x(t))x'(t) = f'_t(x(t))\phi'(t)
+  $$
+\end{thm}
+Пример:
+\begin{equation}
+  \int tg(x)dx = \int \frac{sin(x)}{cos(x)}dx \\
+  \Bigg[t = cos(x), dt = -sin(x)dx, sin(x)dx = -dt \Bigg] $$\\$$ =
+  \int \frac{-dt}{t} = -\ln(|t|)+C = -\ln(|cos(x)|) + C
+\end{equation}
+
+\chapter{Интегрирование по частям}
+Пусть есть 2 нерерывно-дифференцируемые функции $u(x), v(x)$: \begin{equation}
+  d(uv) = (uv)'dx = (u'v + v'u)dx = u'vdx + v'udx = vdu + udv \Rightarrow d(uv) = vdu + udv
+  $\\$ \Rightarrow \int udv = uv - \int vdu
+\end{equation}
+Когда использовать?
+(за $u$ берём многочлен и корячим столько раз,какова степень)
+\begin{itemize}
+  \item подинтегральная функция есть произведение многочлена и синуса/косинуса
+  \item подинтегральная функция есть произведение многочлена и показательной функции
+\end{itemize}
+
+
+
+
+
 
 \setcounter{chapter}{34} %!!! remove this upon completion
 \chapter[Определённый интеграл]{Определённый интеграл и его свойства}
