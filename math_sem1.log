@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  2 JAN 2020 18:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  3 JAN 2020 08:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -839,6 +839,9 @@ LaTeX Warning: Label `eq:*' multiply defined.
 
 LaTeX Warning: Label `eq:*' multiply defined.
 
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
 )
 \openout1 = `math_sem1.aux'.
 
@@ -1603,15 +1606,8 @@ Overfull \hbox (16.76836pt too wide) detected at line 1212
 \OMS/cmsy/m/n/10 ) \OML/cmm/m/it/10 m\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 b \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^T [][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dx \OMS/cmsy/m/n/10 ^^T \OML/cmm/m/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 b \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 a\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :a < b \OMS/cmsy/m/n/10 ) \OML/cmm/m/it/10 m \OMS/cmsy/m/n/10 ^^T [] [][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dx \OMS/cmsy/m/n/10 ^^T \OML/cmm/m/it/10 M
  []
 
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 1217--1217
-
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1217.
-
+[54] [55]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 36.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1228--1228
 
@@ -1627,74 +1623,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 1230--1230
 
  []
 
+[56
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 1241--1241
 
  []
 
-[55]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
 
  []
 
 
-Overfull \hbox (29.81766pt too wide) in paragraph at lines 1257--1258
+Overfull \hbox (29.81766pt too wide) in paragraph at lines 1261--1262
 []\T2A/cmr/m/n/17.28 ÊÒÎ-ÍÈÁÓÄÜ,ÊÒÎ ÌÎ-ÆÅÒ ÌÛÑ-ËÈÒÜ,
  []
 
 
-Overfull \hbox (13.81839pt too wide) in paragraph at lines 1257--1258
+Overfull \hbox (13.81839pt too wide) in paragraph at lines 1261--1262
 \T2A/cmr/m/n/17.28 ÐÀÑ-ÏÎ-ËÎ-ÆÈ-ÒÅ ÝÒÈ ÂÎ-ÏÐÎ-ÑÛ ÂÅÐ-
  []
 
-[56]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 36.
+[57]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
 
-Overfull \hbox (35.56358pt too wide) in paragraph at lines 1282--1283
+Overfull \hbox (35.56358pt too wide) in paragraph at lines 1286--1287
 [] \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 + + [] \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 + [] \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 +
  []
 
-[57
+[58
 
 ]
-Overfull \hbox (51.5176pt too wide) in paragraph at lines 1291--1292
+Overfull \hbox (51.5176pt too wide) in paragraph at lines 1295--1296
 []$\OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 + [] \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 C[]a[]b[]$ 
  []
 
-[58]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
-[59
-
-]
+[59]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 38.
 [60
 
 ]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 39.
+[61
 
-./math_sem1.tex:1325: LaTeX Error: \begin{enumerate} on input line 1038 ended by \end{document}.
+]
+
+./math_sem1.tex:1329: LaTeX Error: \begin{enumerate} on input line 1038 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1325 \end{document}
+l.1329 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1325.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1329.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1329.
 (./math_sem1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1329.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1329.
 Package rerunfilecheck Info: File `math_sem1.out' has not changed.
-(rerunfilecheck)             Checksum: 1385B2B4A4322FE7C9BC15D4F211A3BD;11230.
+(rerunfilecheck)             Checksum: 7B9328B5E1DAA07123FCB7AAD6E2E61B;11218.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1325.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1329.
  )
 (\end occurred inside a group at level 2)
 
@@ -1702,20 +1700,20 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1325.
 ### semi simple group (level 1) entered at line 760 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33262 strings out of 492163
- 742401 string characters out of 6129075
- 950054 words of memory out of 5000000
- 36814 multiletter control sequences out of 15000+600000
+ 33264 strings out of 492163
+ 742420 string characters out of 6129075
+ 950042 words of memory out of 5000000
+ 36813 multiletter control sequences out of 15000+600000
  33259 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,15n,103p,724b,2314s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1
 /public/cm-super/sfrm1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on math_sem1.pdf (61 pages, 620417 bytes).
+Output written on math_sem1.pdf (62 pages, 621584 bytes).
 PDF statistics:
- 942 PDF objects out of 1000 (max. 8388607)
- 836 compressed objects within 9 object streams
- 263 named destinations out of 1000 (max. 500000)
+ 948 PDF objects out of 1000 (max. 8388607)
+ 841 compressed objects within 9 object streams
+ 266 named destinations out of 1000 (max. 500000)
  433 words of extra memory for PDF output out of 10000 (max. 10000000)
 

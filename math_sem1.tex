@@ -1211,10 +1211,10 @@ $$
       \Rightarrow m(b-a) \leq \int_{a}^b f(x) dx \leq M(b-a). a < b \Rightarrow m \leq \frac{1}{b - a}\int_{a}^b f(x) dx \leq M
     $$ по теореме о  промежуточных значениях непрерывной функции: $$
       \exists \xi \in [a;b]: f(\xi) = \frac{1}{b-a}\int_{a}^b f(x) dx
-    $$ умножим на $(b-a) > 0$ получим доказываемое равенство.
+    $$ умножив на $(b-a) > 0$ получим доказываемое равенство.
   \end{proof}
 \end{thm}
-\section{Формула Ньютона-Лейбница\\}
+\chapter{Формула Ньютона-Лейбница}
 
 Для $y = f(x)$ на $[a;b]$ рассмотрим функцию $\Phi(x) = \int_{a}^x f(t) dt, x \in [a;b]$
 \begin{thm}
@@ -1249,6 +1249,10 @@ $$
       Таким образом, Если функция $y = f(x)$ непрерывна на $[a;b]$, $\Phi(x)$ - первообразная для $f(x)$
   \end{proof}
 \end{thm}
+Рассмотрим Вас первообразные $F(x)$ для $f(x)$. $\int_{a}^x f(t) dt = \Phi(t) = F9x)+C$.
+Найдём $z$, взяв $x = a \Rightarrow \int_{a}^a f(t) dt = f(a)+C \Rightarrow C = -F(a) \Rightarrow \int_{a}^x f(t) dt = F(x) - F(a)$ \\
+При $x = b: \int_{a}^b f(t) dt = \int_{a}^x f(x) dx = F(b) - f(a) \Rightarrow F(b) - F(a) = F(x)\vert_{a}^{b}$
+\boxedeq{eq:*}{\int_{a}^b f(x) dx = F(x)\vert_{a}^{b} = F(b) - F(a)}
 
 
 
