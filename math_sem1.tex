@@ -1,4 +1,4 @@
-\documentclass[oneside]{book}
+f\documentclass[oneside]{book}
 
 \usepackage[russian]{babel}
 \usepackage{enumitem}
@@ -17,6 +17,9 @@
 \usepackage[T1, T2A]{fontenc}
 \usepackage{color}
 \usepackage{hyperref}
+\usepackage{subcaption}
+
+
 \usetikzlibrary{patterns}
 \hypersetup{
     colorlinks=false, %set true if you want colored links
@@ -300,8 +303,6 @@ Ox проходит через $F$ и $\perp \Delta \Rightarrow F(\frac{p}{2}; 0
 \end{center}
 y в уравнении в чтной степени $\Rightarrow$ парабола симметрична относительно Ox при $x \geq 0$ получается, \
 что парабола расположена в правой полуплоскости.
-\chapter{DPMW}
-\pagebreak
 
 \chapter{Бином Ньютона}
 \begin{quote}
@@ -1271,8 +1272,6 @@ $f(x_{0})=\lim_{x \to x_{0}} f(x) = 0$ и $g(x_{0})=\lim_{x \to x_{0}} g(x) = 0$
 
 
 
-
-
 \setcounter{chapter}{34} %!!! remove this upon completion
 \chapter[Определённый интеграл]{Определённый интеграл и его свойства}
 Пусть задана $y = f(x)$, предположим, что $\forall x \in [a;b] \subset \mathcal{D}(f): f(x) \geq 0$
@@ -1428,6 +1427,89 @@ $$
 Найдём $z$, взяв $x = a \Rightarrow \int_{a}^a f(t) dt = f(a)+C \Rightarrow C = -F(a) \Rightarrow \int_{a}^x f(t) dt = F(x) - F(a)$ \\
 При $x = b: \int_{a}^b f(t) dt = \int_{a}^x f(x) dx = F(b) - f(a) \Rightarrow F(b) - F(a) = F(x)\vert_{a}^{b}$
 \boxedeq{eq:*}{\int_{a}^b f(x) dx = F(x)\vert_{a}^{b} = F(b) - F(a)}
+
+\setcounter{chapter}{45}
+\chapter{Поверхности второго порядка, метод сечения}
+
+ Пусть в пространсве задана ПСК $Oxyz$. Фигурой, задаваемой уравнением $F(x, y, z) = 0$ называется множество тех
+ точек, координаты которых удовлетворяют этому уравнению.
+ Если  $F(x, y, z)$ многочлен, т.е. конечная сумма вида $ax^p y^q z^r, a \in \,athbb{R}; p, q, r \in \mathbb{N}$, фигура на выходе -
+ алгебраическая поверхность. Если  $F(x, y, z)$  - многочлен степени $k$, фигура будет порядка $k$. Таким образом поверхности второго порядка
+ задаются уравнением вида $a_1 x^2 + a_2 y^2 + a_3 z^2 + a_4 xy + a_5  xz + a_6 yz  + a_7 x + a_8 y + a_9 z + a_0 = 0; \\ a_0, a_1 \dots a_9 \in \mathbb{R} \\ \exists x \in \{a_1, a_2 \dots, a_6\}: x \neq 0$
+
+\section{Метод сечений}
+\begin{thm}
+  Пусть задано уравнение  $F(x, y, z) = 0$, тогда проекция на $Oxy$, пересечения поверхности с плоскостью $z = h$ Задаётся уравнением  $F(x, y, h) = 0$.
+  \begin{proof}
+     $F(x, y, z) = 0$ //
+     Пусть $M(x_1, y_1, z_1)$ - произвольная точка. Тогда проекция этой точки на $Oxy = M_1(x_1, y_1, 0)$.
+     Пусть $M$ принадлежит пересечению этой поверхности с  плоскостью $z = h \Leftrightarrow M(x_1, y_1, h)$ при этом  $F(x_1, y_1, h) = 0$\\
+     Тогда $M_1$ в $Oxy = M(x_1, y_1)$ есть проекция пересечения данной поверхностии плоскость. $z = h$ тогда и только тогда, когда
+     $M(x_1, y_1, h)$ принадлежит этому пересечению, что значит, что $F(x_1, y_1, h) = 0$
+   \end{proof}
+\end{thm}
+
+\chapter {Поверхности вращения}
+Пусть в пространстве задана некая линия $\gamma$ и прямая $d$. Фигура, получающаяся при вращении $\gamma$ вокруг $d$ называется поверхностью вращения.
+Выберем в пространсве ПСК $Oxyz$ так, чтбы ось вращения совпадала с $Ox \Rightarrow$ поверхность вращения можно задать так:
+$y \in Oxz = x = f(z)$, где $f$ - некоторая функция, и рассмотрим Поверхность вращения, полученную при вращении $\gamma$ вокруг $Oz$.
+Рассмотрим $M(x, y, z) \in $ этой поверхности, и плокость, проходящую через $M \perp Oz$ и $M_0$, точку пересечения этой плоскости с $Oz \Rightarrow M_0 = M_0(0, 0, z_1) \Rightarrow $ вся окружность с центром в $M_0$, проходящая через $M$, целиком лежит нв этой поверхности. \par Рассмотри пересечение этой окружности с $Oxz: M_1 $и$ M_2$.
+Заметим, что $M_0 M_1, M_0 M_2, M_0 M$ - радиусы одной окружности(поэтому они равны друг другу). $\Rightarrow M_0 M_1 = M_0 M_2 = M_0 M = \\ = \sqrt{(x_1 - 0)^2 + (y_1 - 0)^2 + (z_1-z_1)^2} = \sqrt{x_1^2 + y_1^2} \\ \Rightarrow M_1(\sqrt{x_1^2 + y_1^2}, 0, z_1), M_2(-\sqrt{x_1^2 + y_1^2}, 0, z_1)$. Так как $M$ принадлежит поверхности вращения, $\sqrt{x_1^2 + y_1^2} = f(z_1) \Rightarrow x_1^2 + y_1^2 = (f(z_1))^2 \Rightarrow $ эта линия вращения задана
+\boxedeq{eq:*}{x^2 = y^2 = f^2(z)}
+Поверхнощение второго порядка тогда, когда многочлен от $z$ не более второго порядка:
+\begin{itemize}
+  \item $f(z) = a$
+  \item $f(z) = \sqrt{az^2 + b}$
+  \item $f(z) = \sqrt{az^2 + bz + c}$
+\end{itemize}
+
+\chapter{Циллиндрические поверхности}
+Пусть в пространстве задага линия $\gamma$ и ненулевой вектор $\vec{p}$. Поверхность нахывается циллиндрической,
+если вместе с любой своей точкой она содержит и вс прямую, параллельную $\vec{p}$ и проходящую через эту точку. Такие прямые называются образующими.
+В пространствк рассмотрим СК $Oxyz$ такую, что $Oz \parallel \vec{p} \Rightarrow$ Все образующие Ц.П. параллельны $Oz$ и имеют направляющим вектором $\vec{p}$.
+Ц.П. можно задать следующим образом: Пусть в плоскости $Oxy$ задана линия $\gamma := f(x, y) = 0$; через каждую точук этой линии проведём прямую, параллельную $Ox$.
+Тут $\gamma$ называется направляющей для этой Ц.П. \par Найдём уравнение, задающее Ц.П. Рассмотрим произвольную точку $M(x, y, z)$ в пространстве.  Её проекция $M_1$ на
+$Oxy$ имеет координаты $M_1(x, y, 0) \Rightarrow M_1 \in \gamma \Rightarrow f(x, y) = 0$. Если направляющая $\gamma$ в $Oxy$ задаётся уравнением $f(x, y) = 0$, Ц.П. так же задаётся уравнением $f(x, y) = 0$ и $f(x, y) = a_1x^2 + a_2y^2 + a_3xy + a_4x + a_5 y + a_0 = 0$ - второго порядка. Из $a_1, a_2, a_2$ хотя бы один ненулевой.
+\begin{figure*}
+    \centering
+    \begin{subfigure}{.5\textwidth}
+        \centering
+        \includegraphics[scale=0.5]{./pics/elcyl.png}
+        \caption[l]{Эллиптический циллиндр \\ \boxedeq{eq:*}{\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1} \\ При $a = b$  получаем цилиндр вращения(школьный).}
+    \end{subfigure}%
+    ~
+    \begin{subfigure}{.5\textwidth}
+        \centering
+        \includegraphics[scale=0.5]{./pics/shkarlupa.png}
+        \caption[r]{Гиперболический циллиндр \\ \boxedeq{eq:*}{\frac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+    \end{subfigure}
+\newline
+  \begin{subfigure}{.5\textwidth}
+        \centering
+        \includegraphics[scale=0.5]{./pics/pip.jpg}
+        \caption[r]{Параболический циллиндр \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+    \end{subfigure}
+    \newline
+  \end{figure*}
+  \\
+  \begin{figure*}
+      \centering
+    \begin{subfigure}{.5\textwidth}
+        \centering
+        \includegraphics[scale=0.5]{./pics/jizz.png}
+        \caption[r]{Пара плоскостей \\ \boxedeq{eq:*}{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+    \end{subfigure}
+    ~
+    \begin{subfigure}{.5\textwidth}
+        \centering
+        \includegraphics[scale=0.5]{./pics/joq.jpg}
+        \caption[r]{Пара плоскостей \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+    \end{subfigure}
+\end{figure*}
+
+\chapter{Конические поверхности}
+
+
 
 
 \end{document}
