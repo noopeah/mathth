@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1578029410 "math_sem1.tex" "math_sem1.pdf" "math_sem1" 1578029416
+["pdflatex"] 1578032902 "math_sem1.tex" "math_sem1.pdf" "math_sem1" 1578032909
   "c:/Users/fiiql/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx0500.tfm" 1576366664 3320 09de79dc91674ba4d9d7a89b9018276c ""
   "c:/Users/fiiql/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx0700.tfm" 1576366660 3328 d6a760976be2c5546586233212eda387 ""
   "c:/Users/fiiql/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1576366658 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
@@ -259,13 +259,13 @@
   "c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1576270129 4731890 9333a7d96806763f2b69ce3f70797495 ""
   "c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1576270213 4290738 5927c850d68eaef1733f23e3a4f6e051 ""
   "c:/texlive/2019/texmf.cnf" 1576270096 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "math_sem1.aux" 1578029415 11770 074776e1d6b5380cf0a286d1caa58cd9 "pdflatex"
-  "math_sem1.out" 1578029415 11218 7b9328b5e1daa07123fcb7aad6e2e61b "pdflatex"
-  "math_sem1.tex" 1578029409 89588 721334b26a60c2163c21f865df121641 ""
-  "math_sem1.toc" 1578029415 5262 c036bc57d9d3afd43c20b3ba4d638942 "pdflatex"
+  "math_sem1.aux" 1578032908 11588 cde6e3636fb8520d7f745a0f36a38496 "pdflatex"
+  "math_sem1.out" 1578032908 11151 31084243526b79f38bf104af35f21c56 "pdflatex"
+  "math_sem1.tex" 1578032841 89364 0ecf5f0d0ea1e04990cec76f52dd0dbc ""
+  "math_sem1.toc" 1578032908 5197 f898485d246d5b5ea06e521766f0f905 "pdflatex"
   (generated)
-  "math_sem1.log"
   "math_sem1.out"
   "math_sem1.pdf"
   "math_sem1.aux"
+  "math_sem1.log"
   "math_sem1.toc"
