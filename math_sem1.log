@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  4 JAN 2020 04:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  4 JAN 2020 05:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1020,6 +1020,21 @@ File: pgflibrarypatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 Package hyperref Info: Option `colorlinks' set `false' on input line 27.
 \c@thm=\count156
  (./math_sem1.aux
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
+
+LaTeX Warning: Label `eq:*' multiply defined.
+
 
 LaTeX Warning: Label `eq:*' multiply defined.
 
@@ -2158,10 +2173,16 @@ Overfull \hbox (5.62282pt too wide) in paragraph at lines 1456--1458
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 48.
-<./pics/elcyl.png, id=891, 150.5625pt x 301.125pt>
+
+Overfull \hbox (3.73302pt too wide) in paragraph at lines 1472--1474
+[]\T2A/cmr/m/n/10 Õ‡È‰ºÏ Û‡‚-ÌÂ-ÌËÂ, Á‡-‰‡-˛-˘ÂÂ ÷.œ. –‡Ò-ÒÏÓÚ-ËÏ ÔÓ-ËÁ-‚ÓÎ¸
+-ÌÛ˛ ÚÓ˜-
+ []
+
+<./pics/elcyl.png, id=904, 150.5625pt x 301.125pt>
 File: ./pics/elcyl.png Graphic file (type png)
 <use ./pics/elcyl.png>
-Package pdftex.def Info: ./pics/elcyl.png  used on input line 1477.
+Package pdftex.def Info: ./pics/elcyl.png  used on input line 1479.
 (pdftex.def)             Requested size: 75.28105pt x 150.56212pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2170,7 +2191,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1478 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
+l.1480 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2179,7 +2200,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1478 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
+l.1480 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2187,31 +2208,31 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1478 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1480 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1478 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
+l.1480 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1478--1478
+Underfull \hbox (badness 10000) in paragraph at lines 1480--1480
 
  []
 
-<./pics/shkarlupa.png, id=892, 379.4175pt x 379.4175pt>
+<./pics/shkarlupa.png, id=905, 379.4175pt x 379.4175pt>
 File: ./pics/shkarlupa.png Graphic file (type png)
 <use ./pics/shkarlupa.png>
-Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 1483.
+Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 1485.
 (pdftex.def)             Requested size: 189.70828pt x 189.70828pt.
 
-Overfull \hbox (17.20828pt too wide) in paragraph at lines 1483--1484
+Overfull \hbox (17.20828pt too wide) in paragraph at lines 1485--1486
  [][] 
  []
 
@@ -2222,7 +2243,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1484 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.1486 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2231,7 +2252,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1484 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.1486 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2239,28 +2260,28 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1484 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1486 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1484 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.1486 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1486--1486
 
  []
 
-<./pics/pip.jpg, id=894, 200.75pt x 221.82875pt>
+<./pics/pip.jpg, id=907, 200.75pt x 221.82875pt>
 File: ./pics/pip.jpg Graphic file (type jpg)
 <use ./pics/pip.jpg>
-Package pdftex.def Info: ./pics/pip.jpg  used on input line 1489.
+Package pdftex.def Info: ./pics/pip.jpg  used on input line 1491.
 (pdftex.def)             Requested size: 100.37474pt x 110.9141pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2269,7 +2290,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1490 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.1492 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2278,7 +2299,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1490 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.1492 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2286,33 +2307,46 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1490 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1492 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1490 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.1492 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+Underfull \hbox (badness 10000) in paragraph at lines 1492--1492
 
  []
 
 
-Overfull \hbox (4.44336pt too wide) in paragraph at lines 1475--1493
+Overfull \hbox (4.44336pt too wide) in paragraph at lines 1477--1495
  []$[]$  $[]$  
  []
 
-<./pics/jizz.png, id=895, 251.4996pt x 162.3666pt>
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1497   \begin
+               {figure*}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./pics/jizz.png, id=908, 251.4996pt x 162.3666pt>
 File: ./pics/jizz.png Graphic file (type png)
 <use ./pics/jizz.png>
-Package pdftex.def Info: ./pics/jizz.png  used on input line 1499.
+Package pdftex.def Info: ./pics/jizz.png  used on input line 1501.
 (pdftex.def)             Requested size: 125.74948pt x 81.18309pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2321,7 +2355,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1500 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.1502 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2330,7 +2364,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1500 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.1502 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2338,28 +2372,28 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1500 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1502 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1500 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.1502 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1500--1500
+Underfull \hbox (badness 10000) in paragraph at lines 1502--1502
 
  []
 
-<./pics/joq.jpg, id=896, 142.28156pt x 142.28156pt>
+<./pics/joq.jpg, id=909, 142.28156pt x 142.28156pt>
 File: ./pics/joq.jpg Graphic file (type jpg)
 <use ./pics/joq.jpg>
-Package pdftex.def Info: ./pics/joq.jpg  used on input line 1505.
+Package pdftex.def Info: ./pics/joq.jpg  used on input line 1507.
 (pdftex.def)             Requested size: 71.1406pt x 71.1406pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2368,7 +2402,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1506 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.1508 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2377,7 +2411,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1506 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.1508 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2385,33 +2419,279 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1506 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1508 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1506 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.1508 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-Overfull \hbox (3.73302pt too wide) in paragraph at lines 1471--1509
-[]\T2A/cmr/m/n/10 Õ‡È‰ºÏ Û‡‚-ÌÂ-ÌËÂ, Á‡-‰‡-˛-˘ÂÂ ÷.œ. –‡Ò-ÒÏÓÚ-ËÏ ÔÓ-ËÁ-‚ÓÎ¸
--ÌÛ˛ ÚÓ˜-
- []
 
 [68
 
 ] [69 <./pics/elcyl.png> <./pics/shkarlupa.png> <./pics/pip.jpg>] [70 <./pics/j
 izz.png (PNG copy)> <./pics/joq.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 49.
+<./pics/jiji.png, id=941, 1027.84pt x 969.6225pt>
+File: ./pics/jiji.png Graphic file (type png)
+<use ./pics/jiji.png>
+Package pdftex.def Info: ./pics/jiji.png  used on input line 1524.
+(pdftex.def)             Requested size: 205.56436pt x 193.92107pt.
+
+Overfull \hbox (33.06436pt too wide) in paragraph at lines 1524--1525
+ [][] 
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1525 ...{x^2}{a^2} + \frac{y^2}{b^2} - z^2 = 0}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in restricted horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.1525 ...{x^2}{a^2} + \frac{y^2}{b^2} - z^2 = 0}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{equation*} on input line 1525 ended by \end{AmSequation*}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1525 ...{x^2}{a^2} + \frac{y^2}{b^2} - z^2 = 0}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1525
+
+ []
+
+File: ./pics/shkarlupa.png Graphic file (type png)
+<use ./pics/shkarlupa.png>
+Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 1530.
+(pdftex.def)             Requested size: 189.70828pt x 189.70828pt.
+
+Overfull \hbox (17.20828pt too wide) in paragraph at lines 1530--1531
+ [][] 
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1531 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in restricted horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.1531 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{equation*} on input line 1531 ended by \end{AmSequation*}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1531 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1531
+
+ []
+
+File: ./pics/pip.jpg Graphic file (type jpg)
+<use ./pics/pip.jpg>
+Package pdftex.def Info: ./pics/pip.jpg  used on input line 1536.
+(pdftex.def)             Requested size: 100.37474pt x 110.9141pt.
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1537 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in restricted horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.1537 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{equation*} on input line 1537 ended by \end{AmSequation*}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1537 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1537--1537
+
+ []
+
+
+LaTeX Warning: Float too large for page by 137.99257pt on input line 1540.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1542   \begin
+               {figure*}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ./pics/jizz.png Graphic file (type png)
+<use ./pics/jizz.png>
+Package pdftex.def Info: ./pics/jizz.png  used on input line 1546.
+(pdftex.def)             Requested size: 125.74948pt x 81.18309pt.
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1547 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in restricted horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.1547 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{equation*} on input line 1547 ended by \end{AmSequation*}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1547 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
+
+ []
+
+File: ./pics/joq.jpg Graphic file (type jpg)
+<use ./pics/joq.jpg>
+Package pdftex.def Info: ./pics/joq.jpg  used on input line 1552.
+(pdftex.def)             Requested size: 71.1406pt x 71.1406pt.
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1553 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\eqno' in restricted horizontal mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.1553 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{equation*} on input line 1553 ended by \end{AmSequation*}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1553 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 [71
 
-]
+] [72 <./pics/jiji.png>] [73]
 
 ! LaTeX Error: \begin{enumerate} on input line 1101 ended by \end{document}.
 
@@ -2419,25 +2699,25 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1514 \end{document}
+l.1556 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1514.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1514.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1556.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1556.
 (./math_sem1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1514.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1514.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1556.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1556.
 
 Package rerunfilecheck Info: File `math_sem1.out' has not changed.
-(rerunfilecheck)             Checksum: C75E4BFA5D65EA39460E2028D636A34E;13434.
+(rerunfilecheck)             Checksum: 268EE5846E40E474EB2BD05A12E1E6EB;13660.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1514.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1556.
  )
 (\end occurred inside a group at level 2)
 
@@ -2445,13 +2725,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1514.
 ### semi simple group (level 1) entered at line 823 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34489 strings out of 492163
- 764079 string characters out of 6129075
- 962124 words of memory out of 5000000
- 37958 multiletter control sequences out of 15000+600000
+ 34514 strings out of 492163
+ 764399 string characters out of 6129075
+ 962130 words of memory out of 5000000
+ 37965 multiletter control sequences out of 15000+600000
  35607 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,18n,103p,743b,2326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,17n,103p,743b,2326s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
 2a.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c
 :/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive
@@ -2481,15 +2761,16 @@ exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/201
 st/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2019/texmf-dist/fonts/t
 ype1/public/cm-super/sfrm0900.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super
-/sfrm1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.
-pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/te
-xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2019
-/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dis
-t/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on math_sem1.pdf (72 pages, 847172 bytes).
+/sfrm1200.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1440.
+pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/te
+xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2019
+/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2019/texmf-dis
+t/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1000.pfb>
+Output written on math_sem1.pdf (74 pages, 1058497 bytes).
 PDF statistics:
- 1118 PDF objects out of 1200 (max. 8388607)
- 989 compressed objects within 10 object streams
- 324 named destinations out of 1000 (max. 500000)
- 530 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1165 PDF objects out of 1200 (max. 8388607)
+ 1030 compressed objects within 11 object streams
+ 341 named destinations out of 1000 (max. 500000)
+ 551 words of extra memory for PDF output out of 10000 (max. 10000000)
 

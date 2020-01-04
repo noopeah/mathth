@@ -59,4 +59,6 @@
 \contentsline {section}{\numberline {46.1}Метод сечений}{66}{section.46.1}%
 \contentsline {chapter}{\numberline {47}Поверхности вращения}{67}{chapter.47}%
 \contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{68}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Примеры}{68}{section.48.1}%
 \contentsline {chapter}{\numberline {49}Конические поверхности}{71}{chapter.49}%
+\contentsline {section}{\numberline {49.1}Примеры}{71}{section.49.1}%
