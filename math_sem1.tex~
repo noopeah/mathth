@@ -624,7 +624,8 @@ $y = f(x)$ определена на $(x_0 - \delta; x_0]$ такая функц
             \item $\lim_{x \rightarrow x_0}{f(x) \cdot h(x)} = lim_{x \rightarrow x_0}{g(x) \cdot h(x)}$
             \item $\lim_{x \rightarrow x_0}{\frac{f(x)}{h(x)}} = \lim_{x \rightarrow x_0}{\frac{g(x)}{h(x)}}$
         \end{itemize}
-    \end{thm}
+    \end{thm}\\
+
     Таблица эквивалентных при $x \rightarrow x_0$: \\
     \begin{center}
         \begin{tabular}{c|c}
@@ -1321,7 +1322,6 @@ $$
 Рассмотрим $\lim_{\Delta \rightarrow 0}{\sum_{i = 1}^n \Delta_i \cdot f(\xi_i)} $. Если такой предел существует и конечен, не зависит от
 разбиения и от выбора $\xi_i$ , то этот предел называется определённым интегралом $\int_{a}^b f(x) dx$
 
-
 \begin{thm}
   необходимые условия интегрируемости. Если функция интегрируема на отрезке, то она ограничена на этом отрезке.
   \begin{proof}
@@ -1508,7 +1508,5 @@ $Oxy$ имеет координаты $M_1(x, y, 0) \Rightarrow M_1 \in \gamma \
 \end{figure*}
 
 \chapter{Конические поверхности}
-
-Они тип состоят из коней гы. Поэтому КОНИческие.
 
 \end{document}
