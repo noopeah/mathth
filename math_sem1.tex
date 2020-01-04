@@ -40,10 +40,20 @@
 \tableofcontents
 
 \chapter{PUBLIC SERVICE ANNOUNCEMENT}
-{\Huge DEAR SLAVS, TODAY, I HAVE TO ASK YOU TO HELP ME! HELP ME AND THIS PROJECT BY REARRANGING QUESTIONS IN THE CORRENT ORDER, SO IT MAKES SENSE.
-ALSO, I'D LIKE TO SEE PLACEHOLDERS FOR ALL OF THE QUESTIONS THAT ARE NOT IMPLEMENTED YET. \\
-  {\Huge \LaTeX-хуячеры}}
+\begin{center}
+Todo list
+\end{center}
+\begin{enumerate}
+\item add pictures to latter questions
+\item fix types and mistakes, pointed out by redactors
+\item align pictures properly
+\item fill out the progress table
+\item fix chapter names
+\item rearrange misaligned questions
+  \item redo tikzpictures for the $2^{nd}$ quesiton
+\end{enumarate}
 
+\setcounter{chapter}{0}
 \chapter[Множества]{Элементы теортии Множеств}
 \section{Множества и операции над ними}
 
@@ -1580,7 +1590,7 @@ no    \end{subfigure}
 \begin{figure*}
         \centering
         \includegraphics[scale=0.05]{./pics/jiji.png}
-        \caption[l]{Эллиптический конус \\ \boxedeq{eq:*}{\frac{x^2}{a^2} + \frac{y^2}{b^2} - z^2 = 0}}
+[l]{Эллиптический конус \\ \boxedeq{eq:*}{\frac{x^2}{a^2} + \frac{y^2}{b^2} - z^2 = 0}}
 \end{figure*} \\
 
 Рассмотрим сечения конуса вращения различными плоскостями. 3 случая, если через начало координат:
@@ -1614,9 +1624,9 @@ no    \end{subfigure}
 3 случая:
 \begin{enumerate}
 
-\item $$ |h| > c \Leftrightarrow 1 - \frac{h^2}{c^2} < 0 \Rightarrow$$ нет таких точек
-\item $$ |h| = c \Leftrightarrow \frac{x^2}{a^2} + \frac{y^2}{b^2} = 0 \Rightarrow \begin{cases} x = 0 \\ y = 0 \\ z = \pm h = \pm c \end{cases} $$
-\item $$ |h| < c \Leftrightarrow \frac{x^2}{a^2} + \frac{y^2}{b^2}  = 1 - \frac{h^2}{c^2},  \frac{h^2}{c^2} < 1 \Rightarrow  $$ Эллипс
+\item $ |h| > c \Leftrightarrow 1 - \frac{h^2}{c^2} < 0 \Rightarrow$ нет таких точек
+\item $ |h| = c \Leftrightarrow \frac{x^2}{a^2} + \frac{y^2}{b^2} = 0 \Rightarrow \begin{cases} x = 0 \\ y = 0 \\ z = \pm h = \pm c \end{cases} $
+\item $ |h| < c \Leftrightarrow \frac{x^2}{a^2} + \frac{y^2}{b^2}  = 1 - \frac{h^2}{c^2},  \frac{h^2}{c^2} < 1 \Rightarrow  $ Эллипс
   
 \end{enumerate}
 
@@ -1626,6 +1636,71 @@ no    \end{subfigure}
 
 \subsection{Однополостные}
 
-\boxedeq{eq:*}{}
+\boxedeq{eq:*}{\frac{x^2}{a^2} + \frac{y^2}{b^22} - \frac{z^2}{c^2} = 1} \\ симметриность как у гиперболоида.
+
+Выведем через сечения:
+\begin{enumerate}
+\item $ z = h: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 + \frac{h^2}{a^2}, 1 + \frac{h^2}{a^2} > 0 \Rightarrow \forall h $ эллипс, он растёт, при $h = 0$ горловой эллипс, он самый мелкий.
+\item $x = h: \frac{y^2}{b^2} - \frac{z^2}{c^2} = 1 - \frac{h^2}{a^2}:$ \begin{enumerate}
+    \item $|h| < a, 1 - \frac{h^2}{a^2} > 0 \Rightarrow $ Гипербола
+    \item $|h| = a, \frac{y^2}{b^2} - \frac{z^2}{c^2} = 0 \Rightarrow $ Пара пересекающихся прямых
+    \item $|h| > a, 1 - \frac{h^2}{a^2} < 0 \Rightarrow $ Перевёрнутая начальная парабола (свопнуты действительная и мнимая оси)
+  \end{enumerate}
+\item $y = h$ см. $x = h$
+\end{enumerate}
+
+\section{Двуполостный гиперболоид, виброчаша}
+
+\boxedeq{eq:*}{\frac{x^2}{a^2} + \frac{y^2}{b^22} - \frac{z^2}{c^2} = -1} \\ симметричность, как у остальных посонов \\
+сечём $z = h$
+\begin{equation}
+\frac{x^2}{a^2} + \frac{y^2}{b^2} = \frac{h^2}{c^2} - 1
+\end{equation}
+\begin{enumerate}
+
+\item $|h| < c: \frac{x^2}{a^2} + \frac{y^2}{b^2} = \frac{h^2}{c^2} - 1 \Rightarrow \emptyset$
+\item $|h| = c: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 0 \Rightarrow $ Точки, низ и верх виброчаш
+  \item $|h| > c: \frac{h^2}{c^2} - 1 > 0 \Rightarrow $ Эллипс
+  
+\end{enumerate}
+теперь сечём $x = h$
+  \begin{equation}
+    \frac{y^2}{b^2} - \frac{z^2}{c^2} = -1 - \frac{h^2}{a^2} \Rightarrow
+  \end{equation}
+  Гипербола
+
+\section{Параболоиды}
+\subsection{Эллиптический}
+\boxedeq{eq:*}{\frac{x^2}{a^2} + \frac{y^2}{b^2} = 2z}
+симметричен, но не как виброчаша, его нет сверху, он яма.
+сечём $z = h$:
+\begin{enumerate}
+\item $h < 0: \frac{x^2}{a^2} + \frac{y^2}{b^2} < 0 \Rightarrow \emptyset$
+\item $h = 0: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 0 \Rightarrow (0;0;0)$
+\item $h > 0: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 2h \Rightarrow $ Эллипс
+\end{enumerate}
+теперь режем $x=h$ (также будет и с $y = h$)
+\begin{equation}
+  \frac{h^2}{a^2} + \frac{y^2}{b^2} = 2z \Leftrightarrow \frac{y^2}{b^2} = 2(z - \frac{h^2}{2a^2})
+\end{equation}
+получаем сдвигающуюсю вверх на $\frac{h^2}{2b^2}$ параболу.
+\subsection{Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}
+\boxedeq{eq:*}{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 2z}
+Чёткий, симметричный, но не относительно $Oxy, O$
+Режем $z = h$
+\begin{enumerate}
+\item $h < 0: \frac{x^2}{a^2} - \frac{y^2}{b^2} < 0 \Rightarrow $ Гипербола(действительная $Oy$)
+\item $h = 0: \frac{x^2}{a^2} - \frac{y^2}{b^2} = 0 \Rightarrow $ 2 пересекающиеся прямвые
+  \item $h > 0: \frac{x^2}{a^2} - \frac{y^2}{b^2} = 2h \Rightarrow $ Гипербола(действительная $Ox$)
+Теперь $x = h$
+\begin{equation}
+  \frac{h^2}{a^2} - \frac{y^2}{b^2} = 2z \Rightarrow \frac{-y^2}{b^2} = 2(z - \frac{h^2}{a^2})
+\end{equation}
+это парабола, полученная сдвигом на $\frac{h^2}{2a^2}$
+Теперь $y = h$
+\begin{equation}
+  \frac{x^2}{a^2} = 2(z + \frac{h^2}{b^2})
+\end{equation}
+Это парабола, сдвигающаяся вниз
 
 \end{document}
