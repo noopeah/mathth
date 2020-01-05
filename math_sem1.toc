@@ -63,17 +63,31 @@
 \contentsline {chapter}{\numberline {35}Определённый интеграл}{63}{chapter.35}%
 \contentsline {section}{\numberline {35.1}Свойства}{64}{section.35.1}%
 \contentsline {chapter}{\numberline {36}Формула Ньютона-Лейбница}{67}{chapter.36}%
-\contentsline {chapter}{\numberline {46}Поверхности второго порядка, метод сечения}{69}{chapter.46}%
-\contentsline {section}{\numberline {46.1}Метод сечений}{69}{section.46.1}%
-\contentsline {chapter}{\numberline {47}Поверхности вращения}{70}{chapter.47}%
-\contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{71}{chapter.48}%
-\contentsline {section}{\numberline {48.1}Примеры}{71}{section.48.1}%
-\contentsline {chapter}{\numberline {49}Конические поверхности}{73}{chapter.49}%
-\contentsline {chapter}{\numberline {50}Эллипсоид, Параболоиды, Гиперболоиды}{75}{chapter.50}%
-\contentsline {section}{\numberline {50.1}Эллипсоид}{75}{section.50.1}%
-\contentsline {section}{\numberline {50.2}Гиперболоиды}{76}{section.50.2}%
-\contentsline {subsection}{\numberline {50.2.1}Однополостные}{76}{subsection.50.2.1}%
-\contentsline {section}{\numberline {50.3}Двуполостный гиперболоид, виброчаша}{76}{section.50.3}%
-\contentsline {section}{\numberline {50.4}Параболоиды}{77}{section.50.4}%
-\contentsline {subsection}{\numberline {50.4.1}Эллиптический}{77}{subsection.50.4.1}%
-\contentsline {subsection}{\numberline {50.4.2}Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}{77}{subsection.50.4.2}%
+\contentsline {chapter}{\numberline {37}Несобственные интегралы, их свойства и вычисление}{69}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Вопрос о сходимости интегралов}{71}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Множества и операции над ними}{71}{section.37.2}%
+\contentsline {subsection}{\numberline {37.2.1}Признак сравнения}{71}{subsection.37.2.1}%
+\contentsline {subsection}{\numberline {37.2.2}Предельный признак сравнения}{71}{subsection.37.2.2}%
+\contentsline {subsection}{\numberline {37.2.3}Признак Абеля-Дирихле}{71}{subsection.37.2.3}%
+\contentsline {subsection}{\numberline {37.2.4}Свойства несобственного интеграла второго рода}{72}{subsection.37.2.4}%
+\contentsline {chapter}{\numberline {38}Матрицы и операции над ними}{73}{chapter.38}%
+\contentsline {section}{\numberline {38.1}Свойства сложения и вычитания}{74}{section.38.1}%
+\contentsline {section}{\numberline {38.2}Свойства умножения матриц}{74}{section.38.2}%
+\contentsline {subsection}{\numberline {38.2.1}Умножение матрицы на число}{74}{subsection.38.2.1}%
+\contentsline {subsection}{\numberline {38.2.2}Перемножение матриц}{75}{subsection.38.2.2}%
+\contentsline {section}{\numberline {38.3}Определитель матрицы}{75}{section.38.3}%
+\contentsline {chapter}{\numberline {39}Свойства определителя}{77}{chapter.39}%
+\contentsline {chapter}{\numberline {46}Поверхности второго порядка, метод сечения}{79}{chapter.46}%
+\contentsline {section}{\numberline {46.1}Метод сечений}{79}{section.46.1}%
+\contentsline {chapter}{\numberline {47}Поверхности вращения}{80}{chapter.47}%
+\contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{81}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Примеры}{81}{section.48.1}%
+\contentsline {chapter}{\numberline {49}Конические поверхности}{83}{chapter.49}%
+\contentsline {chapter}{\numberline {50}Эллипсоид, Параболоиды, Гиперболоиды}{85}{chapter.50}%
+\contentsline {section}{\numberline {50.1}Эллипсоид}{85}{section.50.1}%
+\contentsline {section}{\numberline {50.2}Гиперболоиды}{86}{section.50.2}%
+\contentsline {subsection}{\numberline {50.2.1}Однополостные}{86}{subsection.50.2.1}%
+\contentsline {section}{\numberline {50.3}Двуполостный гиперболоид, виброчаша}{86}{section.50.3}%
+\contentsline {section}{\numberline {50.4}Параболоиды}{87}{section.50.4}%
+\contentsline {subsection}{\numberline {50.4.1}Эллиптический}{87}{subsection.50.4.1}%
+\contentsline {subsection}{\numberline {50.4.2}Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}{87}{subsection.50.4.2}%
