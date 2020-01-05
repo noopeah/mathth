@@ -43,51 +43,54 @@
 \contentsline {section}{\numberline {15.1}Эквивалентность}{34}{section.15.1}%
 \contentsline {chapter}{\numberline {16}DPMW}{36}{chapter.16}%
 \contentsline {chapter}{\numberline {17}Непрерывность функции на отрезке}{37}{chapter.17}%
-\contentsline {chapter}{\numberline {18}DPMW}{39}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Производная функции, односторонние производные}{40}{chapter.19}%
-\contentsline {chapter}{\numberline {20}DPMW}{43}{chapter.20}%
-\contentsline {chapter}{\numberline {21}правила дифференцирования}{44}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Дифференциал функции}{46}{chapter.22}%
-\contentsline {section}{\numberline {22.1}Св. производной}{47}{section.22.1}%
-\contentsline {chapter}{\numberline {23}Производные и дифференциалы высших порядков}{50}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Дифференцирование функции, заданной параметрически}{51}{chapter.24}%
-\contentsline {chapter}{\numberline {25}Локальный экстремум функции, теорема Ферма}{52}{chapter.25}%
-\contentsline {chapter}{\numberline {26}Теоремы Ролля, Лагранжа, Коши}{54}{chapter.26}%
-\contentsline {chapter}{\numberline {27}Правило Лопиталя}{56}{chapter.27}%
-\contentsline {chapter}{\numberline {32}Неопределённый интеграл}{59}{chapter.32}%
-\contentsline {section}{\numberline {32.1}Первообразная}{59}{section.32.1}%
-\contentsline {section}{\numberline {32.2}Свойства}{59}{section.32.2}%
-\contentsline {section}{\numberline {32.3}Таблица Интегралов\\}{60}{section.32.3}%
-\contentsline {chapter}{\numberline {33}Замен переменной}{62}{chapter.33}%
-\contentsline {chapter}{\numberline {34}Интегрирование по частям}{63}{chapter.34}%
-\contentsline {chapter}{\numberline {35}Определённый интеграл}{64}{chapter.35}%
-\contentsline {section}{\numberline {35.1}Свойства}{65}{section.35.1}%
-\contentsline {chapter}{\numberline {36}Формула Ньютона-Лейбница}{68}{chapter.36}%
-\contentsline {chapter}{\numberline {37}Несобственные интегралы, их свойства и вычисление}{70}{chapter.37}%
-\contentsline {section}{\numberline {37.1}Вопрос о сходимости интегралов}{72}{section.37.1}%
-\contentsline {section}{\numberline {37.2}Множества и операции над ними}{72}{section.37.2}%
-\contentsline {subsection}{\numberline {37.2.1}Признак сравнения}{72}{subsection.37.2.1}%
-\contentsline {subsection}{\numberline {37.2.2}Предельный признак сравнения}{72}{subsection.37.2.2}%
-\contentsline {subsection}{\numberline {37.2.3}Признак Абеля-Дирихле}{72}{subsection.37.2.3}%
-\contentsline {subsection}{\numberline {37.2.4}Свойства несобственного интеграла второго рода}{73}{subsection.37.2.4}%
-\contentsline {chapter}{\numberline {38}Матрицы и операции над ними}{74}{chapter.38}%
-\contentsline {section}{\numberline {38.1}Свойства сложения и вычитания}{75}{section.38.1}%
-\contentsline {section}{\numberline {38.2}Свойства умножения матриц}{75}{section.38.2}%
-\contentsline {subsection}{\numberline {38.2.1}Умножение матрицы на число}{75}{subsection.38.2.1}%
-\contentsline {subsection}{\numberline {38.2.2}Перемножение матриц}{76}{subsection.38.2.2}%
-\contentsline {section}{\numberline {38.3}Определитель матрицы}{76}{section.38.3}%
-\contentsline {chapter}{\numberline {39}Свойства определителя}{78}{chapter.39}%
-\contentsline {chapter}{\numberline {46}Поверхности второго порядка, метод сечения}{80}{chapter.46}%
-\contentsline {section}{\numberline {46.1}Метод сечений}{80}{section.46.1}%
-\contentsline {chapter}{\numberline {47}Поверхности вращения}{81}{chapter.47}%
-\contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{82}{chapter.48}%
-\contentsline {section}{\numberline {48.1}Примеры}{82}{section.48.1}%
-\contentsline {chapter}{\numberline {49}Конические поверхности}{84}{chapter.49}%
-\contentsline {chapter}{\numberline {50}Эллипсоид, Параболоиды, Гиперболоиды}{86}{chapter.50}%
-\contentsline {section}{\numberline {50.1}Эллипсоид}{86}{section.50.1}%
-\contentsline {section}{\numberline {50.2}Гиперболоиды}{87}{section.50.2}%
-\contentsline {subsection}{\numberline {50.2.1}Однополостные}{87}{subsection.50.2.1}%
-\contentsline {section}{\numberline {50.3}Двуполостный гиперболоид, виброчаша}{87}{section.50.3}%
-\contentsline {section}{\numberline {50.4}Параболоиды}{88}{section.50.4}%
-\contentsline {subsection}{\numberline {50.4.1}Эллиптический}{88}{subsection.50.4.1}%
-\contentsline {subsection}{\numberline {50.4.2}Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}{88}{subsection.50.4.2}%
+\contentsline {chapter}{\numberline {18}Теорема Коши о прохождении через ноль. Теорема Коши о промежуточном значении}{39}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Теорема Больцано-Коши о среднем значении}{39}{section.18.1}%
+\contentsline {subsection}{\numberline {18.1.1}Доказательство}{39}{subsection.18.1.1}%
+\contentsline {section}{\numberline {18.2}Важное следствие}{40}{section.18.2}%
+\contentsline {chapter}{\numberline {19}Производная функции, односторонние производные}{41}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Уравнение касательной и нормали к графику функции}{44}{chapter.20}%
+\contentsline {chapter}{\numberline {21}правила дифференцирования}{46}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Дифференциал функции}{48}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Св. производной}{49}{section.22.1}%
+\contentsline {chapter}{\numberline {23}Производные и дифференциалы высших порядков}{52}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Дифференцирование функции, заданной параметрически}{53}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Локальный экстремум функции, теорема Ферма}{54}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Теоремы Ролля, Лагранжа, Коши}{56}{chapter.26}%
+\contentsline {chapter}{\numberline {27}Правило Лопиталя}{58}{chapter.27}%
+\contentsline {chapter}{\numberline {32}Неопределённый интеграл}{61}{chapter.32}%
+\contentsline {section}{\numberline {32.1}Первообразная}{61}{section.32.1}%
+\contentsline {section}{\numberline {32.2}Свойства}{61}{section.32.2}%
+\contentsline {section}{\numberline {32.3}Таблица Интегралов\\}{62}{section.32.3}%
+\contentsline {chapter}{\numberline {33}Замен переменной}{64}{chapter.33}%
+\contentsline {chapter}{\numberline {34}Интегрирование по частям}{65}{chapter.34}%
+\contentsline {chapter}{\numberline {35}Определённый интеграл}{66}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Свойства}{67}{section.35.1}%
+\contentsline {chapter}{\numberline {36}Формула Ньютона-Лейбница}{70}{chapter.36}%
+\contentsline {chapter}{\numberline {37}Несобственные интегралы, их свойства и вычисление}{72}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Вопрос о сходимости интегралов}{74}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Множества и операции над ними}{74}{section.37.2}%
+\contentsline {subsection}{\numberline {37.2.1}Признак сравнения}{74}{subsection.37.2.1}%
+\contentsline {subsection}{\numberline {37.2.2}Предельный признак сравнения}{74}{subsection.37.2.2}%
+\contentsline {subsection}{\numberline {37.2.3}Признак Абеля-Дирихле}{74}{subsection.37.2.3}%
+\contentsline {subsection}{\numberline {37.2.4}Свойства несобственного интеграла второго рода}{75}{subsection.37.2.4}%
+\contentsline {chapter}{\numberline {38}Матрицы и операции над ними}{76}{chapter.38}%
+\contentsline {section}{\numberline {38.1}Свойства сложения и вычитания}{77}{section.38.1}%
+\contentsline {section}{\numberline {38.2}Свойства умножения матриц}{77}{section.38.2}%
+\contentsline {subsection}{\numberline {38.2.1}Умножение матрицы на число}{77}{subsection.38.2.1}%
+\contentsline {subsection}{\numberline {38.2.2}Перемножение матриц}{78}{subsection.38.2.2}%
+\contentsline {section}{\numberline {38.3}Определитель матрицы}{78}{section.38.3}%
+\contentsline {chapter}{\numberline {39}Свойства определителя}{80}{chapter.39}%
+\contentsline {chapter}{\numberline {46}Поверхности второго порядка, метод сечения}{82}{chapter.46}%
+\contentsline {section}{\numberline {46.1}Метод сечений}{82}{section.46.1}%
+\contentsline {chapter}{\numberline {47}Поверхности вращения}{83}{chapter.47}%
+\contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{84}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Примеры}{84}{section.48.1}%
+\contentsline {chapter}{\numberline {49}Конические поверхности}{86}{chapter.49}%
+\contentsline {chapter}{\numberline {50}Эллипсоид, Параболоиды, Гиперболоиды}{88}{chapter.50}%
+\contentsline {section}{\numberline {50.1}Эллипсоид}{88}{section.50.1}%
+\contentsline {section}{\numberline {50.2}Гиперболоиды}{89}{section.50.2}%
+\contentsline {subsection}{\numberline {50.2.1}Однополостные}{89}{subsection.50.2.1}%
+\contentsline {section}{\numberline {50.3}Двуполостный гиперболоид, виброчаша}{89}{section.50.3}%
+\contentsline {section}{\numberline {50.4}Параболоиды}{90}{section.50.4}%
+\contentsline {subsection}{\numberline {50.4.1}Эллиптический}{90}{subsection.50.4.1}%
+\contentsline {subsection}{\numberline {50.4.2}Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}{90}{subsection.50.4.2}%
