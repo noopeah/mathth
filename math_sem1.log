@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  5 JAN 2020 03:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.13)  5 JAN 2020 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1571,76 +1571,118 @@ Underfull \hbox (badness 10000) in paragraph at lines 735--740
 
 ] [38]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 18.
+
+Overfull \hbox (3.86574pt too wide) in paragraph at lines 775--783
+\T2A/cmr/m/n/10 Перейдя к пре-де-лу в по-след-нем двой-ном нера-вен-стве и, учи
+-ты-вая непре-
+ []
+
 [39
 
-]
+] [40]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 19.
 
-Overfull \hbox (2.75172pt too wide) in paragraph at lines 781--784
+Overfull \hbox (2.75172pt too wide) in paragraph at lines 801--804
 \T2A/cmr/m/n/10 ству-ют, на-зы-ва-ют-ся од-но-сто-рон-ни-ми про-из-вод-ны-ми и 
 обо-зна-ча-ют-ся $\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1
 /cmr/m/n/10 )$
  []
 
-[40
+[41
 
-] [41] [42]
+] [42] [43]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 20.
-[43
 
-]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 21.
+! LaTeX Error: File `pic1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.896 \includegraphics[scale=0.5]{pic1}
+                                       
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `pic2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.897 \includegraphics[scale=0.5]{pic2}
+                                       \\
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (8.25462pt too wide) in paragraph at lines 878--902
+\T2A/cmr/m/n/10 Если пре-дель-ное зна-че-ние $\OML/cmm/m/it/10 k$ \T2A/cmr/m/n/
+10 при $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/1
+0 0$ \T2A/cmr/m/n/10 яв-ля-ет-ся бес-ко-неч-ным: $[] \OML/cmm/m/it/10 k\OT1/cmr
+/m/n/10 (^^A\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
+ []
+
 [44
 
 ] [45]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 22.
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 914.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 916--917
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 917--917
-
- []
-
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 21.
 [46
 
+] [47]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 22.
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 956.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 958--959
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
+
+ []
+
+[48
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 925--926
+Underfull \hbox (badness 10000) in paragraph at lines 967--968
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 930--931
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 931--933
+Underfull \hbox (badness 10000) in paragraph at lines 973--975
 
  []
 
 ! Double subscript.
-l.939 ...\approx \vert_{x_0 \approx 1 = \sqrt{x}}_
+l.981 ...\approx \vert_{x_0 \approx 1 = \sqrt{x}}_
                                                   {\vert_{x = 1}} $$ \\
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 939--940
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 941--942
+Underfull \hbox (badness 10000) in paragraph at lines 983--984
 
  []
 
 ! Extra }, or forgotten $.
-l.949 ...»СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
+l.991 ...»СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
                                                   $
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1649,22 +1691,22 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (4.42403pt too wide) in paragraph at lines 951--953
+Overfull \hbox (4.42403pt too wide) in paragraph at lines 993--995
 []\T2A/cmr/m/n/10 Если $\OML/cmm/m/it/10 x[]$ \T2A/cmr/m/n/10 - точ-ка ло-каль-
 но-го мак-си-му-ма функ-ции $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 955--955
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 997--997
 
  []
 
-[48]
+[50]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1014 
+l.1056 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1672,7 +1714,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1014 
+l.1056 
        
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1683,7 +1725,7 @@ my insertion and my current dilemma will both disappear.
 ! Display math should end with $$.
 <to be read again> 
                    \@@par 
-l.1014 
+l.1056 
        
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
@@ -1691,7 +1733,7 @@ So I shall assume that you typed `$$' both times.
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1014 
+l.1056 
        
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1702,7 +1744,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1015       F'(c) = 0 \Leftrightarrow
+l.1057       F'(c) = 0 \Leftrightarrow
                                        f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1714,7 +1756,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1017   \end{proof}
+l.1059   \end{proof}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1726,7 +1768,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1017   \end{proof}
+l.1059   \end{proof}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1738,7 +1780,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1017   \end{proof}
+l.1059   \end{proof}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1746,7 +1788,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1017   \end{proof}
+l.1059   \end{proof}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1754,18 +1796,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[49]
+[51]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 23.
-[50
+[52
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 24.
-[51
+[53
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 25.
 ! Extra }, or forgotten $.
-l.1037 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
+l.1089 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
                                                   $
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1774,28 +1816,28 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (4.42403pt too wide) in paragraph at lines 1039--1041
+Overfull \hbox (4.42403pt too wide) in paragraph at lines 1091--1093
 []\T2A/cmr/m/n/10 Если $\OML/cmm/m/it/10 x[]$ \T2A/cmr/m/n/10 - точ-ка ло-каль-
 но-го мак-си-му-ма функ-ции $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1095
 
  []
 
-[52
-
-] [53]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 26.
 [54
+
+] [55]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 26.
+[56
 
 ]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1104 
+l.1156 
        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1803,7 +1845,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1104 
+l.1156 
        
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1814,7 +1856,7 @@ my insertion and my current dilemma will both disappear.
 ! Display math should end with $$.
 <to be read again> 
                    \@@par 
-l.1104 
+l.1156 
        
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
@@ -1822,7 +1864,7 @@ So I shall assume that you typed `$$' both times.
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1104 
+l.1156 
        
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1833,7 +1875,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1105       F'(c) = 0 \Leftrightarrow
+l.1157       F'(c) = 0 \Leftrightarrow
                                        f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1845,7 +1887,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1107   \end{proof}
+l.1159   \end{proof}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1857,7 +1899,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1107   \end{proof}
+l.1159   \end{proof}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1869,7 +1911,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1107   \end{proof}
+l.1159   \end{proof}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1877,7 +1919,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1107   \end{proof}
+l.1159   \end{proof}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1886,7 +1928,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (42.6022pt too wide) in paragraph at lines 1138--1142
+Overfull \hbox (42.6022pt too wide) in paragraph at lines 1190--1194
 \T2A/cmr/m/n/10 Геосмысл тео-ре-мы Лагран-жа: Пря-мая, про-хл-дя-щая че-рез точ
 -ки $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 f\OT
 1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; \OT1/cmr/m
@@ -1894,59 +1936,59 @@ Overfull \hbox (42.6022pt too wide) in paragraph at lines 1138--1142
 OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ))$
  []
 
-[55]
+[57]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 27.
 
-Overfull \hbox (15.223pt too wide) in paragraph at lines 1144--1145
+Overfull \hbox (15.223pt too wide) in paragraph at lines 1196--1197
 \T2A/cmr/m/n/10 Пусть $\OML/cmm/m/it/10 g[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[
 ]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 = 0$\T2A/cmr/m/n/10 . Ес-л
 и су-ще-ству-ет пре-дел $[][] []$, то $[][] [] \OT1/cmr/m/n/10 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+Underfull \hbox (badness 10000) in paragraph at lines 1196--1197
 
  []
 
 
-Overfull \hbox (7.32219pt too wide) in paragraph at lines 1146--1148
+Overfull \hbox (7.32219pt too wide) in paragraph at lines 1198--1200
 []\T2A/cmr/bx/n/10 Замечание: \T2A/cmr/m/n/10 Пра-ви-ло Ло-пи-та-ля так-же спра
 -вед-ли-во, ес-ли $[][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\O
 T1/cmr/m/n/10 ) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1146--1148
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1200
 
  []
 
 
-Overfull \hbox (11.0263pt too wide) in paragraph at lines 1157--1157
+Overfull \hbox (11.0263pt too wide) in paragraph at lines 1209--1209
 \T2A/cmr/m/n/10 Получается$[][] [] \OT1/cmr/m/n/10 = [][] []$\T2A/cmr/m/n/10 , 
 а $[][] [] \OT1/cmr/m/n/10 = [][] []$\T2A/cmr/m/n/10 ,
  []
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1158.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1210.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1158.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1210.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1158.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1210.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1158.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1210.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1160--1163
+Underfull \hbox (badness 10000) in paragraph at lines 1212--1215
 
  []
 
-[56
+[58
 
 ]
-Overfull \hbox (1.1865pt too wide) in paragraph at lines 1167--1168
+Overfull \hbox (1.1865pt too wide) in paragraph at lines 1219--1220
 \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \T2A/cm
 r/m/n/10 не опре-де-ле-ны при $\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 = \OML/cmm/m/
 it/10 x[]$\T2A/cmr/m/n/10 , но $[][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cm
@@ -1955,58 +1997,58 @@ m/m/it/10 x\OT1/cmr/m/n/10 ) = 0$ \T2A/cmr/m/n/10 и $[][] \OML/cmm/m/it/10 g\OT
  []
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1171.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1223.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1171.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1223.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1171.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1223.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1171.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1223.
 
 
-Overfull \hbox (11.42319pt too wide) in paragraph at lines 1179--1188
+Overfull \hbox (11.42319pt too wide) in paragraph at lines 1231--1240
 []$[][] [] \OT1/cmr/m/n/10 = [[]] = [][] [] = [][] [] =
  []
 
 
-Overfull \hbox (19.62929pt too wide) in paragraph at lines 1179--1188
+Overfull \hbox (19.62929pt too wide) in paragraph at lines 1231--1240
 [] [][] [] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 [[]] = [] 
 [][] [] = [] [][] [] =
  []
 
 
-Overfull \hbox (40.85399pt too wide) in paragraph at lines 1191--1206
+Overfull \hbox (40.85399pt too wide) in paragraph at lines 1243--1258
 \OT1/cmr/m/n/10 [[]] = [] [][] [] = [] [][] [] = [][] [] =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1211--1212
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1264
 
  []
 
 
-Overfull \hbox (67.76065pt too wide) in paragraph at lines 1213--1218
+Overfull \hbox (67.76065pt too wide) in paragraph at lines 1265--1270
 []$[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\O
 T1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cm
 m/m/it/10 x\OT1/cmr/m/n/10 )) = [\OMS/cmsy/m/n/10 1 ^^@ 1\OT1/cmr/m/n/10 ] = []
 []([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 ) = [][]([]) =
  []
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 1221--1222
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1230--1231
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1283
 
  []
 
 
-Overfull \hbox (13.77332pt too wide) in paragraph at lines 1234--1235
+Overfull \hbox (13.77332pt too wide) in paragraph at lines 1286--1287
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cm
 r/m/n/10 ) \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/10 0$ \T2A/cmr/m/n/10 при $\OML/cmm/
 m/it/10 x \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 x[]$\T2A/cmr/m/n/10 . Для на-хож-
@@ -2014,10 +2056,10 @@ m/it/10 x \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 x[]$\T2A/cmr/m/n/10 . Для на-хож-
 0 x\OT1/cmr/m/n/10 )[]$
  []
 
-[58]
+[60]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 32.
 
-Overfull \hbox (11.46852pt too wide) in paragraph at lines 1247--1249
+Overfull \hbox (11.46852pt too wide) in paragraph at lines 1299--1301
 [][]\T2A/cmr/bx/n/10 Тероэма 32.1. []\T2A/cmr/m/it/10 Ес-ли функ-ция $\OML/cmm/
 m/it/10 y \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
  x\OT1/cmr/m/n/10 )$ \T2A/cmr/m/it/10 непрерывно-дифференцируема
@@ -2026,7 +2068,7 @@ m/it/10 y \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10
 ! Undefined control sequence.
 <recently read> \exosts 
                         
-l.1250     $\exosts
+l.1302     $\exosts
                     \xi \in (x_1; x_2): g(x-2) - g(x_1) = g'(\xi)\cdot(x_2 -...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2035,14 +2077,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (4.46747pt too wide) in paragraph at lines 1256--1258
+Overfull \hbox (4.46747pt too wide) in paragraph at lines 1308--1310
 []\T2A/cmr/m/n/10 Пусть 2 раз-лич-ные пер-во-об-раз-ные $\OML/cmm/m/it/10 F\OT1
 /cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; G\OT1/cmr/m/
 n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \T2A/cmr/m/n/10 для
  []
 
 
-Overfull \hbox (7.01903pt too wide) in paragraph at lines 1265--1266
+Overfull \hbox (7.01903pt too wide) in paragraph at lines 1317--1318
 []$\OMS/cmsy/m/n/10 8\OML/cmm/m/it/10 ; ^^L \OMS/cmsy/m/n/10 2 \U/msb/m/n/10 R
 \OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 8\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cm
 m/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; g\OT1/cmr/m/n/10 (\OML/cmm/m/it/
@@ -2054,21 +2096,21 @@ m/n/10 + \OML/cmm/m/it/10 ^^L [] g\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m
 /n/10 )\OML/cmm/m/it/10 dx$ 
  []
 
-[59
+[61
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1322
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1270.
+(hyperref)                removing `\\' on input line 1322.
 
-[60] [61]
+[62] [63]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 33.
 
-Overfull \hbox (25.73093pt too wide) in paragraph at lines 1321--1322
+Overfull \hbox (25.73093pt too wide) in paragraph at lines 1373--1374
 [][]\T2A/cmr/bx/n/10 Тероэма 33.1. []\T2A/cmr/m/it/10 Пусть функ-ция $\OML/cmm/
 m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \T2A/cmr/m/it/10
  непре-рыв-на, а $\OML/cmm/m/it/10 x \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^^\OT1
@@ -2076,12 +2118,12 @@ m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )$ \T2A/cmr/m/it/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1375--1375
 
  []
 
 
-Overfull \hbox (8.16525pt too wide) detected at line 1325
+Overfull \hbox (8.16525pt too wide) detected at line 1377
 \OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/c
 mr/m/n/10 )\OML/cmm/m/it/10 dx\OT1/cmr/m/n/10 )[] = ([] \OML/cmm/m/it/10 f\OT1/
 cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/1
@@ -2095,7 +2137,7 @@ cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )
  []
 
 
-Overfull \hbox (9.93968pt too wide) detected at line 1330
+Overfull \hbox (9.93968pt too wide) detected at line 1382
 [][] [] \OML/cmm/m/it/10 tg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )
 \OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = [] []\OML/cmm/m/it/10 dx[] []t \OT1/cmr/m
 /n/10 = \OML/cmm/m/it/10 cos\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 
@@ -2106,24 +2148,24 @@ OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dx \OT1/cmr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1330--1330
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1382
 
  []
 
-[62
+[64
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 34.
 ! Display math should end with $$.
 <to be read again> 
                    \protect 
-l.1337   $\\
+l.1389   $\\
             $ \Rightarrow \int udv = uv - \int vdu
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
 
-Overfull \hbox (49.3179pt too wide) detected at line 1337
+Overfull \hbox (49.3179pt too wide) detected at line 1389
 [][]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 uv\OT1/cmr/m/n/10 ) = (
 \OML/cmm/m/it/10 uv\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = (\O
 ML/cmm/m/it/10 u[]v \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 v[]u\OT1/cmr/m/n/10 )\OM
@@ -2137,7 +2179,7 @@ cmm/m/it/10 udv
 ! You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1338 \end{equation}
+l.1390 \end{equation}
                      
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2147,7 +2189,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1338 \end{equation}
+l.1390 \end{equation}
                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2155,37 +2197,37 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[63
+[65
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 35.
-[64
+[66
 
 ]
-Overfull \hbox (7.43463pt too wide) in paragraph at lines 1401--1403
+Overfull \hbox (7.43463pt too wide) in paragraph at lines 1453--1455
 [][]\T2A/cmr/bx/n/10 Тероэма 35.1. []\T2A/cmr/m/it/10 необ-хо-ди-мые усло-вия и
 н-те-гри-ру-е-мо-сти. Ес-ли функ-
  []
 
 
-Overfull \hbox (10.6809pt too wide) in paragraph at lines 1403--1407
+Overfull \hbox (10.6809pt too wide) in paragraph at lines 1455--1459
 []\T2A/cmr/m/n/10 Произведјм раз-би-е-ние $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a\
 OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ]$\T2A/cmr/m/n/10 . Ес-ли фу
 нк-ция неогра-
  []
 
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 1445--1445
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1511
 
  []
 
 
-Overfull \hbox (10.46829pt too wide) detected at line 1461
+Overfull \hbox (10.46829pt too wide) detected at line 1513
 \OMS/cmsy/m/n/10 ) \OML/cmm/m/it/10 m\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 b \OMS/c
 msy/m/n/10 ^^@ \OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^T [][] \O
 ML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/
@@ -2196,25 +2238,25 @@ mm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/1
 0 dx \OMS/cmsy/m/n/10 ^^T \OML/cmm/m/it/10 M
  []
 
-[66] [67]
+[68] [69]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 36.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1477
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1529
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1478--1478
+Underfull \hbox (badness 10000) in paragraph at lines 1530--1530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1479--1479
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1531
 
  []
 
 
-Overfull \hbox (40.86064pt too wide) in paragraph at lines 1481--1484
+Overfull \hbox (40.86064pt too wide) in paragraph at lines 1533--1536
 $\OT1/cmr/m/n/10 0 \OMS/cmsy/m/n/10 ^^T j\OT1/cmr/m/n/10 ^^H(\OML/cmm/m/it/10 x
  \OT1/cmr/m/n/10 + ^^A[]) \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 ^^H(\OML/cmm/m/i
 t/10 x\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 j ^^T \OML/cmm/m/it/10 M\OT1/cmr/m/n/10
@@ -2223,22 +2265,22 @@ n/10 0$ \T2A/cmr/m/n/10 при $\OT1/cmr/m/n/10 ^^A[] \OMS/cmsy/m/n/10 ! \OT1/cmr/
 m/n/10 0 \OMS/cmsy/m/n/10 ) [][] [] \OT1/cmr/m/n/10 =
  []
 
-[68
+[70
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+Underfull \hbox (badness 10000) in paragraph at lines 1542--1542
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1491
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1543
 
  []
 
-[69]
+[71]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
 
-Overfull \hbox (7.97879pt too wide) in paragraph at lines 1507--1508
+Overfull \hbox (7.97879pt too wide) in paragraph at lines 1559--1560
 \T2A/cmr/m/n/10 Если су-ще-ству-ет ко-неч-ный пре-дел $[][] [][] \OML/cmm/m/it/
 10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dx$\T2
 A/cmr/m/n/10 , функ-ции $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\
@@ -2246,12 +2288,12 @@ OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
+Underfull \hbox (badness 10000) in paragraph at lines 1563--1564
 
  []
 
 ! Undefined control sequence.
-l.1513 ...”Р»СЏ Р»СЋР±РѕРіРѕ $\alpha, \beta \in \R
+l.1565 ...”Р»СЏ Р»СЋР±РѕРіРѕ $\alpha, \beta \in \R
                                                   $ Рё РґР»СЏ Р»СЋР±С‹С… РёР...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2260,29 +2302,29 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1518--1519
+Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
 
  []
 
-[70
+[72
 
 ]
-Overfull \hbox (3.7222pt too wide) in paragraph at lines 1522--1524
+Overfull \hbox (3.7222pt too wide) in paragraph at lines 1574--1576
 \T2A/cmr/m/n/20.74 ШЕ НА-ПИ-СА-НО. ЧТО ЭТО ЗНА-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1526--1528
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1580
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1534--1535
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1587
 
  []
 
 ! Extra }, or forgotten $.
-l.1536 ...^{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}
+l.1588 ...^{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}
                                                   }=\lim_{b\to{+\infty}}(b-1...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2291,7 +2333,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Extra }, or forgotten $.
-l.1536 ...{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}}
+l.1588 ...{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}}
                                                   =\lim_{b\to{+\infty}}(b-1)...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2300,12 +2342,12 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1538--1539
+Underfull \hbox (badness 10000) in paragraph at lines 1590--1591
 
  []
 
 ! Extra }, or forgotten $.
-l.1542 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
+l.1594 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
                                                   }=
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2314,7 +2356,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Extra }, or forgotten $.
-l.1542 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
+l.1594 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2323,18 +2365,18 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (23.43317pt too wide) in paragraph at lines 1540--1544
+Overfull \hbox (23.43317pt too wide) in paragraph at lines 1592--1596
 []$[][] [] \OT1/cmr/m/n/10 = [][] [][] [] = [][]([][][]) = [][]([] \OMS/cmsy/m/
 n/10 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1545--1546
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1598
 
  []
 
 ! Extra }, or forgotten $.
-l.1549 ...\infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}
+l.1601 ...\infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}
                                                   }=
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2343,7 +2385,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Extra }, or forgotten $.
-l.1549 ...infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}}
+l.1601 ...infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}}
                                                   =
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2352,20 +2394,20 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (23.43317pt too wide) in paragraph at lines 1547--1551
+Overfull \hbox (23.43317pt too wide) in paragraph at lines 1599--1603
 []$[][] [] \OT1/cmr/m/n/10 = [][] [][] [] = [][]([][][]) = [][]([] \OMS/cmsy/m/
 n/10 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1605
 
  []
 
 ! Undefined control sequence.
 <recently read> \abs 
                      
-l.1555 ...\to{+\infty}}\int_{1}^{+\infty} \ln \abs
+l.1607 ...\to{+\infty}}\int_{1}^{+\infty} \ln \abs
                                                   {x}=
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2374,13 +2416,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
+Underfull \hbox (badness 10000) in paragraph at lines 1610--1611
 
  []
 
-[71]
+[73]
 ! Extra }, or forgotten $.
-l.1562 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
+l.1614 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
                                                   }=
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2389,7 +2431,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Extra }, or forgotten $.
-l.1562 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
+l.1614 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2398,13 +2440,13 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (23.43317pt too wide) in paragraph at lines 1560--1565
+Overfull \hbox (23.43317pt too wide) in paragraph at lines 1612--1617
 []$[][] [] \OT1/cmr/m/n/10 = [][] [][] [] = [][]([][][]) = [][]([] \OMS/cmsy/m/
 n/10 ^^@
  []
 
 ! Extra }, or forgotten $.
-l.1571 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
+l.1623 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
                                                   $ СЃРїСЂР°РІРµРґР»РёРІРѕ $...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2413,23 +2455,23 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (3.19058pt too wide) in paragraph at lines 1575--1576
+Overfull \hbox (3.19058pt too wide) in paragraph at lines 1627--1628
 \T2A/cmr/m/n/20.74 КАК ЭТИ ВЕ-ЩИ ВО-ОБ-ЩЕ СВЯ-
  []
 
-[72]
-Underfull \hbox (badness 10000) in paragraph at lines 1576--1578
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1630
 
  []
 
 
-Overfull \hbox (7.15833pt too wide) in paragraph at lines 1578--1581
+Overfull \hbox (7.15833pt too wide) in paragraph at lines 1630--1633
 \T2A/cmr/m/n/10 несоб-ствен-ных ин-те-гра-лов дробно-рациональной функ-ции. Его
  удоб-
  []
 
 ! Undefined control sequence.
-l.1590 \item $\forall \alpha,\beta \in \R
+l.1642 \item $\forall \alpha,\beta \in \R
                                          , f(x),g(x)$ РёРЅС‚РµРіСЂРёСЂСѓРµРј...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2437,13 +2479,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[73]
+[75]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 38.
-[74
+[76
 
 ]
 ! Undefined control sequence.
-l.1621 ...РґРµР»СЏРµС‚СЃСЏ РѕРїРµСЂР°С†РёСЏ \texbf
+l.1673 ...РґРµР»СЏРµС‚СЃСЏ РѕРїРµСЂР°С†РёСЏ \texbf
                                                   {С‚СЂР°РЅСЃРїРѕРЅРёСЂРѕРІР...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2452,20 +2494,20 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (18.95436pt too wide) in paragraph at lines 1620--1622
+Overfull \hbox (18.95436pt too wide) in paragraph at lines 1672--1674
 \T2A/cmr/m/n/10 Для лю-бой мат-ри-цы опре-де-ля-ет-ся опе-ра-ция транс-по-ни-ро
 -ва-ния:каждая
  []
 
 
-Overfull \hbox (3.02606pt too wide) in paragraph at lines 1633--1635
+Overfull \hbox (3.02606pt too wide) in paragraph at lines 1685--1687
 \T2A/cmr/m/n/10 зы-ва-ет-ся мат-ри-ца $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A \OMS
 /cmsy/m/n/10 ^^F \OML/cmm/m/it/10 B\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 , эле-мен-
 ты ко-то-рой рав-ны сум-ме/разности
  []
 
-[75]
-Overfull \hbox (2.11133pt too wide) in paragraph at lines 1659--1660
+[77]
+Overfull \hbox (2.11133pt too wide) in paragraph at lines 1711--1712
 []\T2A/cmr/m/n/10 Произведение мат-риц не ком-му-та-тив-ная опе-ра-ция то есть 
 $\OML/cmm/m/it/10 AB \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
  []
@@ -2473,14 +2515,14 @@ $\OML/cmm/m/it/10 AB \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1683 a_{2 1} & \color{violet}{a_{2 2} &
+l.1735 a_{2 1} & \color{violet}{a_{2 2} &
                                           \color{violet}{a_{2 3}}\\
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-Overfull \hbox (136.02632pt too wide) detected at line 1692
+Overfull \hbox (136.02632pt too wide) detected at line 1744
 []  []  \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/
 it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + \OML/cmm/
 m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML
@@ -2493,41 +2535,41 @@ S/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[
 ] \OMS/cmsy/m/n/10 ^^A \OML/cmm/m/it/10 a[]
  []
 
-[76] [77]
+[78] [79]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 39.
 
-Overfull \hbox (149.29292pt too wide) detected at line 1717
+Overfull \hbox (149.29292pt too wide) detected at line 1769
 \OML/cmm/m/it/10 detA \OT1/cmr/m/n/10 = [] = [] \OMS/cmsy/m/n/10 ^^F \OML/cmm/m
 /it/10 det []
- []
-
-[78
-
-]
-Overfull \hbox (1.2406pt too wide) in paragraph at lines 1719--1720
-[]\T2A/cmr/m/n/10 Сумма про-из-ве-де-ний эле-мен-тов в какой-нибудь стро-ке(сто
-лбце)
- []
-
-[79]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 46.
-
-Overfull \hbox (3.2023pt too wide) in paragraph at lines 1735--1740
-\T2A/cmr/m/n/10 верх-но-стии плос-кость. $\OML/cmm/m/it/10 z \OT1/cmr/m/n/10 = 
-\OML/cmm/m/it/10 h$ \T2A/cmr/m/n/10 то-гда и толь-ко то-гда, ко-гда $\OML/cmm/m
-/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; y[]; h\OT1/cmr/m/n/10 )$
  []
 
 [80
 
 ]
+Overfull \hbox (1.2406pt too wide) in paragraph at lines 1771--1772
+[]\T2A/cmr/m/n/10 Сумма про-из-ве-де-ний эле-мен-тов в какой-нибудь стро-ке(сто
+лбце)
+ []
+
+[81]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 46.
+
+Overfull \hbox (3.2023pt too wide) in paragraph at lines 1787--1792
+\T2A/cmr/m/n/10 верх-но-стии плос-кость. $\OML/cmm/m/it/10 z \OT1/cmr/m/n/10 = 
+\OML/cmm/m/it/10 h$ \T2A/cmr/m/n/10 то-гда и толь-ко то-гда, ко-гда $\OML/cmm/m
+/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; y[]; h\OT1/cmr/m/n/10 )$
+ []
+
+[82
+
+]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 47.
-[81
+[83
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 48.
 
-LaTeX Warning: File `./pics/.png' not found on input line 1770.
+LaTeX Warning: File `./pics/.png' not found on input line 1822.
 
 
 ! Package pdftex.def Error: File `./pics/.png' not found: using draft setting.
@@ -2536,13 +2578,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1770 ...includegraphics[scale=0.25]{./pics/.png}
+l.1822 ...includegraphics[scale=0.25]{./pics/.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-1770.
+1822.
 (c:/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
@@ -2553,7 +2595,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1771 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.1823 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2562,7 +2604,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1771 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.1823 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2570,36 +2612,36 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1771 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1823 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1771 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.1823 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 1771--1771
+Underfull \hbox (badness 4752) in paragraph at lines 1823--1823
 []\T2A/cmr/m/n/9 (a) |Эл-лип-ти-че-ский
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1771--1771
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1823
 
  []
 
-<./pics/shkarlupa.png, id=1207, 379.4175pt x 379.4175pt>
+<./pics/shkarlupa.png, id=1220, 379.4175pt x 379.4175pt>
 File: ./pics/shkarlupa.png Graphic file (type png)
 <use ./pics/shkarlupa.png>
-Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 1776.
+Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 1828.
 (pdftex.def)             Requested size: 94.85414pt x 94.85414pt.
 
-Overfull \hbox (8.60414pt too wide) in paragraph at lines 1776--1777
+Overfull \hbox (8.60414pt too wide) in paragraph at lines 1828--1829
  [][] 
  []
 
@@ -2610,7 +2652,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1777 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.1829 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2619,7 +2661,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1777 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.1829 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2627,33 +2669,33 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1777 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1829 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1777 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.1829 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1777--1777
+Underfull \hbox (badness 10000) in paragraph at lines 1829--1829
 []\T2A/cmr/m/n/9 (b) |Ги-пер-бо-ли-че-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1777--1777
+Underfull \hbox (badness 10000) in paragraph at lines 1829--1829
 
  []
 
-<./pics/pip.jpg, id=1209, 200.75pt x 221.82875pt>
+<./pics/pip.jpg, id=1222, 200.75pt x 221.82875pt>
 File: ./pics/pip.jpg Graphic file (type jpg)
 <use ./pics/pip.jpg>
-Package pdftex.def Info: ./pics/pip.jpg  used on input line 1782.
+Package pdftex.def Info: ./pics/pip.jpg  used on input line 1834.
 (pdftex.def)             Requested size: 50.18736pt x 55.45705pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2662,7 +2704,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1783 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.1835 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2671,7 +2713,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1783 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.1835 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2679,28 +2721,28 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1783 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1835 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1783 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.1835 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1783--1783
+Underfull \hbox (badness 10000) in paragraph at lines 1835--1835
 
  []
 
-<./pics/jizz.png, id=1210, 251.4996pt x 162.3666pt>
+<./pics/jizz.png, id=1223, 251.4996pt x 162.3666pt>
 File: ./pics/jizz.png Graphic file (type png)
 <use ./pics/jizz.png>
-Package pdftex.def Info: ./pics/jizz.png  used on input line 1787.
+Package pdftex.def Info: ./pics/jizz.png  used on input line 1839.
 (pdftex.def)             Requested size: 62.87474pt x 40.59154pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2709,7 +2751,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1788 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.1840 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2718,7 +2760,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1788 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.1840 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2726,28 +2768,28 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1788 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1840 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1788 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.1840 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1788--1788
+Underfull \hbox (badness 10000) in paragraph at lines 1840--1840
 
  []
 
-<./pics/joq.jpg, id=1211, 142.28156pt x 142.28156pt>
+<./pics/joq.jpg, id=1224, 142.28156pt x 142.28156pt>
 File: ./pics/joq.jpg Graphic file (type jpg)
 <use ./pics/joq.jpg>
-Package pdftex.def Info: ./pics/joq.jpg  used on input line 1793.
+Package pdftex.def Info: ./pics/joq.jpg  used on input line 1845.
 (pdftex.def)             Requested size: 35.5703pt x 35.5703pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -2756,7 +2798,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1794 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.1846 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2765,7 +2807,7 @@ or  <return>  to continue without it.
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1794 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.1846 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2773,33 +2815,33 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-! LaTeX Error: \begin{equation*} on input line 1794 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 1846 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1794 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.1846 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1794--1794
+Underfull \hbox (badness 10000) in paragraph at lines 1846--1846
 
  []
 
-[82
+[84
 
-] [83 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./p
+] [85 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./p
 ics/joq.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 49.
-<./pics/jiji.png, id=1238, 1027.84pt x 969.6225pt>
+<./pics/jiji.png, id=1252, 1027.84pt x 969.6225pt>
 File: ./pics/jiji.png Graphic file (type png)
 <use ./pics/jiji.png>
-Package pdftex.def Info: ./pics/jiji.png  used on input line 1808.
+Package pdftex.def Info: ./pics/jiji.png  used on input line 1860.
 (pdftex.def)             Requested size: 51.395pt x 48.48396pt.
 
 ! LaTeX Error: There's no line here to end.
@@ -2808,60 +2850,66 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1811 
+l.1863 
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[84
-
- <./pics/jiji.png>] [85]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
 [86
 
-] [87] [88]
+ <./pics/jiji.png>] [87]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
+[88
 
-! LaTeX Error: \begin{enumerate} on input line 1907 ended by \end{document}.
+] [89] [90]
+
+! LaTeX Error: \begin{enumerate} on input line 1959 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1922 \end{document}
+l.1974 \end{document}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1922.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1922.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1974.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1974.
 (./math_sem1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1922.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1922.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1974.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1974.
 
-Package rerunfilecheck Info: File `math_sem1.out' has not changed.
-(rerunfilecheck)             Checksum: 17B94818DFDE2D7FCA5375C5D42CA2E9;21423.
 
+
+Package rerunfilecheck Warning: File `math_sem1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `math_sem1.out':
+(rerunfilecheck)             Before: 00A5D42876D27AF895C96AB2DB1D8D8C;21795
+(rerunfilecheck)             After:  4320645933707236DBEEE75B990EE9E3;23115.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1922.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1974.
  )
 (\end occurred inside a group at level 3)
 
-### semi simple group (level 3) entered at line 1907 (\begingroup)
-### semi simple group (level 2) entered at line 1176 (\begingroup)
-### semi simple group (level 1) entered at line 898 (\begingroup)
+### semi simple group (level 3) entered at line 1959 (\begingroup)
+### semi simple group (level 2) entered at line 1228 (\begingroup)
+### semi simple group (level 1) entered at line 940 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34721 strings out of 492163
- 766868 string characters out of 6129075
- 962472 words of memory out of 5000000
- 38015 multiletter control sequences out of 15000+600000
+ 34758 strings out of 492163
+ 767183 string characters out of 6129075
+ 962449 words of memory out of 5000000
+ 38045 multiletter control sequences out of 15000+600000
  32825 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,103p,743b,2326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,17n,103p,743b,2324s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
 2a.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c
 :/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive
@@ -2897,10 +2945,10 @@ xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2019
 /texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2019/texmf-dis
 t/fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/public/cm-super/sftt1000.pfb>
-Output written on math_sem1.pdf (89 pages, 1138795 bytes).
+Output written on math_sem1.pdf (91 pages, 1147437 bytes).
 PDF statistics:
- 1532 PDF objects out of 1728 (max. 8388607)
- 1381 compressed objects within 14 object streams
- 484 named destinations out of 1000 (max. 500000)
+ 1547 PDF objects out of 1728 (max. 8388607)
+ 1394 compressed objects within 14 object streams
+ 491 named destinations out of 1000 (max. 500000)
  778 words of extra memory for PDF output out of 10000 (max. 10000000)
 
