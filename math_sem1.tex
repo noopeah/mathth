@@ -452,7 +452,31 @@ $\Rightarrow \lim_{n \rightarrow \infty}{x_n = a} \Leftrightarrow$ в сколь
 \end{enumerate}
 
 \chapter{Монотонные последовательности, теорема Вейкерштрасса\\}
-ну и  где это в конспекте?
+\section{Монотонные последовательности}
+\begin{itemize}
+  \item Последовательности $\{x_n\}$ не возрастает, если $\forall n \in \mathbb{N}: x_{n+1} \leq x_{n+1}$
+  \item Последовательности $\{x_n\}$ не убывает, если $\forall n \in \mathbb{N}: x_{n+1} \geq x_{n+1}$
+  \item Последовательности $\{x_n\}$ возрастает, если $\forall n \in \mathbb{N}: x_{n+1} > x_n$
+  \item Последовательности $\{x_n\}$ возрастает, если $\forall n \in \mathbb{N}: x_{n+1} < x_n$
+\end{itemize}
+\begin{thm}
+  Вейерштрасса: Если $\{x_n\}$ не убывает и ограничена сверху, то она сходится. Если $\{x_n\}$ не возрастает и ограничена сниху, то она сходится. \\
+  или Любая монотонная и ограниченная последовательность $\{x_n\}$ имеет предел.
+  \begin{proof} Рассмотрим следующие случаи:\\ 
+    \begin{itemize}
+      \item Пусть последовательность $\{x_n\}$ является неубывающейся ограниченной последовательностью. Поскольку последовательность не убывает, то
+      $\forall n \in \mathbb{N}: x_{n+1} \geq x_n$. Так как последовательность ограничена, то она имеет верхний предел $a \Rightarrow \forall n in \mathbb{N}: x_n \leq a$ и
+      $\forall \epsilon > 0, \exists N = N(\epsilon): x_N > a - \epsilon$. Так как $\{x_n\}$ неубывающая, то при $n > N: x_n \geq x_N > a - \epsilon$ \\
+      $\Rightarrow \forall n >N: a - \epsilon < x_n \leq a$ \\
+      Так как $a < a + \epsilon$, $a - \epsilon < x_n < a + \epsilon \Rightarrow \forall n > N: |x_n| < \epsilon$
+      \item для невозрастающей ограниченной последовательности аналогично.
+      \item Пусть последовательность $\{x_n\}$ является неограниченной неубывающей: $\forall n \in \mathbb{N}: x_{n+1} \geq x_n; \forall M, \exists N = N(M): x_N > M.$. \\ При
+        $n > M: x_n \geq x_N > M \Rightarrow $ получаем пределом $+ \infty$.
+      \item аналогично для неограниченной невозрастающей получаем пределом $-\infty$
+    \end{itemize}
+  \end{proof}
+\end{thm}
+
 
 \chapter{Число е\\}
 Рассмотрим последовательность $x_n=(1+\frac{1}{n})^n, n \in \mathbb{N}$\\
@@ -1975,3 +1999,4 @@ no    \end{subfigure}
 Это парабола, сдвигающаяся вниз
 
 \end{document}
+%% 7 22 27
