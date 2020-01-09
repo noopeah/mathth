@@ -26,7 +26,7 @@
     linktoc=all,     %set to all if you want both sections and subsections linked
 }
 
-\author{по конспектам лекций Рачковского Н.Н. \\ студентов группы 950501 Кагановича М.М., Поддубного Д.П., Веселова М.С. \\ Под редакцией Куклы Д.И., Каминской М.М., Рябиина С.В.}
+\author{по конспектам лекций Рачковского Н.Н. \\ студентов группы 950501 Кагановича М.М., Поддубного Д.П., Веселова М.С. \\ Под редакцией Рачковского Н.Н., Куклы Д.И., Каминской М.М., Рябиина С.В.}
 
 \pagestyle{fancy}
 
@@ -64,7 +64,7 @@ Todo list
 
 \begin{enumerate}
     \item содержится: A $\subseteq$ B. Каждый элемент множества А содержится в В.
-    \item совпадает: $A = B \Leftrightarrow A \subseteq B, B \subseteq A$
+    \item совпадает: $A = B \Leftghtarrow A \subseteq B, B \subseteq A$
     \item объединение: $A \cup B = \{c | c \in A \textbf{ или } c \in B\}$
     \item пересечение: $A \cap B = \{c | c \in A \textbf{ и } c \in B\}$
     \item теоритическо-множественная разность: $A \setminus B = \{c|c \in A \textbf{ и } c \notin B\}$
@@ -502,8 +502,6 @@ $\lim \limits_{n\rightarrow \infty}x_n=\lim \limits_{n\rightarrow \infty}\frac{y
 $e=\lim \limits_{n\rightarrow \infty}(1+\frac{1}{n})^n$
 \\Логарифм по основанию е - натуральный (ln)\\
 $\ln a = b \Leftrightarrow e^b=a$
-\chapter{DPMW}
-\pagebreak
 
 \chapter{Предел функции в точке и на бесконечности, Односторонние пределы.\\}
 
@@ -1099,10 +1097,26 @@ $d^3f(x)=d(d^2f(x))=f'''(x)dx^3$\\
 $d^nf(x)=d(d^{n-1}f(x))=f^{(n)}(x)dx^n$
 \\Производные высших порядков используются для вычисления приблизительных значений функций.
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Дифференцирование функции, заданной параметрически\\}
-\pagebreak
+Если зависимость $y$ от $x$ задана через $t$, функция задана параметрически: $$
+\begin{cases}
+  \phi = x(t) \\
+  \psi = y(t)
+\end{cases} \Rightarrow
+\begin{cases}
+  d \phi = x'_t dt \\ d \psi = y'_t dt
+\end{cases} \Rightarrow
+\frac{d \psi}{d \phi} = y'_x
+$$
+$x(t), y(t)$ непрерывны на неком интервале.
+Чтобы найти вторую производную: $$
+y'' = \frac{\psi''(t) \cdot \phi'(t) - \psi'(t) \cdot \phi''(t)}{(\phi'(t))^3}
+$$
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Локальный экстремум функции, теорема Ферма\\}
 
 Определение локального максимума и локального минимума
@@ -1313,6 +1327,29 @@ $f(x_{0})=\lim_{x \to x_{0}} f(x) = 0$ и $g(x_{0})=\lim_{x \to x_{0}} g(x) = 0$
 	 \begin{center}
 		$A=f(x)^{g(x)}$
 	\end{center}
+
+
+
+\chapter{Признаки монотонности функции}         
+
+Функция y = f\left( x \right) называется \\ 
+\begin{itemize}
+    \item возрастающей (неубывающей) на интервале $\left( {a,b} \right)$, если
+    ${\forall\;{x_1},{x_2} \in \left( {a,b} \right):\;}$\\
+    ${{x_1} < {x_2} \Rightarrow f\left( {{x_1}} \right) \leq f\left( {{x_2}} \right);}$
+    \item строго возрастающей на интервале $\left( {a,b} \right)$, если
+    ${\forall\;{x_1},{x_2} \in \left( {a,b} \right):\;}$\\
+    ${{x_1} < {x_2} \Rightarrow f\left( {{x_1}} \right) \lt f\left( {{x_2}} \right);}$
+    \item убывающей (невозрастающей) на интервале $\left( {a,b} \right)$, если
+    ${\forall\;{x_1},{x_2} \in \left( {a,b} \right):\;}$\\
+    ${{x_1} < {x_2} \Rightarrow f\left( {{x_1}} \right) \ge f\left( {{x_2}} \right);}$
+    строго убывающей на интервале $\left( {a,b} \right)$, если
+    ${\forall\;{x_1},{x_2} \in \left( {a,b} \right):\;}$\\
+    ${{x_1} < {x_2} \Rightarrow f\left( {{x_1}} \right) \gt f\left( {{x_2}} \right).}$
+\end{itemize}
+
+Если функция $f\left( x \right)$ дифференцируема на интервале $\left( {a,b} \right)$ и принадлежит к одному из четырех рассмотренных типов
+(т.е. является возрастающей, строго возрастающей, убывающей или строго убывающей), то такая функция называется монотонной на данном интервале. 
 
 
 
@@ -1999,4 +2036,4 @@ no    \end{subfigure}
 Это парабола, сдвигающаяся вниз
 
 \end{document}
-%% 7 22 27
+%% 22 27
