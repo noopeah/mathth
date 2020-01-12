@@ -96,17 +96,18 @@
 \contentsline {chapter}{\numberline {39}Свойства определителя}{89}{chapter.39}%
 \contentsline {chapter}{\numberline {40}Векторы и линейные операции над ними}{91}{chapter.40}%
 \contentsline {chapter}{\numberline {43}Прямая на плоскости}{93}{chapter.43}%
-\contentsline {chapter}{\numberline {46}Поверхности второго порядка, метод сечения}{98}{chapter.46}%
-\contentsline {section}{\numberline {46.1}Метод сечений}{98}{section.46.1}%
-\contentsline {chapter}{\numberline {47}Поверхности вращения}{99}{chapter.47}%
-\contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{100}{chapter.48}%
-\contentsline {section}{\numberline {48.1}Примеры}{100}{section.48.1}%
-\contentsline {chapter}{\numberline {49}Конические поверхности}{102}{chapter.49}%
-\contentsline {chapter}{\numberline {50}Эллипсоид, Параболоиды, Гиперболоиды}{104}{chapter.50}%
-\contentsline {section}{\numberline {50.1}Эллипсоид}{104}{section.50.1}%
-\contentsline {section}{\numberline {50.2}Гиперболоиды}{105}{section.50.2}%
-\contentsline {subsection}{\numberline {50.2.1}Однополостные}{105}{subsection.50.2.1}%
-\contentsline {section}{\numberline {50.3}Двуполостный гиперболоид, виброчаша}{105}{section.50.3}%
-\contentsline {section}{\numberline {50.4}Параболоиды}{106}{section.50.4}%
-\contentsline {subsection}{\numberline {50.4.1}Эллиптический}{106}{subsection.50.4.1}%
-\contentsline {subsection}{\numberline {50.4.2}Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}{106}{subsection.50.4.2}%
+\contentsline {chapter}{\numberline {45}Уравнение прямой в пространстве}{98}{chapter.45}%
+\contentsline {chapter}{\numberline {46}Поверхности второго порядка, метод сечения}{99}{chapter.46}%
+\contentsline {section}{\numberline {46.1}Метод сечений}{99}{section.46.1}%
+\contentsline {chapter}{\numberline {47}Поверхности вращения}{100}{chapter.47}%
+\contentsline {chapter}{\numberline {48}Циллиндрические поверхности}{101}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Примеры}{101}{section.48.1}%
+\contentsline {chapter}{\numberline {49}Конические поверхности}{103}{chapter.49}%
+\contentsline {chapter}{\numberline {50}Эллипсоид, Параболоиды, Гиперболоиды}{105}{chapter.50}%
+\contentsline {section}{\numberline {50.1}Эллипсоид}{105}{section.50.1}%
+\contentsline {section}{\numberline {50.2}Гиперболоиды}{106}{section.50.2}%
+\contentsline {subsection}{\numberline {50.2.1}Однополостные}{106}{subsection.50.2.1}%
+\contentsline {section}{\numberline {50.3}Двуполостный гиперболоид, виброчаша}{106}{section.50.3}%
+\contentsline {section}{\numberline {50.4}Параболоиды}{107}{section.50.4}%
+\contentsline {subsection}{\numberline {50.4.1}Эллиптический}{107}{subsection.50.4.1}%
+\contentsline {subsection}{\numberline {50.4.2}Гиперболический Параболоил ака Седло для коня из коничесикх поверхноствей}{107}{subsection.50.4.2}%
