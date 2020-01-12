@@ -2194,6 +2194,114 @@ $\vec{AB}$ и $\vec{BA}$ противоположные, значит $\vec{AB}=
 \end{enumerate}
 
 
+\setcounter{chapter}{40}
+\chapter{Линейная зависимость и независимость векторов}
+Пусть даны $\vec{a_{1}},\vec{a_{2}}...\vec{a_{n}}$ и $\lambda_{1},\lambda_{2}...\lambda_{n}$, тогда $\lambda_{1}\vec{a_{1}}+\lambda_{2}\vec{a_{2}}...+\lambda_{n}\vec{a_{n}}$ будет являться линейной комбинацией векторов.\\
+$\vec{a_{1}},\vec{a_{2}}...\vec{a_{n}}$ называются \textbf{линейно зависимыми}, если существуют числа $\lambda_{1},\lambda_{2}...\lambda_{n}$ такие что $\lambda_{1}\vec{a_{1}}+\lambda_{2}\vec{a_{2}}...+\lambda_{n}\vec{a_{n}}=0$ при хотя бы одном $\lambda_{n}\ne 0$.\\
+$\vec{a_{1}},\vec{a_{2}}...\vec{a_{n}}$ называются \textbf{линейно НЕзависимыми}, если существуют числа $\lambda_{1},\lambda_{2}...\lambda_{n}$ такие что $\lambda_{1}\vec{a_{1}}+\lambda_{2}\vec{a_{2}}...+\lambda_{n}\vec{a_{n}}=0$ при $\lambda_{1},\lambda_{2}...\lambda_{n}=0$.\\
+$\vec{a}$ и $\vec{b}$ -- коллинеарны, если они отложены от одной точки, а их представители лежат на одной прямой. $\vec{0}$ коллинеарен с любым другим вектором.\\
+Точно также определяется коллинеарность для любого количества векторов.\\
+\begin{thm}
+    $\vec{a}\ne 0$; $\vec{a}\parallel \vec{b} \Leftrightarrow \exists \lambda: \vec{b} = \lambda \vec{a}$
+    \begin{proof} 
+      \par Необходимость: 
+      \begin{enumerate}
+        \item $\vec{a} \uparrow \uparrow \vec{b}$\\
+        $\lambda = \left| \dfrac{\vec{b}}{\vec{a}}\right|>0 \Longrightarrow $\\
+        $\vec{a} \uparrow \uparrow \vec{b} \uparrow \uparrow \lambda\vec{a} \Longrightarrow$\\
+        $\mid \lambda\vec{a} \mid = \mid \lambda \mid \cdot \mid \vec{a} \mid = 
+        \left| \dfrac{\vec{b}}{\vec{a}}\right| \cdot \mid \vec{a} \mid = \mid \vec{b} \mid$\\
+        Из всего вышеперечисленного следует, что $\lambda\vec{a}=\vec{b}$
+        \item $\vec{a} \uparrow \downarrow \vec{b}$\\
+        $\lambda = - \left| \dfrac{\vec{b}}{\vec{a}}\right|<0 \Longrightarrow$\\
+        $\lambda\vec{a} \uparrow \uparrow  \vec{b} \uparrow \downarrow\vec{a} \Longrightarrow \lambda\vec{a} \uparrow \uparrow \vec{b} $\\
+        $\mid \lambda\vec{a} \mid = \mid \lambda \mid \cdot \mid \vec{a} \mid = 
+        \left| \dfrac{\vec{b}}{\vec{a}}\right| \cdot \mid \vec{a} \mid = \mid \vec{b} \mid\Rightarrow \lambda\vec{a}= \vec{b}$\\
+        \end{enumerate}
+    \par Достаточность: \\
+    \begin{enumerate}
+      \item $\lambda=0\Rightarrow \vec{b}=\vec{0}\uparrow \uparrow \vec{a}\Rightarrow \vec{a}\parallel \vec{b}$
+      \item $\lambda>0\Rightarrow \vec{b}=\lambda\vec{a}\uparrow \uparrow \vec{a}\Rightarrow \vec{a}\parallel \vec{b}$
+      \item  $\lambda<0\Rightarrow \vec{b}=\lambda\vec{a}\downarrow \uparrow \vec{a}\Rightarrow \vec{a}\parallel \vec{b}$
+    \end{enumerate}
+    \end{proof}
+\end{thm}
+
+\begin{thm}
+  Рассмотрим $\vec{a_{1}},\vec{a_{2}}...\vec{a_{n}}$. Отложим их от O и получим $A_{1},A_{2}...A_{n}$\\
+  $\vec{OA_{1}}=\vec{a_{1}},\vec{OA_{2}}=\vec{a_{2}}...\vec{OA_{n}}=\vec{a_{n}}$\\
+  Векторы называются компланарными, если $0,A_{1},A_{2}...A_{n}$ лежат в одной плоскости
+\begin{proof}
+It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6uq0k
+\end{proof}
+\end{thm}
+
+\begin{thm}
+  Легко видеть, что $\vec{a_{1}},\vec{a_{2}}...\vec{a_{n}}$ содержат подсистему  векторов. В любой линейнозависимой системе подсистема будет также линейнозависема.
+\begin{proof}
+  It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6uq0k
+\end{proof}
+\end{thm}
+
+\begin{thm}
+  В любой линейнозависимой системе векторов существует хотя бы один, который является линейной комбинацией других.
+  \begin{proof}
+    It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6uq0k
+  \end{proof}
+\end{thm}
+Из вышеперечисленных теорем следуют следующие свойства:
+\begin{enumerate}
+  \item 2 линейнозависимых вектора \textbf{коллинеарны}
+  \item 3 линейнозависимых вектора \textbf{компланарны} 
+  \item n+1>3 \textbf{всегда линейнозависимы} в трехмерном пространстве
+  \end{enumerate}
+Свойства векторов:
+\begin{enumerate}
+  \item $\vec{a}+\vec{b}=\vec{b}+\vec{a}$
+  \item $\vec{a}+(\vec{b}+\vec{c})=(\vec{a}+\vec{b})+\vec{c}$
+  \item $-1\cdot\vec{a}=-\vec{a}$
+  \item $\alpha\cdot(\beta\vec{a})=(\alpha\beta)\vec{a}$
+  \item $\alpha(\vec{a}+\vec{b})=\alpha\vec{a}+\beta\vec{b}$
+  \item $(\alpha+\beta)\vec{a}=\alpha\vec{a}+\beta\vec{a}$
+\end{enumerate}
+
+\setcounter{chapter}{41}
+\chapter{Скалярное, векторное и смешанное произведение векторов}
+\section{Скалярное произведение}
+Скалярным произведением двух ненулевых векторов $\vec{a}$ и $\vec{b}$ называется число, равное произведению длин этих векторов на ко­синус угла между ними.
+\boxedeq{eq:*}{\vec{a}\cdot\vec{b}=\mid\vec{a}\mid\cdot\mid\vec{b}\mid cos(\phi)}
+Можно записать через проекции:
+\boxedeq{eq:*}{\vec{a}\cdot\vec{b}=\mid\vec{a}\mid\cdot pr_{a} \vec{b}}
+т.е. скалярное произведение двух векторов равно модулю одного
+из
+них, умноженному на проекцию другого на ось, сонаправленную с пер­
+вым вектором.
+Скалярное произведение через координаты равно:
+\boxedeq{eq:*}{\vec{a}\cdot\vec{b}=a_{x}b_{x}+a_{y}b_{y}+a_{z}b_{z}}
+Свойства скалярного произведения:
+\begin{enumerate}
+  \item $\vec{a}\vec{b}=\vec{b}\vec{a}$ -- переместительное свойство
+  \item $(\alpha\vec{a})\vec{b}=\alpha(\vec{a}\vec{b})$ -- сочетательное свойство
+  \item $\vec{a}(\vec{b}+\vec{c})=\vec{a}\vec{b}+\vec{a}\vec{c}$
+  \item Скалярный квадрат вектора равен квадрату его длинны $\vec{a}^{2}=\mid\vec{a}^{2}\mid$
+\end{enumerate}
+
+\section{Векторное произведение}
+Векторным произведением $\vec{a}\times\vec{b}=\vec{c}$, который перпендикулярен  $\vec{a}$ и $\vec{b}$
+\boxedeq{eq:*}{\vec{c}=\mid\vec{a}\vec{b}\mid sin(\phi)}
+
+Свойства векторного произведения:
+\begin{enumerate}
+  \item модуль $[\vec{a};\vec{b}]$ равен площади параллелограмма 
+  \item $[\vec{a};\vec{b}]=0$, то $\vec{a}||\vec{b}$ 
+  \item $[\vec{a};\vec{b}]=-[\vec{b};\vec{a}]$
+  \item  $\alpha[\vec{a};\vec{b}]=[\alpha\vec{a};\vec{b}]=[\vec{a};\alpha\vec{b}]$
+  \item $[\vec{a}+\vec{b};\vec{c}]=[\vec{a}\vec{c}]+[\vec{b}\vec{c}]$
+\end{enumerate}
+В координатной форме в. п. будет равно определителю матрицы, где первая строка i,j,k, а последующие -- координаты векторов
+\section{Смешанное произведение}
+Смешанное произведение равен определителю матрицы координат векторов $\vec{a},\vec{b},\vec{c}$ и соответственно равно объему параллелепипеда из этих векторов.
+Если все вектора ненулевые, смешанное произведение определяет их компланарность
 
 \setcounter{chapter}{42}
 \chapter{Прямая на плоскости}

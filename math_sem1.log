@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 16:26
 entering extended mode
 **./math_sem1.tex
 (math_sem1.tex
@@ -2310,12 +2310,12 @@ l.1434 ...æ–π –≤–≤–µ—Ä—Ö, –∞ –Ω–∞ –¥—Ä—É–≥–æ–º ‚àí
                                                    –≤—ã–ø—É–∫–ª–æ–π –≤–Ω–∏–∑...
 
 ? 
-<./pics/yyy.jpg, id=1190, 260.975pt x 252.945pt>
+<./pics/yyy.jpg, id=1196, 260.975pt x 252.945pt>
 File: ./pics/yyy.jpg Graphic file (type jpg)
 <use ./pics/yyy.jpg>
 Package pdftex.def Info: ./pics/yyy.jpg  used on input line 1443.
 (pdftex.def)             Requested size: 120.74947pt x 117.0354pt.
-<./pics/yyy2.jpg, id=1191, 271.0125pt x 252.945pt>
+<./pics/yyy2.jpg, id=1197, 271.0125pt x 252.945pt>
 File: ./pics/yyy2.jpg Graphic file (type jpg)
 <use ./pics/yyy2.jpg>
 Package pdftex.def Info: ./pics/yyy2.jpg  used on input line 1448.
@@ -4105,6 +4105,54 @@ l.2193 ...∏–π –¥–ª–∏–Ω–Ω—É $l=\lambda \mid{a}\mid}
                                                   $
 ? 
 [93]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 41.
+
+Overfull \hbox (23.552pt too wide) in paragraph at lines 2199--2204
+[]\OML/cmm/m/it/10 ; []:::[]$ \T2A/cmr/m/n/10 Ì‡-Á˚-‚‡-˛Ú-Òˇ \T2A/cmr/bx/n/10 Î
+Ë-ÌÂÈ-ÌÓ Á‡-‚Ë-ÒË-Ï˚-ÏË\T2A/cmr/m/n/10 , ÂÒ-ÎË ÒÛ-˘Â-ÒÚ‚Û-˛Ú ˜ËÒ-Î‡ $\OML/cmm/m
+/it/10 []; []:::[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2199--2204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2215--2220
+
+ []
+
+[94
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2223
+
+ []
+
+
+Overfull \hbox (55.09674pt too wide) in paragraph at lines 2235--2236
+[]\T2A/cmr/m/n/10 It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6
+uq0k
+ []
+
+
+Overfull \hbox (55.09674pt too wide) in paragraph at lines 2242--2243
+[]\T2A/cmr/m/n/10 It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6
+uq0k
+ []
+
+
+Overfull \hbox (55.09674pt too wide) in paragraph at lines 2249--2250
+[]\T2A/cmr/m/n/10 It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6
+uq0k
+ []
+
+[95]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 42.
+[96
+
+] [97]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 43.
 
 ! Package inputenc Error: Unicode character ‚àí (U+2212)
@@ -4114,7 +4162,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2205 –≥–¥–µ x, y ‚àí
+l.2313 –≥–¥–µ x, y ‚àí
                        –∫–æ–æ—Ä–¥–∏–Ω–∞—Ç—ã —Ç–æ—á–µ–∫ –ø—Ä—è–º–æ–π, A, B, C...
 
 ? 
@@ -4126,50 +4174,50 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2205 ...Ç—ã —Ç–æ—á–µ–∫ –ø—Ä—è–º–æ–π, A, B, C ‚àí
+l.2313 ...Ç—ã —Ç–æ—á–µ–∫ –ø—Ä—è–º–æ–π, A, B, C ‚àí
                                                    –¥–µ–π—Å—Ç–≤–∏—Ç–µ–ª—å–Ω—...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2205 ...ã–µ —á–∏—Å–ª–∞ –ø—Ä–∏ —É—Å–ª–æ–≤–∏–∏ {A^
+l.2313 ...ã–µ —á–∏—Å–ª–∞ –ø—Ä–∏ —É—Å–ª–æ–≤–∏–∏ {A^
                                                   2} + {B^2} \ne 0.
 ? 
 ! Extra }, or forgotten $.
-l.2205 ...µ —á–∏—Å–ª–∞ –ø—Ä–∏ —É—Å–ª–æ–≤–∏–∏ {A^2}
+l.2313 ...µ —á–∏—Å–ª–∞ –ø—Ä–∏ —É—Å–ª–æ–≤–∏–∏ {A^2}
                                                    + {B^2} \ne 0.
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2206 
+l.2314 
        
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2207--2210
+Underfull \hbox (badness 10000) in paragraph at lines 2315--2318
 
  []
 
-<./pics/2.jpg, id=1429, 305.14pt x 253.94875pt>
+<./pics/2.jpg, id=1491, 305.14pt x 253.94875pt>
 File: ./pics/2.jpg Graphic file (type jpg)
 <use ./pics/2.jpg>
-Package pdftex.def Info: ./pics/2.jpg  used on input line 2211.
+Package pdftex.def Info: ./pics/2.jpg  used on input line 2319.
 (pdftex.def)             Requested size: 122.05382pt x 101.5777pt.
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2216.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2324.
 
 Missing character: There is no ‡ in font cmr10!
-<./pics/3.jpg, id=1430, 341.275pt x 266.9975pt>
+<./pics/3.jpg, id=1492, 341.275pt x 266.9975pt>
 File: ./pics/3.jpg Graphic file (type jpg)
 <use ./pics/3.jpg>
-Package pdftex.def Info: ./pics/3.jpg  used on input line 2219.
+Package pdftex.def Info: ./pics/3.jpg  used on input line 2327.
 (pdftex.def)             Requested size: 136.50757pt x 106.79709pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2223.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2331.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2223
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2331
 .
 
 
@@ -4180,17 +4228,17 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2224 ...ght), B\left( {{x_2},{y_2}} \right)$ ‚àí
+l.2332 ...ght), B\left( {{x_2},{y_2}} \right)$ ‚àí
                                                    –∫–æ–æ—Ä–¥–∏–Ω–∞—Ç—ã –¥–≤...
 
 ? 
-[94
+[98
 
  <./pics/2.jpg> <./pics/3.jpg>]
-<./pics/4.jpg, id=1436, 341.275pt x 253.94875pt>
+<./pics/4.jpg, id=1498, 341.275pt x 253.94875pt>
 File: ./pics/4.jpg Graphic file (type jpg)
 <use ./pics/4.jpg>
-Package pdftex.def Info: ./pics/4.jpg  used on input line 2228.
+Package pdftex.def Info: ./pics/4.jpg  used on input line 2336.
 (pdftex.def)             Requested size: 136.50757pt x 101.5777pt.
 
 
@@ -4201,92 +4249,92 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2233 –≥–¥–µ k ‚àí
+l.2341 –≥–¥–µ k ‚àí
                     —É–≥–ª–æ–≤–æ–π –∫–æ—ç—Ñ—Ñ–∏—Ü–∏–µ–Ω—Ç, –∞ —Ç–æ—á–∫–∞ $P\...
 
 ? 
 
-Overfull \hbox (6.99829pt too wide) in paragraph at lines 2231--2235
+Overfull \hbox (6.99829pt too wide) in paragraph at lines 2339--2343
 []$\OMS/cmsy/m/n/10 $ \T2A/cmr/m/n/10 ”‡‚-ÌÂ-ÌËÂ Ôˇ-ÏÓÈ ÔÓ ÚÓ˜-ÍÂ Ë Û„-ÎÓ-‚Ó
 -ÏÛ ÍÓ-˝Ù-ÙË-ˆË-ÂÌ-ÚÛ $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = [] + \OML/cmm/m/it/
 10 k []$\T2A/cmr/m/n/10 ,
  []
 
-<./pics/5.jpg, id=1437, 341.275pt x 253.94875pt>
+<./pics/5.jpg, id=1499, 341.275pt x 253.94875pt>
 File: ./pics/5.jpg Graphic file (type jpg)
 <use ./pics/5.jpg>
-Package pdftex.def Info: ./pics/5.jpg  used on input line 2237.
+Package pdftex.def Info: ./pics/5.jpg  used on input line 2345.
 (pdftex.def)             Requested size: 136.50757pt x 101.5777pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2241.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2349.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2241
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2349
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2241.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2349.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2241
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2349
 .
 
-<./pics/6.jpg, id=1438, 341.275pt x 253.94875pt>
+<./pics/6.jpg, id=1500, 341.275pt x 253.94875pt>
 File: ./pics/6.jpg Graphic file (type jpg)
 <use ./pics/6.jpg>
-Package pdftex.def Info: ./pics/6.jpg  used on input line 2245.
+Package pdftex.def Info: ./pics/6.jpg  used on input line 2353.
 (pdftex.def)             Requested size: 136.50757pt x 101.5777pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2249.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2357.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2249
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2357
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2249.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2357.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2249
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2357
 .
 
-<./pics/7.jpg, id=1439, 280.04625pt x 253.94875pt>
+<./pics/7.jpg, id=1501, 280.04625pt x 253.94875pt>
 File: ./pics/7.jpg Graphic file (type jpg)
 <use ./pics/7.jpg>
-Package pdftex.def Info: ./pics/7.jpg  used on input line 2253.
+Package pdftex.def Info: ./pics/7.jpg  used on input line 2361.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
-[95 <./pics/4.jpg> <./pics/5.jpg> <./pics/6.jpg>]
-<./pics/8.jpg, id=1444, 280.04625pt x 253.94875pt>
+[99 <./pics/4.jpg> <./pics/5.jpg> <./pics/6.jpg>]
+<./pics/8.jpg, id=1506, 280.04625pt x 253.94875pt>
 File: ./pics/8.jpg Graphic file (type jpg)
 <use ./pics/8.jpg>
-Package pdftex.def Info: ./pics/8.jpg  used on input line 2261.
+Package pdftex.def Info: ./pics/8.jpg  used on input line 2369.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2265.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2373.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2265
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2373
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2265.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2373.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2265
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2373
 .
 
-<./pics/9.jpg, id=1445, 288.07625pt x 253.94875pt>
+<./pics/9.jpg, id=1507, 288.07625pt x 253.94875pt>
 File: ./pics/9.jpg Graphic file (type jpg)
 <use ./pics/9.jpg>
-Package pdftex.def Info: ./pics/9.jpg  used on input line 2270.
+Package pdftex.def Info: ./pics/9.jpg  used on input line 2378.
 (pdftex.def)             Requested size: 115.22844pt x 101.5777pt.
-<./pics/12.jpg, id=1446, 315.1775pt x 253.94875pt>
+<./pics/12.jpg, id=1508, 315.1775pt x 253.94875pt>
 File: ./pics/12.jpg Graphic file (type jpg)
 <use ./pics/12.jpg>
-Package pdftex.def Info: ./pics/12.jpg  used on input line 2278.
+Package pdftex.def Info: ./pics/12.jpg  used on input line 2386.
 (pdftex.def)             Requested size: 126.06876pt x 101.5777pt.
-[96 <./pics/7.jpg> <./pics/8.jpg> <./pics/9.jpg>]
+[100 <./pics/7.jpg> <./pics/8.jpg> <./pics/9.jpg>]
 
 ! Package inputenc Error: Unicode character ‚àí (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -4295,7 +4343,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2283 ...–ø—Ä—è–º–æ–π, $\left( {x,y} \right)$ ‚àí
+l.2391 ...–ø—Ä—è–º–æ–π, $\left( {x,y} \right)$ ‚àí
                                                    –∫–æ–æ—Ä–¥–∏–Ω–∞—Ç—ã –ø—Ä...
 
 ? 
@@ -4307,7 +4355,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2283 ...–æ–π, $\left( {{b_1},{b_2}} \right)$ ‚àí
+l.2391 ...–æ–π, $\left( {{b_1},{b_2}} \right)$ ‚àí
                                                    –∫–æ–æ—Ä–¥–∏–Ω–∞—Ç—ã –≤–µ...
 
 ? 
@@ -4319,255 +4367,255 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2283 ...Ω–æ–≥–æ –¥–∞–Ω–Ω–æ–π –ø—Ä—è–º–æ–π, t ‚àí
+l.2391 ...Ω–æ–≥–æ –¥–∞–Ω–Ω–æ–π –ø—Ä—è–º–æ–π, t ‚àí
                                                    –ø–∞—Ä–∞–º–µ—Ç—Ä.
 ? 
-<./pics/13.jpg, id=1452, 315.1775pt x 253.94875pt>
+<./pics/13.jpg, id=1513, 315.1775pt x 253.94875pt>
 File: ./pics/13.jpg Graphic file (type jpg)
 <use ./pics/13.jpg>
-Package pdftex.def Info: ./pics/13.jpg  used on input line 2285.
+Package pdftex.def Info: ./pics/13.jpg  used on input line 2393.
 (pdftex.def)             Requested size: 126.06876pt x 101.5777pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2290.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2398.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2290
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2398
 .
 
-<./pics/14.jpg, id=1453, 280.04625pt x 253.94875pt>
+<./pics/14.jpg, id=1514, 280.04625pt x 253.94875pt>
 File: ./pics/14.jpg Graphic file (type jpg)
 <use ./pics/14.jpg>
-Package pdftex.def Info: ./pics/14.jpg  used on input line 2293.
+Package pdftex.def Info: ./pics/14.jpg  used on input line 2401.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2299.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2407.
 
 Missing character: There is no Ë in font cmr10!
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2300.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2408.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2300
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2408
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2300.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2408.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2300
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2408
 .
 
-<./pics/15.jpg, id=1454, 434.62375pt x 253.94875pt>
+<./pics/15.jpg, id=1515, 434.62375pt x 253.94875pt>
 File: ./pics/15.jpg Graphic file (type jpg)
 <use ./pics/15.jpg>
-Package pdftex.def Info: ./pics/15.jpg  used on input line 2302.
+Package pdftex.def Info: ./pics/15.jpg  used on input line 2410.
 (pdftex.def)             Requested size: 173.8464pt x 101.5777pt.
-[97 <./pics/12.jpg> <./pics/13.jpg> <./pics/14.jpg>]
+[101 <./pics/12.jpg> <./pics/13.jpg> <./pics/14.jpg>]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2307.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2415.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2307
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2415
 .
 
-<./pics/16.jpg, id=1459, 398.48875pt x 338.26375pt>
+<./pics/16.jpg, id=1520, 398.48875pt x 338.26375pt>
 File: ./pics/16.jpg Graphic file (type jpg)
 <use ./pics/16.jpg>
-Package pdftex.def Info: ./pics/16.jpg  used on input line 2311.
+Package pdftex.def Info: ./pics/16.jpg  used on input line 2419.
 (pdftex.def)             Requested size: 159.39267pt x 135.30309pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2315.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2423.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2315
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2423
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2315.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2423.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2315
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2423
 .
 
-<./pics/17.jpg, id=1460, 405.515pt x 366.36874pt>
+<./pics/17.jpg, id=1521, 405.515pt x 366.36874pt>
 File: ./pics/17.jpg Graphic file (type jpg)
 <use ./pics/17.jpg>
-Package pdftex.def Info: ./pics/17.jpg  used on input line 2317.
+Package pdftex.def Info: ./pics/17.jpg  used on input line 2425.
 (pdftex.def)             Requested size: 162.20311pt x 146.54489pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2322.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2430.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2322
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2430
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2322.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2430.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2322
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2430
 .
 
-[98 <./pics/15.jpg> <./pics/16.jpg> <./pics/17.jpg>]
+[102 <./pics/15.jpg> <./pics/16.jpg> <./pics/17.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 44.
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \CYRV invalid in math mode on input line 2327.
+LaTeX Warning: Command \CYRV invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyryo invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyryo invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyryu invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyryu invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2435.
 
 Missing character: There is no Ô in font cmr10!
 Missing character: There is no Â in font cmr10!
@@ -4623,82 +4671,82 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no Í in font cmr10!
 Missing character: There is no Û in font cmr10!
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2435.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2327.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2435.
 
 Missing character: There is no Ì in font cmr10!
 Missing character: There is no ‡ in font cmr10!
@@ -4733,19 +4781,19 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2327 ...—Ä–æ–≤–µ–∫—Ç–æ—Ä–∏—Ä—É–µ–º: $\vec{M_0 M}
+l.2435 ...—Ä–æ–≤–µ–∫—Ç–æ—Ä–∏—Ä—É–µ–º: $\vec{M_0 M}
                                                    = (x - x_0; y - y_0; z - ...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2327 ...—Ç–æ—Ä–∏—Ä—É–µ–º: $\vec{M_0 M} = (x - x_
+l.2435 ...—Ç–æ—Ä–∏—Ä—É–µ–º: $\vec{M_0 M} = (x - x_
                                                   0; y - y_0; z - z_0)$. –ü—...
 
 ? 
 
-Overfull \hbox (24.08633pt too wide) in paragraph at lines 2327--2328
+Overfull \hbox (24.08633pt too wide) in paragraph at lines 2435--2436
 \T2A/cmr/m/n/10 œÛÒÚ¸ ‚ ÔÓ-ÒÚ‡ÌÚ-‚Â Á‡-‰‡-Ì‡ ÔÎÓÒ-ÍÓÒÚ¸ $\OML/cmm/m/it/10 Q$\
 T2A/cmr/m/n/10 . «‡-‰‡-Ì‡ ÚÓ˜-ÍÓÈ $\OML/cmm/m/it/10 M[]\OT1/cmr/m/n/10 (\OML/cm
 m/m/it/10 x[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 ; \OML/cmm/m
@@ -4753,86 +4801,86 @@ m/m/it/10 x[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 ; \OML/cmm/m
  []
 
 
-Overfull \hbox (23.09685pt too wide) in paragraph at lines 2341--2342
+Overfull \hbox (23.09685pt too wide) in paragraph at lines 2449--2450
 \T2A/cmr/m/n/10 ˜ËÏ, ˜ÚÓ ÍÓ-Ó-‰Ë-Ì‡-Ú‡-ÏË Ì‡-Ô‡‚-Îˇ-˛-˘Â-„Ó ÍÓ-ÒË-ÌÛ-Ò‡ ˇ‚-Îˇ
 -˛Ú-Òˇ $[] \OT1/cmr/m/n/10 = (\OML/cmm/m/it/10 cos; cos; cos\OT1/cmr/m/n/10 
 )$\T2A/cmr/m/n/10 ,
  []
 
-[99
+[103
 
 ]
-Overfull \hbox (3.10944pt too wide) in paragraph at lines 2346--2348
+Overfull \hbox (3.10944pt too wide) in paragraph at lines 2454--2456
 \T2A/cmr/m/n/10 ƒ‡ÌÌ‡ˇ ÙÓ-ÏÛ-Î‡ ÔÂ‰-ÒÚ‡‚-Îˇ-ÂÚ ÒÍ‡-Îˇ-ÌÓÂ ÔÓ-ËÁ-‚Â-‰Â-ÌËÂ ‚
  ÍÓ-Ó-‰Ë-Ì‡Ú-ÌÓÈ ÙÓ-
  []
 
-[100]
+[104]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 45.
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2359.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2467.
 
 Missing character: There is no Ë in font cmr10!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2360 ...Ä–æ—Ö–æ–¥–∏—Ç —á–µ—Ä–µ–∑ —Ç–æ—á–∫—É M(x_
+l.2468 ...Ä–æ—Ö–æ–¥–∏—Ç —á–µ—Ä–µ–∑ —Ç–æ—á–∫—É M(x_
                                                   0, y_0, z_0) –ø–∞—Ä–∞–ª–ª–...
 
 ? 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2468.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2360.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2468.
 
 Missing character: There is no Ô in font cmr10!
 Missing character: There is no ‡ in font cmr10!
@@ -4855,37 +4903,37 @@ Missing character: There is no Û in font cmr10!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2360 ...ª–µ–ª—å–Ω–æ –≤–µ–∫—Ç–æ—Ä—É $\overline{S}
+l.2468 ...ª–µ–ª—å–Ω–æ –≤–µ–∫—Ç–æ—Ä—É $\overline{S}
                                                   =(m, n, p)$. –í–µ–∫—Ç–æ—Ä ...
 
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    $
-l.2362 ...t\\ y=y_0+nt\\z=z_0+pt\end{array}\right$
+l.2470 ...t\\ y=y_0+nt\\z=z_0+pt\end{array}\right$
                                                   .
 ? 
-[101
+[105
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 46.
-[102
+[106
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 47.
-[103
+[107
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 48.
 
-Overfull \hbox (24.97829pt too wide) in paragraph at lines 2406--2408
+Overfull \hbox (24.97829pt too wide) in paragraph at lines 2514--2516
 []\T2A/cmr/m/n/10 Õ‡È‰ºÏ Û‡‚-ÌÂ-ÌËÂ, Á‡-‰‡-˛-˘ÂÂ ÷.œ. –‡Ò-ÒÏÓÚ-ËÏ ÔÓ-ËÁ-‚ÓÎ¸
 -ÌÛ˛ ÚÓ˜-ÍÛ $\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; z\OT1/cm
 r/m/n/10 )$
  []
 
 
-LaTeX Warning: File `./pics/.png' not found on input line 2413.
+LaTeX Warning: File `./pics/.png' not found on input line 2521.
 
 
 ! Package pdftex.def Error: File `./pics/.png' not found: using draft setting.
@@ -4894,11 +4942,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2413 ...includegraphics[scale=0.25]{./pics/.png}
+l.2521 ...includegraphics[scale=0.25]{./pics/.png}
                                                   
 ? 
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-2413.
+2521.
 
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.f
 d"
@@ -4911,43 +4959,43 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2414 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
+l.2522 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2414 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
+l.2522 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2414 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2522 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2414 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
+l.2522 ...¥—Ä –≤—Ä–∞—â–µ–Ω–∏—è(—à–∫–æ–ª—å–Ω—ã–π).}
                                                   
 ? 
 
-Underfull \hbox (badness 4752) in paragraph at lines 2414--2414
+Underfull \hbox (badness 4752) in paragraph at lines 2522--2522
 []\T2A/cmr/m/n/9 (a) |›Î-ÎËÔ-ÚË-˜Â-ÒÍËÈ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2414--2414
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2522
 
  []
 
-<./pics/shkarlupa.png, id=1500, 379.4175pt x 379.4175pt>
+<./pics/shkarlupa.png, id=1561, 379.4175pt x 379.4175pt>
 File: ./pics/shkarlupa.png Graphic file (type png)
 <use ./pics/shkarlupa.png>
-Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2419.
+Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2527.
 (pdftex.def)             Requested size: 94.85414pt x 94.85414pt.
 
-Overfull \hbox (8.60414pt too wide) in paragraph at lines 2419--2420
+Overfull \hbox (8.60414pt too wide) in paragraph at lines 2527--2528
  [][] 
  []
 
@@ -4958,40 +5006,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2420 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2528 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2420 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2528 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2420 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2528 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2420 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2528 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2420--2420
+Underfull \hbox (badness 10000) in paragraph at lines 2528--2528
 []\T2A/cmr/m/n/9 (b) |√Ë-ÔÂ-·Ó-ÎË-˜Â-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2420--2420
+Underfull \hbox (badness 10000) in paragraph at lines 2528--2528
 
  []
 
-<./pics/pip.jpg, id=1502, 200.75pt x 221.82875pt>
+<./pics/pip.jpg, id=1563, 200.75pt x 221.82875pt>
 File: ./pics/pip.jpg Graphic file (type jpg)
 <use ./pics/pip.jpg>
-Package pdftex.def Info: ./pics/pip.jpg  used on input line 2425.
+Package pdftex.def Info: ./pics/pip.jpg  used on input line 2533.
 (pdftex.def)             Requested size: 50.18736pt x 55.45705pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -5000,35 +5048,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2426 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2534 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2426 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2534 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2426 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2534 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2426 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2534 ...–Ω–¥—Ä \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2426--2426
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2534
 
  []
 
-<./pics/jizz.png, id=1503, 251.4996pt x 162.3666pt>
+<./pics/jizz.png, id=1564, 251.4996pt x 162.3666pt>
 File: ./pics/jizz.png Graphic file (type png)
 <use ./pics/jizz.png>
-Package pdftex.def Info: ./pics/jizz.png  used on input line 2430.
+Package pdftex.def Info: ./pics/jizz.png  used on input line 2538.
 (pdftex.def)             Requested size: 62.87474pt x 40.59154pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -5037,35 +5085,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2431 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2539 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2431 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2539 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2431 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2539 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2431 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2539 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2431--2431
+Underfull \hbox (badness 10000) in paragraph at lines 2539--2539
 
  []
 
-<./pics/joq.jpg, id=1504, 142.28156pt x 142.28156pt>
+<./pics/joq.jpg, id=1565, 142.28156pt x 142.28156pt>
 File: ./pics/joq.jpg Graphic file (type jpg)
 <use ./pics/joq.jpg>
-Package pdftex.def Info: ./pics/joq.jpg  used on input line 2436.
+Package pdftex.def Info: ./pics/joq.jpg  used on input line 2544.
 (pdftex.def)             Requested size: 35.5703pt x 35.5703pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -5074,40 +5122,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2437 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2545 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2437 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2545 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2437 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2545 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2437 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2545 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2437--2437
+Underfull \hbox (badness 10000) in paragraph at lines 2545--2545
 
  []
 
-[104
+[108
 
-] [105 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./
+] [109 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./
 pics/joq.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 49.
-<./pics/jiji.png, id=1530, 1027.84pt x 969.6225pt>
+<./pics/jiji.png, id=1592, 1027.84pt x 969.6225pt>
 File: ./pics/jiji.png Graphic file (type png)
 <use ./pics/jiji.png>
-Package pdftex.def Info: ./pics/jiji.png  used on input line 2453.
+Package pdftex.def Info: ./pics/jiji.png  used on input line 2561.
 (pdftex.def)             Requested size: 51.395pt x 48.48396pt.
 
 ! LaTeX Error: There's no line here to end.
@@ -5116,50 +5164,56 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2456 
+l.2564 
        
 ? 
-[106
+[110
 
- <./pics/jiji.png>] [107]
+ <./pics/jiji.png>] [111]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
-[108
+[112
 
-] [109] [110]
+] [113] [114]
 
-! LaTeX Error: \begin{enumerate} on input line 2552 ended by \end{document}.
+! LaTeX Error: \begin{enumerate} on input line 2660 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2567 \end{document}
+l.2675 \end{document}
                      
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2567.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2567.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2675.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2675.
 (math_sem1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2567.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2567.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2675.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2675.
 
-Package rerunfilecheck Info: File `math_sem1.out' has not changed.
-(rerunfilecheck)             Checksum: 7B991DD03B2CDA077E3CC8C1738F6395;30710.
 
+
+Package rerunfilecheck Warning: File `math_sem1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `math_sem1.out':
+(rerunfilecheck)             Before: 604FD31350E84E7254F11DE06B41C090;31116
+(rerunfilecheck)             After:  77FB97DFCDD50C33969D624D6F66480C;32293.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2567.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2675.
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 2552 (\begingroup)
-### simple group (level 1) entered at line 2205 ({)
+### semi simple group (level 2) entered at line 2660 (\begingroup)
+### simple group (level 1) entered at line 2313 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 35049 strings out of 492483
- 781681 string characters out of 3121590
- 963951 words of memory out of 3000000
- 38207 multiletter control sequences out of 15000+200000
+ 35094 strings out of 492483
+ 782081 string characters out of 3121590
+ 964951 words of memory out of 3000000
+ 38208 multiletter control sequences out of 15000+200000
  34681 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,17n,103p,892b,2256s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -5208,9 +5262,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/s4d14
 /Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
 ols/msam10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
-Output written on math_sem1.pdf (111 pages, 1463566 bytes).
+Output written on math_sem1.pdf (115 pages, 1480982 bytes).
 PDF statistics:
- 2618 PDF objects out of 2984 (max. 8388607)
- 567 named destinations out of 1000 (max. 500000)
- 1058 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2693 PDF objects out of 2984 (max. 8388607)
+ 611 named destinations out of 1000 (max. 500000)
+ 1066 words of extra memory for PDF output out of 10000 (max. 10000000)
 
