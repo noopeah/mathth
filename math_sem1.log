@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 11:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 12:37
 entering extended mode
 **./math_sem1.tex
 (math_sem1.tex
@@ -1143,110 +1143,7 @@ File: pgflibrarypatterns.code.tex 2019/12/21 v3.1.5a (3.1.5a)
 ))
 Package hyperref Info: Option `colorlinks' set `false' on input line 27.
 \c@thm=\count156
- (math_sem1.aux
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-)
+ (math_sem1.aux)
 \openout1 = `math_sem1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -1267,7 +1164,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
- ABD: EveryShipout initializing macros
+
+ABD: EveryShipout initializing macros
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1362,24 +1260,20 @@ Overfull \hbox (85.13374pt too wide) in paragraph at lines 40--40
 
 
 {C:/Users/s4d14/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(math_sem1.tocpdfTeX warning (ext4): destination with the same identifier (name
-{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 ...РѕРЅРЅРёРµ РїСЂРµРґРµР»С‹.}{23}{chapter.9}
-                                                  % [1
 
-]
-Overfull \hbox (3.22122pt too wide) in paragraph at lines 34--34
- [] [][]\T2A/cmr/bx/n/10 Непрерывность эле-мен-тар-ных функ-ций. За-ме-ча-тель-
-ные пре- 
- []
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-[2] [3])
 \tf@toc=\write5
 \openout5 = `math_sem1.toc'.
 
- [4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \chapter
+             {PUBLIC SERVICE ANNOUNCEMENT} [1
+
+]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
 ! LaTeX Error: \begin{enumerate} on input line 46 ended by \end{enumarate}.
@@ -1391,7 +1285,7 @@ Type  H <return>  for immediate help.
 l.54 \end{enumarate}
                     
 ? 
-[5
+[2
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{chapter.1}) 
 has been already used, duplicate ignored
@@ -1405,18 +1299,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
-[6
+[3
 
-] [7]
+] [4]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[8
+[5
 
 ]
 Overfull \hbox (99.84491pt too wide) in paragraph at lines 200--201
 [][] 
  []
 
-[9]
+[6]
 NOTE: coordinate (2Y5.0e0],3Y0.0e0]) has been dropped because it is unbounded (
 in y). (see also unbounded coords=jump). 
 NOTE: coordinate (2Y4.58334e0],3Y0.0e0]) has been dropped because it is unbound
@@ -1479,7 +1373,7 @@ Overfull \hbox (88.69795pt too wide) in paragraph at lines 205--234
 [] []
  []
 
-[10] [11]
+[7] [8]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
 LaTeX Warning: Command \CYRM invalid in math mode on input line 245.
@@ -1491,9 +1385,9 @@ Overfull \hbox (17.68355pt too wide) in paragraph at lines 244--246
 н-тром окруж-
  []
 
-[12
+[9
 
-] [13] [14]
+] [10] [11]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
 Overfull \hbox (7.76749pt too wide) in paragraph at lines 341--342
@@ -1511,7 +1405,7 @@ Overfull \hbox (6.98465pt too wide) in paragraph at lines 344--345
 ] + [] = [] = [] =
  []
 
-[15
+[12
 
 ]
 Overfull \hbox (11.21756pt too wide) in paragraph at lines 350--351
@@ -1520,9 +1414,9 @@ OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/
 10 C[]a[]b[]$ 
  []
 
-[16]
+[13]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-[17
+[14
 
 ]
 
@@ -1531,9 +1425,9 @@ Make it at least 12.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[18] [19]
+[15] [16]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[20
+[17
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
@@ -1578,9 +1472,9 @@ Missing character: There is no ю in font cmr10!
 Missing character: There is no щ in font cmr10!
 Missing character: There is no а in font cmr10!
 Missing character: There is no я in font cmr10!
-[21
+[18
 
-] [22]
+] [19]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
 80.
@@ -1594,7 +1488,7 @@ Overfull \hbox (114.8951pt too wide) in paragraph at lines 516--517
 [][] 
  []
 
-[23
+[20
 
 ]
 
@@ -1603,9 +1497,9 @@ Make it at least 22.4317pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[24]
+[21]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 10.
-[25
+[22
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 11.
@@ -1614,7 +1508,7 @@ Overfull \hbox (17.40475pt too wide) in paragraph at lines 535--544
 \OMS/cmsy/m/n/10 U[]$ \T2A/cmr/m/n/10 и при этом $[][] []$
  []
 
-[26
+[23
 
 ]
 Overfull \hbox (37.17278pt too wide) in paragraph at lines 578--580
@@ -1628,7 +1522,7 @@ Overfull \hbox (63.0058pt too wide) in paragraph at lines 602--625
 [][] [] 
  []
 
-[27]
+[24]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 625.
@@ -1645,9 +1539,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 625.
 
-[28]
+[25]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 12.
-[29
+[26
 
 ]
 
@@ -1656,7 +1550,7 @@ Make it at least 24.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[30]
+[27]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 13.
 
 LaTeX Font Warning: Command \LARGE invalid in math mode on input line 689.
@@ -1673,9 +1567,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 704--705
 
  []
 
-[31
+[28
 
-] [32]
+] [29]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 14.
 
 Overfull \hbox (37.17278pt too wide) in paragraph at lines 729--731
@@ -1689,9 +1583,9 @@ Overfull \hbox (63.0058pt too wide) in paragraph at lines 753--776
 [][] [] 
  []
 
-[33
+[30
 
-] [34]
+] [31]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 15.
 
 Overfull \hbox (9.13028pt too wide) in paragraph at lines 783--788
@@ -1709,9 +1603,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 792--797
 
  []
 
-[35
+[32
 
-] [36]
+] [33]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 16.
 
 Overfull \hbox (3.86574pt too wide) in paragraph at lines 834--842
@@ -1719,9 +1613,9 @@ Overfull \hbox (3.86574pt too wide) in paragraph at lines 834--842
 -ты-вая непре-
  []
 
-[37
+[34
 
-] [38]
+] [35]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 17.
 
 Overfull \hbox (2.75172pt too wide) in paragraph at lines 860--863
@@ -1730,9 +1624,9 @@ Overfull \hbox (2.75172pt too wide) in paragraph at lines 860--863
 /cmr/m/n/10 )$
  []
 
-[39
+[36
 
-] [40] [41]
+] [37] [38]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 18.
 
 ! LaTeX Error: File `pic1' not found.
@@ -1762,13 +1656,13 @@ Overfull \hbox (8.25462pt too wide) in paragraph at lines 940--964
 /n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
  []
 
-[42
+[39
 
-] [43]
+] [40]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 19.
-[44
+[41
 
-] [45]
+] [42]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 20.
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 1022.
@@ -1783,7 +1677,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
 
  []
 
-[46
+[43
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
@@ -1825,12 +1719,12 @@ Overfull \hbox (4.42403pt too wide) in paragraph at lines 1059--1061
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
-[47]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 1063--1063
 
  []
 
-[48]
+[45]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -1898,25 +1792,29 @@ l.1125   \end{proof}
 l.1125   \end{proof}
                     
 ? 
-[49]
+[46]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 21.
-[50
+[47
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 22.
+[48
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 23.
 ! Extra }, or forgotten $.
-l.1155 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
+l.1175 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
                                                   $
 ? 
 
-Overfull \hbox (4.42403pt too wide) in paragraph at lines 1157--1159
+Overfull \hbox (4.42403pt too wide) in paragraph at lines 1177--1179
 []\T2A/cmr/m/n/10 Если $\OML/cmm/m/it/10 x[]$ \T2A/cmr/m/n/10 - точ-ка ло-каль-
 но-го мак-си-му-ма функ-ции $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1181
 
  []
 
@@ -1927,36 +1825,36 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1166       \begin{equation}
+l.1186       \begin{equation}
                              
 ? 
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1171     \end{equation}
+l.1191     \end{equation}
                          
 ? 
 
-! LaTeX Error: \begin{proof} on input line 1156 ended by \end{equation}.
+! LaTeX Error: \begin{proof} on input line 1176 ended by \end{equation}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1171     \end{equation}
+l.1191     \end{equation}
                          
 ? 
-[51
+[49
 
 ]
 
-! LaTeX Error: \begin{thm} on input line 1153 ended by \end{proof}.
+! LaTeX Error: \begin{thm} on input line 1173 ended by \end{proof}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1172   \end{proof}
+l.1192   \end{proof}
                     
 ? 
 
@@ -1966,42 +1864,42 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1173 \end{thm}
+l.1193 \end{thm}
                 
 ? 
-[52]
+[50]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 24.
-[53
+[51
 
 ]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1225 
+l.1245 
        
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1225 
+l.1245 
        
 ? 
 ! Display math should end with $$.
 <to be read again> 
                    \@@par 
-l.1225 
+l.1245 
        
 ? 
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1225 
+l.1245 
        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1226       F'(c) = 0 \Leftrightarrow
+l.1246       F'(c) = 0 \Leftrightarrow
                                        f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} ...
 
 ? 
@@ -2012,7 +1910,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1228   \end{proof}
+l.1248   \end{proof}
                     
 ? 
 
@@ -2022,7 +1920,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1228   \end{proof}
+l.1248   \end{proof}
                     
 ? 
 
@@ -2032,17 +1930,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1228   \end{proof}
+l.1248   \end{proof}
                     
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1228   \end{proof}
+l.1248   \end{proof}
                     
 ? 
 
-Overfull \hbox (20.6022pt too wide) in paragraph at lines 1259--1263
+Overfull \hbox (20.6022pt too wide) in paragraph at lines 1279--1283
 \T2A/cmr/m/n/10 Геосмысл тео-ре-мы Лагран-жа: Пря-мая, про-хл-дя-щая че-рез точ
 -ки $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 f\OT
 1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; \OT1/cmr/m
@@ -2050,136 +1948,140 @@ Overfull \hbox (20.6022pt too wide) in paragraph at lines 1259--1263
 OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ))$
  []
 
-[54]
+[52]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 25.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1267--1268
+Underfull \hbox (badness 10000) in paragraph at lines 1287--1288
 
  []
 
 
-Overfull \hbox (0.32219pt too wide) in paragraph at lines 1269--1271
+Overfull \hbox (0.32219pt too wide) in paragraph at lines 1289--1291
 []\T2A/cmr/bx/n/10 Замечание: \T2A/cmr/m/n/10 Пра-ви-ло Ло-пи-та-ля так-же спра
 -вед-ли-во, ес-ли $[][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\O
 T1/cmr/m/n/10 ) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1269--1271
+Underfull \hbox (badness 10000) in paragraph at lines 1289--1291
 
  []
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1281.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1281.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1281.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1281.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1283--1286
+Underfull \hbox (badness 10000) in paragraph at lines 1303--1306
 
  []
 
-[55
+[53
 
 ]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1294.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1294.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1294.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1294.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1334--1335
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1355
 
  []
 
 
-Overfull \hbox (45.76065pt too wide) in paragraph at lines 1336--1341
+Overfull \hbox (45.76065pt too wide) in paragraph at lines 1356--1361
 []$[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\O
 T1/cmr/m/n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/
 m/it/10 x\OT1/cmr/m/n/10 )) = [\OMS/cmsy/m/n/10 1   1\OT1/cmr/m/n/10 ] = [][]([
 ] \OMS/cmsy/m/n/10   []\OT1/cmr/m/n/10 ) = [][]([]) =
  []
 
-[56]
-Underfull \hbox (badness 10000) in paragraph at lines 1344--1345
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1353--1354
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1374
 
  []
 
-[57]
+[55]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 27.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1385.
+
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1367 Р¤СѓРЅРєС†РёСЏ y = f\left
+l.1387 Р¤СѓРЅРєС†РёСЏ y = f\left
                                 ( x \right) РЅР°Р·С‹РІР°РµС‚СЃСЏ \\
 ? 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1387.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1367.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1387.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1369     \item
+l.1389     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1369     \item
+l.1389     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1369     \item
+l.1389     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
@@ -2196,125 +2098,1203 @@ Missing character: There is no я in font cmr10!
 ! Extra }, or forgotten \endgroup.
 \@par ... \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1369     \item
+l.1389     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
 
-Overfull \hbox (18.01396pt too wide) in paragraph at lines 1369--1372
+Overfull \hbox (18.01396pt too wide) in paragraph at lines 1389--1392
 []\T2A/cmr/m/n/10 возрастающей (неубы-ва-ю-щей) на ин-тер-ва-ле $[]$, ес-ли $[]
 $ 
  []
 
 ! Undefined control sequence.
-l.1374 ... \Rightarrow f\left( {{x_1}} \right) \lt
+l.1394 ... \Rightarrow f\left( {{x_1}} \right) \lt
                                                    f\left( {{x_2}} \right);}$
 ? 
 ! Undefined control sequence.
-l.1380 ... \Rightarrow f\left( {{x_1}} \right) \gt
+l.1400 ... \Rightarrow f\left( {{x_1}} \right) \gt
                                                    f\left( {{x_2}} \right).}$
 ? 
 
-Overfull \hbox (18.01396pt too wide) in paragraph at lines 1375--1381
+Overfull \hbox (18.01396pt too wide) in paragraph at lines 1395--1401
 []\T2A/cmr/m/n/10 убывающей (невоз-рас-та-ю-щей) на ин-тер-ва-ле $[]$, ес-ли $[
 ]$ 
  []
 
 
-! LaTeX Error: \begin{enumerate} on input line 1299 ended by \end{itemize}.
+! LaTeX Error: \begin{enumerate} on input line 1319 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1381 \end{itemize}
+l.1401 \end{itemize}
                     
 ? 
-[58
+[56
 
 ]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 30.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1391--1393
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1394
-
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1405.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
-
- []
+LaTeX Warning: Command \cyri invalid in math mode on input line 1411.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1411.
 
- []
 
+LaTeX Warning: Command \cyro invalid in math mode on input line 1411.
+
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+! Undefined control sequence.
+l.1417 \beign
+             {thm}
+? 
+[57
+
+]
+
+! LaTeX Error: \begin{document} ended by \end{thm}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1428 \end{thm}
+                
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.1428 \end{thm}
+                
+? 
+
+Package Fancyhdr Warning: \headheight is too small (24.51453pt): 
+Make it at least 34.4317pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[58]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 29.
+
+! Package inputenc Error: Unicode character в€’ (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1434 ...ѕР№ РІРІРµСЂС…, Р° РЅР° РґСЂСѓРіРѕРј в€’
+                                                   РІС‹РїСѓРєР»РѕР№ РІРЅРёР·...
+
+? 
+<./pics/yyy.jpg, id=519, 260.975pt x 252.945pt>
+File: ./pics/yyy.jpg Graphic file (type jpg)
+<use ./pics/yyy.jpg>
+Package pdftex.def Info: ./pics/yyy.jpg  used on input line 1443.
+(pdftex.def)             Requested size: 120.74947pt x 117.0354pt.
+<./pics/yyy2.jpg, id=520, 271.0125pt x 252.945pt>
+File: ./pics/yyy2.jpg Graphic file (type jpg)
+<use ./pics/yyy2.jpg>
+Package pdftex.def Info: ./pics/yyy2.jpg  used on input line 1448.
+(pdftex.def)             Requested size: 120.74947pt x 112.70103pt.
+
+! Package inputenc Error: Invalid UTF-8 byte sequence.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1452 {\textbf Р
+                 ќРµРѕР±С…РѕРґРёРјРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃС‚РІРѕРІР°РЅ...
+
+? 
+
+! Package inputenc Error: Invalid UTF-8 byte "9D.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1452 {\textbf Рќ
+                  РµРѕР±С…РѕРґРёРјРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃС‚РІРѕРІР°РЅ...
+
+? 
+
+! Package inputenc Error: Unicode character в€’ (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1453 Р•СЃР»Рё ${x_0}$ в€’
+                            С‚РѕС‡РєР° РїРµСЂРµРіРёР±Р° С„СѓРЅРєС†РёРё $f\le...
+
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1455 Р
+        џСЂРµРґРїРѕР»РѕР¶РёРј, С‡С‚Рѕ РІ С‚РѕС‡РєРµ РїРµСЂРµРіРёР±Р° ${x_0}$...
+
+? 
 [59
 
+ <./pics/yyy.jpg> <./pics/yyy2.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1459 {
+        \textb РџРµСЂРІРѕРµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃ...
+
+? 
+! Undefined control sequence.
+l.1459 {\textb
+               РџРµСЂРІРѕРµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃ...
+
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1469 Р
+        џСѓСЃС‚СЊ $f''\left( {{x_0}} \right) = 0, f'''\left( {{x_0}} \right)...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1472 РџРѕСЃРєРѕР»СЊРєСѓ f'''\left
+                                   ( {{x_0}} \right) \ne 0, С‚Рѕ РІС‚РѕСЂР°С...
+
+? 
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \CYRT invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyryu invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrshch invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+! Package inputenc Error: Unicode character в€’ (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1472 ...ЂРµРјС‹, СЃР»РµРґСѓРµС‚ С‡С‚Рѕ {x_0} в€’
+                                                   С‚РѕС‡РєР° РїРµСЂРµРіРёР±...
+
+? 
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrf invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyrc invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 1472.
+
+
+! LaTeX Error: Command \end{proof} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1473 \end{proof}
+                  \\
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1473 \end{proof}
+                  \\
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1473 \end{proof}
+                  \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1473 \end{proof}
+                  \\
+? 
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no я in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no я in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no Т in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no я in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no я in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no О in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no ю in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no щ in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no ф in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no ц in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no и in font cmr10!
+
+Overfull \hbox (20.07857pt too wide) in paragraph at lines 1472--1474
+[]\T2A/cmr/m/n/10 Поскольку f'''$[] \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 = 0\OML/c
+mm/m/it/10 ; []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f[] [] > \OT1/cmr/m/n/10 0)\OM
+L/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f[] [] < \OT1/cmr/m/n/10 0)\O
+ML/cmm/m/it/10 :f[] [] \OT1/cmr/m/n/10 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1472--1474
+
+ []
+
+[60]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1480--1481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1486--1487
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
+
+ []
+
+[61
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
+Underfull \hbox (badness 10000) in paragraph at lines 1496--1497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1505
 
  []
 
 
-Overfull \hbox (9.35791pt too wide) in paragraph at lines 1419--1420
+Overfull \hbox (9.35791pt too wide) in paragraph at lines 1506--1507
 \T2A/cmr/m/n/10 Над мно-же-ством ком-плекс-ных чи-сел вво-дят-ся опе-ра-ции сло
 -же-ния,вычитания,
  []
 
-[60]
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1437
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1524
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 
  []
 
 
-Overfull \hbox (0.57999pt too wide) in paragraph at lines 1445--1445
+Overfull \hbox (0.57999pt too wide) in paragraph at lines 1532--1532
 []\T2A/cmr/bx/n/14.4 Геометрическая ин-тер-при-та-ция ком-плекс-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1449--1451
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1452--1456
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1543
 
  []
 
 
-Overfull \hbox (2.55879pt too wide) in paragraph at lines 1456--1457
+Overfull \hbox (2.55879pt too wide) in paragraph at lines 1543--1544
 []\T2A/cmr/m/n/10 Координатная плос-кость, на ко-то-рой изоб-ра-же-ны в ви-де р
 адиус-векторов
  []
 
-[61]
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1468
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1471
+Underfull \hbox (badness 10000) in paragraph at lines 1556--1558
 
  []
 
 
-Overfull \hbox (12.26314pt too wide) in paragraph at lines 1471--1473
+Overfull \hbox (12.26314pt too wide) in paragraph at lines 1558--1560
 \OML/cmm/m/it/10 z[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 = 
 \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 z[]\O
 MS/cmsy/m/n/10 j\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 cos[] \OT1/cmr/m/n/10 + \OML
@@ -2327,12 +3307,12 @@ ML/cmm/m/it/10 z[]\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1473
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1560
 
  []
 
-[62]
-Overfull \hbox (28.11661pt too wide) in paragraph at lines 1490--1493
+[64]
+Overfull \hbox (28.11661pt too wide) in paragraph at lines 1577--1580
 \T2A/cmr/m/n/10 различные зна-че-ния кор-ня по-лу-ча-ют-ся при раз-лич-ных зна-
 че-ни-ях $\OML/cmm/m/it/10 k \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n
 /10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; :::; n \OMS/cmsy/m/
@@ -2340,14 +3320,14 @@ n/10  
  []
 
 
-Overfull \hbox (37.4529pt too wide) in paragraph at lines 1498--1503
+Overfull \hbox (37.4529pt too wide) in paragraph at lines 1585--1590
 [] \OT1/cmr/m/n/10 = [] = [] =
  []
 
-[63]
+[65]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 31.
 
-Overfull \hbox (28.11661pt too wide) in paragraph at lines 1525--1528
+Overfull \hbox (28.11661pt too wide) in paragraph at lines 1612--1615
 \T2A/cmr/m/n/10 различные зна-че-ния кор-ня по-лу-ча-ют-ся при раз-лич-ных зна-
 че-ни-ях $\OML/cmm/m/it/10 k \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n
 /10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; :::; n \OMS/cmsy/m/
@@ -2356,40 +3336,40 @@ n/10  
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1529.
+(hyperref)                than one, level fixed on input line 1616.
 
-[64
+[66
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 32.
 ! Undefined control sequence.
 <recently read> \exosts 
                         
-l.1541     $\exosts
+l.1628     $\exosts
                     \xi \in (x_1; x_2): g(x-2) - g(x_1) = g'(\xi)\cdot(x_2 -...
 
 ? 
 
-Overfull \hbox (19.42856pt too wide) in paragraph at lines 1551--1552
+Overfull \hbox (19.42856pt too wide) in paragraph at lines 1638--1639
 []\T2A/cmr/bx/n/10 совокупность всех пер-во-об-раз-ных для функ-ции на-зы-ва-ет
 -ся неопре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1561--1561
+Underfull \hbox (badness 10000) in paragraph at lines 1648--1648
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1561.
+(hyperref)                removing `\\' on input line 1648.
 
-[65
+[67
 
-] [66] [67]
+] [68] [69]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 33.
 
-Overfull \hbox (0.76025pt too wide) in paragraph at lines 1612--1613
+Overfull \hbox (0.76025pt too wide) in paragraph at lines 1699--1700
 \T2A/cmr/m/it/10 дифференцируема, при-чјм $\OMS/cmsy/m/n/10 D\OT1/cmr/m/n/10 (\
 OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )) \OMS/cms
 y/m/n/10  D\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )$\T2A/cmr/m/it/
@@ -2401,27 +3381,27 @@ it/10 dx$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1614--1614
+Underfull \hbox (badness 10000) in paragraph at lines 1701--1701
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1621
+Underfull \hbox (badness 10000) in paragraph at lines 1708--1708
 
  []
 
-[68
+[70
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 34.
 ! Display math should end with $$.
 <to be read again> 
                    \protect 
-l.1628   $\\
+l.1715   $\\
             $ \Rightarrow \int udv = uv - \int vdu
 ? 
 
-Overfull \hbox (8.61794pt too wide) detected at line 1628
+Overfull \hbox (8.61794pt too wide) detected at line 1715
 [][]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 uv\OT1/cmr/m/n/10 ) = (
 \OML/cmm/m/it/10 uv\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = (\O
 ML/cmm/m/it/10 u[]v \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 v[]u\OT1/cmr/m/n/10 )\OM
@@ -2435,56 +3415,56 @@ cmm/m/it/10 udv
 ! You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1629 \end{equation}
+l.1716 \end{equation}
                      
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1629 \end{equation}
+l.1716 \end{equation}
                      
 ? 
 
-Overfull \hbox (17.47118pt too wide) in paragraph at lines 1633--1634
+Overfull \hbox (17.47118pt too wide) in paragraph at lines 1720--1721
 []\T2A/cmr/m/n/10 подинтегральная функ-ция есть про-из-ве-де-ние мно-го-чле-на 
 и си-ну-са/косинуса 
  []
 
-[69
+[71
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 35.
-[70
+[72
 
-] [71]
-Underfull \hbox (badness 10000) in paragraph at lines 1734--1734
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1748--1748
+] [73]
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1821
 
  []
 
-[72] [73]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1835--1835
+
+ []
+
+[74] [75]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 36.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1769--1769
+Underfull \hbox (badness 10000) in paragraph at lines 1856--1856
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1857--1857
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1771--1771
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1858
 
  []
 
 
-Overfull \hbox (0.16068pt too wide) in paragraph at lines 1773--1776
+Overfull \hbox (0.16068pt too wide) in paragraph at lines 1860--1863
 $\OT1/cmr/m/n/10 0 \OMS/cmsy/m/n/10  j\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x \OT
 1/cmr/m/n/10 + []) \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1
 /cmr/m/n/10 )\OMS/cmsy/m/n/10 j  \OML/cmm/m/it/10 M\OT1/cmr/m/n/10 []$ $\OML/
@@ -2494,119 +3474,119 @@ cmm/m/it/10 M\OT1/cmr/m/n/10 [] \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/10 0$ \T2A/cmr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1782--1782
-
- []
-
-[74
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 1783--1783
-
- []
-
-[75]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1805--1806
-
- []
-
-! Undefined control sequence.
-l.1807 ...”Р»СЏ Р»СЋР±РѕРіРѕ $\alpha, \beta \in \R
-                                                  $ Рё РґР»СЏ Р»СЋР±С‹С… РёР...
-
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1812--1813
+Underfull \hbox (badness 10000) in paragraph at lines 1869--1869
 
  []
 
 [76
 
 ]
-Overfull \hbox (9.62045pt too wide) in paragraph at lines 1816--1818
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1870
+
+ []
+
+[77]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1892--1893
+
+ []
+
+! Undefined control sequence.
+l.1894 ...”Р»СЏ Р»СЋР±РѕРіРѕ $\alpha, \beta \in \R
+                                                  $ Рё РґР»СЏ Р»СЋР±С‹С… РёР...
+
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
+
+ []
+
+[78
+
+]
+Overfull \hbox (9.62045pt too wide) in paragraph at lines 1903--1905
 []\T2A/cmr/m/n/20.74 Я НЕ ПО-НИ-МАЮ, ЧТО ДАЛЬ-ШЕ НА-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1820--1822
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1909
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1828--1829
+Underfull \hbox (badness 10000) in paragraph at lines 1915--1916
 
  []
 
 ! Extra }, or forgotten $.
-l.1830 ...^{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}
+l.1917 ...^{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}
                                                   }=\lim_{b\to{+\infty}}(b-1...
 
 ? 
 ! Extra }, or forgotten $.
-l.1830 ...{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}}
+l.1917 ...{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}}
                                                   =\lim_{b\to{+\infty}}(b-1)...
 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1833
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1920
 
  []
 
 ! Extra }, or forgotten $.
-l.1836 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
+l.1923 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
                                                   }=
 ? 
 ! Extra }, or forgotten $.
-l.1836 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
+l.1923 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1839--1840
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1927
 
  []
 
 ! Extra }, or forgotten $.
-l.1843 ...\infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}
+l.1930 ...\infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}
                                                   }=
 ? 
 ! Extra }, or forgotten $.
-l.1843 ...infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}}
+l.1930 ...infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}}
                                                   =
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1846--1847
+Underfull \hbox (badness 10000) in paragraph at lines 1933--1934
 
  []
 
 ! Undefined control sequence.
 <recently read> \abs 
                      
-l.1849 ...\to{+\infty}}\int_{1}^{+\infty} \ln \abs
+l.1936 ...\to{+\infty}}\int_{1}^{+\infty} \ln \abs
                                                   {x}=
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1852--1853
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1940
 
  []
 
 ! Extra }, or forgotten $.
-l.1856 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
+l.1943 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
                                                   }=
 ? 
 ! Extra }, or forgotten $.
-l.1856 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
+l.1943 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 ? 
-[77]
+[79]
 ! Extra }, or forgotten $.
-l.1865 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
+l.1952 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
                                                   $ СЃРїСЂР°РІРµРґР»РёРІРѕ $...
 
 ? 
-[78]
-Underfull \hbox (badness 10000) in paragraph at lines 1870--1872
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1959
 
  []
 
@@ -2617,38 +3597,38 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1872     \item С
+l.1959     \item С
                   ЃРѕРґРµСЂР¶РёС‚СЃСЏ: A $\subseteq$ B. РљР°Р¶РґС‹Р№ СЌР»РµР...
 
 ? 
 
-Underfull \hbox (badness 10000) detected at line 1872
+Underfull \hbox (badness 10000) detected at line 1959
 [][]
  []
 
 ! Undefined control sequence.
-l.1884 \item $\forall \alpha,\beta \in \R
+l.1971 \item $\forall \alpha,\beta \in \R
                                          , f(x),g(x)$ РёРЅС‚РµРіСЂРёСЂСѓРµРј...
 
 ? 
-[79]
+[81]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 38.
-[80
+[82
 
 ]
 ! Undefined control sequence.
-l.1917 ...РґРµР»СЏРµС‚СЃСЏ РѕРїРµСЂР°С†РёСЏ \texbf
+l.2004 ...РґРµР»СЏРµС‚СЃСЏ РѕРїРµСЂР°С†РёСЏ \texbf
                                                   {С‚СЂР°РЅСЃРїРѕРЅРёСЂРѕРІР...
 
 ? 
 
-Overfull \hbox (3.80371pt too wide) in paragraph at lines 1916--1918
+Overfull \hbox (3.80371pt too wide) in paragraph at lines 2003--2005
 \T2A/cmr/m/n/10 Для лю-бой мат-ри-цы опре-де-ля-ет-ся опе-ра-ция транс-по-ни-ро
 -ва-ния:каждая стро-
  []
 
-[81]
-Overfull \hbox (0.60155pt too wide) in paragraph at lines 1964--1974
+[83]
+Overfull \hbox (0.60155pt too wide) in paragraph at lines 2051--2061
 \T2A/cmr/bx/n/10 пол-не-ний\T2A/cmr/m/n/10 . Ал-геб-ра-и-че-ским до-пол-не-ни-е
 м к $\OML/cmm/m/it/10 a[]$ \T2A/cmr/m/n/10 на-зы-ва-ет-ся $\OML/cmm/m/it/10 A[]
  \OT1/cmr/m/n/10 = (\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 1)[] \OMS/cmsy/m/n/10 
@@ -2657,11 +3637,11 @@ Overfull \hbox (0.60155pt too wide) in paragraph at lines 1964--1974
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1979 a_{2 1} & \color{violet}{a_{2 2} &
+l.2066 a_{2 1} & \color{violet}{a_{2 2} &
                                           \color{violet}{a_{2 3}}\\
 ? 
 
-Overfull \hbox (95.32635pt too wide) detected at line 1988
+Overfull \hbox (95.32635pt too wide) detected at line 2075
 []  []  \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it
 /10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + \OML/cmm/m/it
 /10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/i
@@ -2674,20 +3654,20 @@ m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10   \OML/cmm
 m/m/it/10 a[]
  []
 
-[82] [83]
+[84] [85]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 39.
 
-Overfull \hbox (108.59296pt too wide) detected at line 2015
+Overfull \hbox (108.59296pt too wide) detected at line 2102
 \OML/cmm/m/it/10 detA \OT1/cmr/m/n/10 = [] = [] \OMS/cmsy/m/n/10  \OML/cmm/m/i
 t/10 det []
  []
 
-[84
+[86
 
-] [85]
+] [87]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 40.
 ! Undefined control sequence.
-l.2028 	\tkzDefPoint
+l.2115 	\tkzDefPoint
                     (0,0){A};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2698,7 +3678,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2029 	\tkzDefPoint
+l.2116 	\tkzDefPoint
                     (2.0,0){B};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2711,7 +3691,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2030 	\tkzLabelPoint
+l.2117 	\tkzLabelPoint
                       [left](A){$A$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2724,7 +3704,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2031 	\tkzLabelPoint
+l.2118 	\tkzLabelPoint
                       [right](B){$B$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2744,7 +3724,7 @@ See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2033 ... at (\n)[circle,fill,inner sep=1.5pt]{};
+l.2120 ... at (\n)[circle,fill,inner sep=1.5pt]{};
                                                   
 ? 
 
@@ -2754,11 +3734,11 @@ See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2033 ... at (\n)[circle,fill,inner sep=1.5pt]{};
+l.2120 ... at (\n)[circle,fill,inner sep=1.5pt]{};
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2037--2040
+Underfull \hbox (badness 10000) in paragraph at lines 2124--2127
 
  []
 
@@ -2770,7 +3750,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2055 \node[
+l.2142 \node[
              trapezium stretches=false,minimum height=1cm]
 ? 
 
@@ -2782,7 +3762,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2055 \node[
+l.2142 \node[
              trapezium stretches=false,minimum height=1cm]
 ? 
 
@@ -2794,7 +3774,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2055 \node[
+l.2142 \node[
              trapezium stretches=false,minimum height=1cm]
 ? 
 
@@ -2806,17 +3786,17 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2055 ...zium stretches=false,minimum height=1cm]
+l.2142 ...zium stretches=false,minimum height=1cm]
                                                   
 ? 
 
-Overfull \hbox (6.58745pt too wide) in paragraph at lines 2046--2060
+Overfull \hbox (6.58745pt too wide) in paragraph at lines 2133--2147
 \T2A/cmr/m/n/10 Для век-то-ра опре-де-ля-ют-ся опе-ра-ции от-кла-ды-ва-ния от з
 а-дан-ной точ-ки. Пусть
  []
 
 ! Undefined control sequence.
-l.2072 \tkzDefPoint
+l.2159 \tkzDefPoint
                    (0,0){O};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2827,7 +3807,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2073 \tkzDefPoint
+l.2160 \tkzDefPoint
                    (5,0){B};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2838,7 +3818,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2074 \tkzDefPoint
+l.2161 \tkzDefPoint
                    (2,3){A};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2849,7 +3829,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2076 \tkzLabelPoint
+l.2163 \tkzLabelPoint
                      [right,below](O){$O$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2869,7 +3849,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2077 \tkzLabelPoint
+l.2164 \tkzLabelPoint
                      [right](A){$A$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2883,7 +3863,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2078 \tkzLabelPoint
+l.2165 \tkzLabelPoint
                      [right,below](B){$B$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2902,11 +3882,11 @@ Missing character: There is no ] in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ) in font nullfont!
-[86
+[88
 
 ]
 ! Undefined control sequence.
-l.2088  \tkzDefPoint
+l.2175  \tkzDefPoint
                     (0,0){O};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2917,7 +3897,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2089  \tkzDefPoint
+l.2176  \tkzDefPoint
                     (5,0){B};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2928,7 +3908,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2090  \tkzDefPoint
+l.2177  \tkzDefPoint
                     (2,3){A};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -2939,7 +3919,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2092  \tkzLabelPoint
+l.2179  \tkzLabelPoint
                       [right,below](O){$O$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2959,7 +3939,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2093  \tkzLabelPoint
+l.2180  \tkzLabelPoint
                       [right](A){$A$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2973,7 +3953,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2094  \tkzLabelPoint
+l.2181  \tkzLabelPoint
                       [right,below](B){$B$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -2993,41 +3973,41 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2097--2100
+Underfull \hbox (badness 10000) in paragraph at lines 2184--2187
 
  []
 
 ! Undefined control sequence.
-l.2102  $\vec{a}$ Рё $\lambda \in \R
+l.2189  $\vec{a}$ Рё $\lambda \in \R
                                     $:
 ? 
 ! Extra }, or forgotten $.
-l.2105 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
+l.2192 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
                                                   $
 ? 
 ! Extra }, or forgotten $.
-l.2106 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
+l.2193 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
                                                   $
 ? 
-[87]
+[89]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 46.
-[88
+[90
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 47.
-[89
+[91
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 48.
 
-Overfull \hbox (24.97829pt too wide) in paragraph at lines 2150--2152
+Overfull \hbox (24.97829pt too wide) in paragraph at lines 2237--2239
 []\T2A/cmr/m/n/10 Найдјм урав-не-ние, за-да-ю-щее Ц.П. Рас-смот-рим про-из-воль
 -ную точ-ку $\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; z\OT1/cm
 r/m/n/10 )$
  []
 
 
-LaTeX Warning: File `./pics/.png' not found on input line 2157.
+LaTeX Warning: File `./pics/.png' not found on input line 2244.
 
 
 ! Package pdftex.def Error: File `./pics/.png' not found: using draft setting.
@@ -3036,11 +4016,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2157 ...includegraphics[scale=0.25]{./pics/.png}
+l.2244 ...includegraphics[scale=0.25]{./pics/.png}
                                                   
 ? 
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-2157.
+2244.
 
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.f
 d"
@@ -3053,43 +4033,43 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2158 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.2245 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2158 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.2245 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2158 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2245 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2158 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.2245 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 ? 
 
-Underfull \hbox (badness 4752) in paragraph at lines 2158--2158
+Underfull \hbox (badness 4752) in paragraph at lines 2245--2245
 []\T2A/cmr/m/n/9 (a) |Эл-лип-ти-че-ский
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2158--2158
+Underfull \hbox (badness 10000) in paragraph at lines 2245--2245
 
  []
 
-<./pics/shkarlupa.png, id=1338, 379.4175pt x 379.4175pt>
+<./pics/shkarlupa.png, id=811, 379.4175pt x 379.4175pt>
 File: ./pics/shkarlupa.png Graphic file (type png)
 <use ./pics/shkarlupa.png>
-Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2163.
+Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2250.
 (pdftex.def)             Requested size: 94.85414pt x 94.85414pt.
 
-Overfull \hbox (8.60414pt too wide) in paragraph at lines 2163--2164
+Overfull \hbox (8.60414pt too wide) in paragraph at lines 2250--2251
  [][] 
  []
 
@@ -3100,40 +4080,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2164 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2251 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2164 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2251 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2164 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2251 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2164 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2251 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2164--2164
+Underfull \hbox (badness 10000) in paragraph at lines 2251--2251
 []\T2A/cmr/m/n/9 (b) |Ги-пер-бо-ли-че-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2164--2164
+Underfull \hbox (badness 10000) in paragraph at lines 2251--2251
 
  []
 
-<./pics/pip.jpg, id=1340, 200.75pt x 221.82875pt>
+<./pics/pip.jpg, id=813, 200.75pt x 221.82875pt>
 File: ./pics/pip.jpg Graphic file (type jpg)
 <use ./pics/pip.jpg>
-Package pdftex.def Info: ./pics/pip.jpg  used on input line 2169.
+Package pdftex.def Info: ./pics/pip.jpg  used on input line 2256.
 (pdftex.def)             Requested size: 50.18736pt x 55.45705pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -3142,35 +4122,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2170 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2257 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2170 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2257 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2170 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2257 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2170 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2257 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2170--2170
+Underfull \hbox (badness 10000) in paragraph at lines 2257--2257
 
  []
 
-<./pics/jizz.png, id=1341, 251.4996pt x 162.3666pt>
+<./pics/jizz.png, id=814, 251.4996pt x 162.3666pt>
 File: ./pics/jizz.png Graphic file (type png)
 <use ./pics/jizz.png>
-Package pdftex.def Info: ./pics/jizz.png  used on input line 2174.
+Package pdftex.def Info: ./pics/jizz.png  used on input line 2261.
 (pdftex.def)             Requested size: 62.87474pt x 40.59154pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -3179,35 +4159,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2175 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2262 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2175 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2262 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2175 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2262 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2175 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2262 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2175--2175
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2262
 
  []
 
-<./pics/joq.jpg, id=1342, 142.28156pt x 142.28156pt>
+<./pics/joq.jpg, id=815, 142.28156pt x 142.28156pt>
 File: ./pics/joq.jpg Graphic file (type jpg)
 <use ./pics/joq.jpg>
-Package pdftex.def Info: ./pics/joq.jpg  used on input line 2180.
+Package pdftex.def Info: ./pics/joq.jpg  used on input line 2267.
 (pdftex.def)             Requested size: 35.5703pt x 35.5703pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -3216,40 +4196,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2181 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2268 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2181 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2268 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2181 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2268 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2181 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2268 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2181--2181
+Underfull \hbox (badness 10000) in paragraph at lines 2268--2268
 
  []
 
-[90
+[92
 
-] [91 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./p
+] [93 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./p
 ics/joq.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 49.
-<./pics/jiji.png, id=1370, 1027.84pt x 969.6225pt>
+<./pics/jiji.png, id=843, 1027.84pt x 969.6225pt>
 File: ./pics/jiji.png Graphic file (type png)
 <use ./pics/jiji.png>
-Package pdftex.def Info: ./pics/jiji.png  used on input line 2197.
+Package pdftex.def Info: ./pics/jiji.png  used on input line 2284.
 (pdftex.def)             Requested size: 51.395pt x 48.48396pt.
 
 ! LaTeX Error: There's no line here to end.
@@ -3258,31 +4238,31 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2200 
+l.2287 
        
 ? 
-[92
-
- <./pics/jiji.png>] [93]
-{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
 [94
 
-] [95] [96]
+ <./pics/jiji.png>] [95]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
+[96
 
-! LaTeX Error: \begin{enumerate} on input line 2296 ended by \end{document}.
+] [97] [98]
+
+! LaTeX Error: \begin{enumerate} on input line 2383 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2311 \end{document}
+l.2398 \end{document}
                      
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2311.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2311.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2398.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2398.
 (math_sem1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2311.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2311.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2398.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2398.
 
 
 
@@ -3291,75 +4271,72 @@ Package rerunfilecheck Warning: File `math_sem1.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `math_sem1.out':
-(rerunfilecheck)             Before: 74FA48239CDBEA1C00E0C67B3B65F67C;26928
-(rerunfilecheck)             After:  1A7A48A7D9C83D83D0C5F789E313BA6B;26722.
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  F8A0772967D69DA9D9DD92D8377AFC76;28637.
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2311.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2398.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 2296 (\begingroup)
+### semi simple group (level 1) entered at line 2383 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34887 strings out of 492483
- 779598 string characters out of 3121590
- 963676 words of memory out of 3000000
- 38108 multiletter control sequences out of 15000+200000
+ 34805 strings out of 492483
+ 778432 string characters out of 3121590
+ 963095 words of memory out of 3000000
+ 38014 multiletter control sequences out of 15000+200000
  32825 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,103p,869b,2256s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.14.1} has been referenced b
-ut does not exist, replaced by a fixed one
-
- <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
-0900.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\latt1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh
--t2a/dpi600\larm1440.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts
-/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\s4d14\AppData\Local\
-MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\s4d14\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk> <C:\Users\s4d1
-4\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Us
-ers\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk
-> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lab
-x2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\lasl1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\font
-s/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\
-2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\s4d14\AppData\Local
-\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Users/s4d14/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users
-/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi12.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmmi5.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/s4d14/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/s4d14/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/s4d1
-4/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr12.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr5.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr6.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/s4d14/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/s4d14/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/s4d1
-4/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy5.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy7.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/s4d14/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/s4d1
-4/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.
-pfb>
-Output written on math_sem1.pdf (97 pages, 1273379 bytes).
+ 71i,17n,103p,892b,2256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\latt1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk> <C:\Users\s4d14\AppData\Local\
+MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\s4d14\AppDat
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasl1000.pk> <C:\Users\s4d1
+4\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Us
+ers\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk
+> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lat
+i1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dp
+i600\larm0700.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\labx1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\s4d14\AppData\Local
+\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\s4d14\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\s4d
+14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Us
+ers/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex
+10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/s4d14/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/s4d14/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/
+s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pf
+b><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/s4d14/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/s4d14/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/s4d14/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
+/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy5.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/s4d14/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/s4d14/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/s4d14/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
+b><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb>
+Output written on math_sem1.pdf (99 pages, 1202226 bytes).
 PDF statistics:
- 2440 PDF objects out of 2487 (max. 8388607)
- 526 named destinations out of 1000 (max. 500000)
- 890 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1901 PDF objects out of 2073 (max. 8388607)
+ 538 named destinations out of 1000 (max. 500000)
+ 52 words of extra memory for PDF output out of 10000 (max. 10000000)
 
