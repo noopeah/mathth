@@ -721,7 +721,7 @@ $\lim \limits_{x\rightarrow x_0}f(g(x))=f(\lim \limits_{x\rightarrow x_0}g(x))$
 
     \setcounter{chapter}{13}
     \chapter{Точки разрыва}
-    закопипастить
+    закопипастить %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
 
 
     \setcounter{chapter}{14}
@@ -1308,9 +1308,9 @@ $f(x_{0})=\lim_{x \to x_{0}} f(x) = 0$ и $g(x_{0})=\lim_{x \to x_{0}} g(x) = 0$
 		$A=f(x)^{g(x)}$
 	\end{center}
 
+  \setcounter{chapter}{25}         
 
-
-\setcounter{chapter}{27}         
+\setcounter{chapter}{26}         
 \chapter{Признаки монотонности функции}         
 
 Функция y = f\left( x \right) называется \\ 
@@ -1328,11 +1328,12 @@ $f(x_{0})=\lim_{x \to x_{0}} f(x) = 0$ и $g(x_{0})=\lim_{x \to x_{0}} g(x) = 0$
     ${\forall\;{x_1},{x_2} \in \left( {a,b} \right):\;}$\\
     ${{x_1} < {x_2} \Rightarrow f\left( {{x_1}} \right) \gt f\left( {{x_2}} \right).}$
 \end{itemize}
+Если функция $f\left( x \right)$ дифференцируема на интервале $\left( {a,b} \right)$ и принадлежит к одному из четырех рассмотренных типов
+(т.е. является возрастающей, строго возрастающей, убывающей или строго убывающей), то такая функция называется монотонной на данном интервале. 
+\setcounter{chapter}{27}         
 
 \setcounter{chapter}{28}
 
-Если функция $f\left( x \right)$ дифференцируема на интервале $\left( {a,b} \right)$ и принадлежит к одному из четырех рассмотренных типов
-(т.е. является возрастающей, строго возрастающей, убывающей или строго убывающей), то такая функция называется монотонной на данном интервале. 
 \setcounter{chapter}{29}
 \chapter{Комплексные числа и действия над ними. Формы записи комплексного числа}
 \section{Комплексные числа}
@@ -1964,7 +1965,96 @@ a_{n 1} & a_{n 2} & ... & a_{n n}\end{pmatrix}$$
 \item Определитель не изменится, если к какой-нибудь её строке прибавить другую, умноженное на некоторое число.
 \item Сумма произведений элементов в какой-нибудь строке(столбце) матрицы и их алгебраических дополнений равна 0. 	
 \end{enumerate}
-      
+
+\setcounter{chapter}{39}
+%%%%%%%%%%%%%%%%%%
+\chapter{Векторы и линейные операции над ними}
+
+	Пусть даны A и B,  \textbf{направленным отрезком} $\overline{AB}$ будет называться отрезок, для которого указано, что А - начало, B - конец. 
+	\begin{tikzpicture}
+	
+	\draw (0,0) -- (2,0);
+	\tkzDefPoint(0,0){A};
+	\tkzDefPoint(2.0,0){B};
+	\tkzLabelPoint[left](A){$A$}
+	\tkzLabelPoint[right](B){$B$}
+	\foreach \n in {A,B}
+	\node at (\n)[circle,fill,inner sep=1.5pt]{};
+	
+	\end{tikzpicture}
+	
+	При этом $\overline {AA}$ отображается как точка, и если $A\ne B$, то $\overline {AB} \ne \overline {BA}$
+	Говорят, что направленные отрезки $\overline {AB}$ и $\overline {CD}$ -- сонаправлены, если лучи $[AB)$ и $[CD)$ -- сонаправлены. \footnote{$[AB)$-- луч; $[AB]$--отрезок; $(AB)$--прямая}
+	Говорят, что отрезки $\overline {AB}$ и $\overline {CD}$ -- противоположно направлены, если лучи $[AB)$ и $[CD)$-- противоположно направлены.\\
+	
+	Два луча сонаправленны, если:
+	\begin{enumerate}
+		\item Они лежат на одной прямой и один целиком содержится в другом.
+		\item Они лежат на параллельных прямых по одну сторону прямой, проходящей через начало этих лучей.
+	\end{enumerate}
+Длинна $\overline {AB}$ -- называется длинна отрезка AB. Отрезок $\overline {AA}$ имеет длинну 0.\\
+$\overline {AB}$ и $\overline {CD}$ -- эквивалентны, если они имеют одинаковые длинны и направления. Совокупность всех сонаправленных отрезков называется \textbf{вектором}. Каждый направленный отрезок является элементом вектора и называется \textbf{представителем вектора} $\vec{AB}$ или $\vec{a}$.\\
+Класс нулевых направленных отрезков называется \textbf{нуль-вектором}($\vec{0}$).\\
+Для вектора определяются операции откладывания от заданной точки. Пусть существуют А и $\vec{a}$, тогда отложить $\vec{a}$ от А означает найти такое B, что $\overline{AB} \in \vec{a}$ $\iff$ $\vec{AB} \in \vec{a}$\\ 
+Рассмотрим параллелограмм ABCD:
+\begin{tikzpicture}
+\tikzstyle{every node}=[trapezium, draw, minimum width=3cm,
+trapezium left angle=120, trapezium right angle=60]
+
+\node[trapezium stretches=false,minimum height=1cm]
+at (0,0) {ABCD};
+
+
+\end{tikzpicture}
+
+$\vec{AB}=\vec{DC}\\
+\vec{BC}=\vec{AD}$
+
+$\vec{AB}$ и $\vec{BA}$ противоположные, значит $\vec{AB}=-\vec{BA}$.\\
+Для векторов также определяются операции сложения и умножения:\\
+Отложим $\vec{a}$ от O; $\vec{a}=\vec{OA}$\\
+Отложим $\vec{b}$ от $\vec{a}$;$\vec{b}=\vec{AB}$;\\ $\vec{a}+\vec{b}=\vec{OB}$\\
+\begin{tikzpicture}
+\draw[->, ultra thick](0,0) -- (5,0);
+\draw[->, ultra thick](2,3) -- (5,0);
+\draw[->, ultra thick](0,0) -- (2,3);
+\tkzDefPoint(0,0){O};
+\tkzDefPoint(5,0){B};
+\tkzDefPoint(2,3){A};
+
+\tkzLabelPoint[right,below](O){$O$}
+\tkzLabelPoint[right](A){$A$}
+\tkzLabelPoint[right,below](B){$B$}
+\end{tikzpicture}
+
+ $\vec{OA}+\vec{AB}=\vec{OB}$ -- правило замыкающей(из начала первого в конец последнего; применимо для любого количества векторов)\\
+ Разностью $\vec{a}$ и $\vec{b}$ будет $\vec{c}$, представляется направленным отрезком, соединяющим концы этих векторов и имеющим направление «к концу того вектора, из которого вычитают». 
+ 
+ \begin{tikzpicture}
+ \draw[->, ultra thick](0,0) -- (5,0);
+ \draw[->, ultra thick](5,0) -- (2,3);
+ \draw[->, ultra thick](0,0) -- (2,3);
+ \tkzDefPoint(0,0){O};
+ \tkzDefPoint(5,0){B};
+ \tkzDefPoint(2,3){A};
+ 
+ \tkzLabelPoint[right,below](O){$O$}
+ \tkzLabelPoint[right](A){$A$}
+ \tkzLabelPoint[right,below](B){$B$}
+ \end{tikzpicture}
+ 
+ $\vec{a}=\vec{OA}$\\
+ $\vec{b}=\vec{OB}$\\
+ $\vec{c}=\vec{BA}=\vec{OA}-\vec{OB}$\\
+ 
+ Умножение на число:\\
+ $\vec{a}$ и $\lambda \in \R$:
+ \begin{enumerate}
+ 	\item $\lambda = 0$, то $\lambda\vec{a} = \vec{0}$
+ 	\item $\lambda > 0$, то $\lambda\vec{a} \uparrow\uparrow \vec{a}$ и имеющий длинну $l=\lambda \mid{a}\mid}$
+ 	\item $\lambda < 0$, то $\lambda\vec{a} \uparrow\downarrow \vec{a}$ и имеющий длинну $l=\lambda \mid{a}\mid}$
+\end{enumerate}
+
 \setcounter{chapter}{45}
 \chapter{Поверхности второго порядка, метод сечения}
 
