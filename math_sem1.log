@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 21:47
 entering extended mode
 **./math_sem1.tex
 (math_sem1.tex
@@ -1133,15 +1133,6 @@ Package caption Info: wrapfig package is loaded.
 \c@subfigure=\count154
 \c@subtable=\count155
 )
-("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
-r/tikz/libraries\tikzlibrarypatterns.code.tex"
-File: tikzlibrarypatterns.code.tex 2019/12/21 v3.1.5a (3.1.5a)
-
-("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
-flibrarypatterns.code.tex"
-File: pgflibrarypatterns.code.tex 2019/12/21 v3.1.5a (3.1.5a)
-))
-Package hyperref Info: Option `colorlinks' set `false' on input line 27.
 \c@thm=\count156
  (math_sem1.aux
 
@@ -1270,24 +1261,24 @@ LaTeX Warning: Label `eq:*' multiply defined.
 )
 \openout1 = `math_sem1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
  ABD: EveryShipout initializing macros
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
@@ -1314,7 +1305,7 @@ Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.16} (current compat level: 1.5).
 
 \AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1330,22 +1321,22 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
  (math_sem1.out) (math_sem1.out)
 \@outlinefile=\write4
 \openout4 = `math_sem1.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
 
 
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
 
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1353,29 +1344,29 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.40 \tableofcontents
+l.33 \tableofcontents
                      
 ? 
 ! Extra }, or forgotten $.
 <template> \unskip \hfil }
                           \hskip \tabcolsep \endtemplate 
-l.40 \tableofcontents
+l.33 \tableofcontents
                      
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.40 \tableofcontents
+l.33 \tableofcontents
                      
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.40 \tableofcontents
+l.33 \tableofcontents
                      
 ? 
 
-Overfull \hbox (85.13374pt too wide) in paragraph at lines 40--40
+Overfull \hbox (85.13374pt too wide) in paragraph at lines 33--33
  [][] 
  []
 
@@ -1387,7 +1378,7 @@ Overfull \hbox (85.13374pt too wide) in paragraph at lines 40--40
 {page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 ...РѕРЅРЅРёРµ РїСЂРµРґРµР»С‹.}{24}{chapter.9}
+l.27 ...РѕРЅРЅРёРµ РїСЂРµРґРµР»С‹.}{23}{chapter.9}
                                                   % [1
 
 ]
@@ -1403,13 +1394,13 @@ Overfull \hbox (3.22122pt too wide) in paragraph at lines 34--34
  [5]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-! LaTeX Error: \begin{enumerate} on input line 46 ended by \end{enumarate}.
+! LaTeX Error: \begin{enumerate} on input line 39 ended by \end{enumarate}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 \end{enumarate}
+l.47 \end{enumarate}
                     
 ? 
 [6
@@ -1418,11 +1409,11 @@ l.54 \end{enumarate}
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 ...јРµРЅС‚С‹ С‚РµРѕСЂС‚РёРё РњРЅРѕР¶РµСЃС‚РІ}
+l.50 ...јРµРЅС‚С‹ С‚РµРѕСЂС‚РёРё РњРЅРѕР¶РµСЃС‚РІ}
                                                   
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
@@ -1433,7 +1424,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
 [9
 
 ]
-Overfull \hbox (99.84491pt too wide) in paragraph at lines 200--201
+Overfull \hbox (99.84491pt too wide) in paragraph at lines 193--194
 [][] 
  []
 
@@ -1491,23 +1482,23 @@ unded (in y). (see also unbounded coords=jump).
 NOTE: coordinate (2Y7.999e-5],3Y0.0e0]) has been dropped because it is unbounde
 d (in y). (see also unbounded coords=jump). 
 
-Overfull \hbox (105.40854pt too wide) in paragraph at lines 205--234
+Overfull \hbox (105.40854pt too wide) in paragraph at lines 198--227
 [] [] 
  []
 
 
-Overfull \hbox (88.69795pt too wide) in paragraph at lines 205--234
+Overfull \hbox (88.69795pt too wide) in paragraph at lines 198--227
 [] []
  []
 
 [11] [12]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-LaTeX Warning: Command \CYRM invalid in math mode on input line 245.
+LaTeX Warning: Command \CYRM invalid in math mode on input line 238.
 
 Missing character: There is no М in font cmr10!
 
-Overfull \hbox (17.68355pt too wide) in paragraph at lines 244--246
+Overfull \hbox (17.68355pt too wide) in paragraph at lines 237--239
 \T2A/cmr/bx/n/10 лен-ных от дан-ной фик-си-ро-ван-ной точ-ки, на-зы-ва-е-мой це
 н-тром окруж-
  []
@@ -1517,7 +1508,7 @@ Overfull \hbox (17.68355pt too wide) in paragraph at lines 244--246
 ] [14] [15]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
-Overfull \hbox (7.76749pt too wide) in paragraph at lines 341--342
+Overfull \hbox (7.76749pt too wide) in paragraph at lines 334--335
 []$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 b\OT1
 /cmr/m/n/10 )[] = (\OML/cmm/m/it/10 a \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 b\OT1/
 cmr/m/n/10 )[](\OML/cmm/m/it/10 a \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 b\OT1/cmr/
@@ -1527,7 +1518,7 @@ OT1/cmr/m/n/10 + \OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ) = [] \OML/cmm/m/it/10 C[]a
  []
 
 
-Overfull \hbox (6.98465pt too wide) in paragraph at lines 344--345
+Overfull \hbox (6.98465pt too wide) in paragraph at lines 337--338
 \OML/cmm/m/it/10 C[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C[] \OT1/cmr/m/n/10 = [
 ] + [] = [] = [] =
  []
@@ -1535,7 +1526,7 @@ Overfull \hbox (6.98465pt too wide) in paragraph at lines 344--345
 [16
 
 ]
-Overfull \hbox (11.21756pt too wide) in paragraph at lines 350--351
+Overfull \hbox (11.21756pt too wide) in paragraph at lines 343--344
 []$\OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 + [] \OML/cmm/m/it/10 C[]a[]b[] \
 OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/
 10 C[]a[]b[]$ 
@@ -1552,70 +1543,34 @@ Make it at least 12.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[19] [20]
+[19]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[21
+[20
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 
  []
 
+[21
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyryu invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyrshch invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 460.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 460.
-
-Missing character: There is no у in font cmr10!
-Missing character: There is no б in font cmr10!
-Missing character: There is no ы in font cmr10!
-Missing character: There is no в in font cmr10!
-Missing character: There is no а in font cmr10!
-Missing character: There is no ю in font cmr10!
-Missing character: There is no щ in font cmr10!
-Missing character: There is no а in font cmr10!
-Missing character: There is no я in font cmr10!
-[22
-
-] [23]
+] [22]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
-80.
+69.
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 480.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 469.
 
-Overfull \hbox (114.8951pt too wide) in paragraph at lines 516--517
+Overfull \hbox (114.8951pt too wide) in paragraph at lines 505--506
 [][] 
  []
 
-[24
+[23
 
 ]
 
@@ -1624,51 +1579,59 @@ Make it at least 22.4317pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[25]
+[24]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 10.
-[26
+[25
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 11.
 
-Overfull \hbox (17.40475pt too wide) in paragraph at lines 535--544
+Overfull \hbox (17.40475pt too wide) in paragraph at lines 523--532
 \OMS/cmsy/m/n/10 U[]$ \T2A/cmr/m/n/10 и при этом $[][] []$
  []
 
-[27
+[26
 
 ]
-Overfull \hbox (37.17278pt too wide) in paragraph at lines 578--580
+! Undefined control sequence.
+<recently read> \Lefrtightarrow 
+                                
+l.559 ...ёСЏ РЅРµРїСЂРµСЂС‹РІРЅР° $\Lefrtightarrow
+                                                  $ РѕРЅР° РЅРµРїСЂРµСЂС‹РІР...
+
+? 
+
+Overfull \hbox (37.17278pt too wide) in paragraph at lines 565--567
 \T2A/cmr/m/n/10 ции в точ-ке, это точ-ка устра-ни-мо-го раз-ры-ва. $\OML/cmm/m/
 it/10 lim[][] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 lim[][] \OMS/cmsy/m/n/10 6\OT1
 /cmr/m/n/10 =
  []
 
 
-Overfull \hbox (63.0058pt too wide) in paragraph at lines 602--625
+Overfull \hbox (63.0058pt too wide) in paragraph at lines 589--612
 [][] [] 
  []
 
+[27]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 612.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\forall' on input line 612.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\in' on input line 612.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 612.
+
 [28]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 625.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\forall' on input line 625.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\in' on input line 625.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 625.
-
-[29]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 12.
-[30
+[29
 
 ]
 
@@ -1677,45 +1640,108 @@ Make it at least 24.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[31]
+[30]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 13.
 
-LaTeX Font Warning: Command \LARGE invalid in math mode on input line 689.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 675.
 
 
-Overfull \hbox (5.09053pt too wide) in paragraph at lines 687--692
-[][]$ \T2A/cmr/m/n/10 то-гда
- []
+LaTeX Warning: Command \cyro invalid in math mode on input line 675.
 
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 675.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 675.
+
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no ш in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 676.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 676.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 676.
+
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no и in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.676     $f(x) = o(f(x))$ РїСЂРё $x \rightarrow
+                                                 x_0 \Rightarrow \lim_{x \ri...
+
+? 
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 700.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 686.
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
+Underfull \hbox (badness 10000) in paragraph at lines 690--691
 
  []
 
-[32
+[31
 
-] [33]
+] [32]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 14.
 
-Overfull \hbox (37.17278pt too wide) in paragraph at lines 729--731
+Overfull \hbox (37.17278pt too wide) in paragraph at lines 715--717
 \T2A/cmr/m/n/10 ции в точ-ке, это точ-ка устра-ни-мо-го раз-ры-ва. $\OML/cmm/m/
 it/10 lim[][] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 lim[][] \OMS/cmsy/m/n/10 6\OT1
 /cmr/m/n/10 =
  []
 
 
-Overfull \hbox (63.0058pt too wide) in paragraph at lines 753--776
+Overfull \hbox (63.0058pt too wide) in paragraph at lines 739--762
 [][] [] 
  []
 
-[34
+[33
 
-] [35]
+] [34]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 15.
 
-Overfull \hbox (9.13028pt too wide) in paragraph at lines 783--788
+Overfull \hbox (9.13028pt too wide) in paragraph at lines 769--774
 \T2A/cmr/m/it/10 Имеется $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; 
 \OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ]$ \T2A/cmr/m/it/10 и со-во-куп-ность вло-жен
 -ных от-рез-ков $\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; \OML/cmm/
@@ -1726,34 +1752,34 @@ m/it/10 b\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 [\OML/cmm/m/it/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 792--797
+Underfull \hbox (badness 10000) in paragraph at lines 778--783
 
  []
 
-[36
+[35
 
-] [37]
+] [36]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 16.
 
-Overfull \hbox (3.86574pt too wide) in paragraph at lines 834--842
+Overfull \hbox (3.86574pt too wide) in paragraph at lines 820--828
 \T2A/cmr/m/n/10 Перейдя к пре-де-лу в по-след-нем двой-ном нера-вен-стве и, учи
 -ты-вая непре-
  []
 
-[38
+[37
 
-] [39]
+] [38]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 17.
 
-Overfull \hbox (2.75172pt too wide) in paragraph at lines 860--863
+Overfull \hbox (2.75172pt too wide) in paragraph at lines 846--849
 \T2A/cmr/m/n/10 ству-ют, на-зы-ва-ют-ся од-но-сто-рон-ни-ми про-из-вод-ны-ми и 
 обо-зна-ча-ют-ся $\OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1
 /cmr/m/n/10 )$
  []
 
-[40
+[39
 
-] [41] [42]
+] [40] [41]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 18.
 
 ! LaTeX Error: File `pic1' not found.
@@ -1762,7 +1788,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.958 \includegraphics[scale=0.5]{pic1}
+l.946 \includegraphics[scale=0.5]{pic1}
                                        
 ? 
 
@@ -1772,114 +1798,114 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.959 \includegraphics[scale=0.5]{pic2}
+l.947 \includegraphics[scale=0.5]{pic2}
                                        \\
 ? 
 
-Overfull \hbox (8.25462pt too wide) in paragraph at lines 940--964
+Overfull \hbox (8.25462pt too wide) in paragraph at lines 928--952
 \T2A/cmr/m/n/10 Если пре-дель-ное зна-че-ние $\OML/cmm/m/it/10 k$ \T2A/cmr/m/n/
 10 при $\OT1/cmr/m/n/10 \OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/10 
 0$ \T2A/cmr/m/n/10 яв-ля-ет-ся бес-ко-неч-ным: $[] \OML/cmm/m/it/10 k\OT1/cmr/m
 /n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
  []
 
-[43
+[42
 
-] [44]
+] [43]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 19.
-[45
+[44
 
-] [46]
+] [45]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 20.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1022.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1010.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
 
  []
 
-[47
+
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1013
+
+ []
+
+[46
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1022
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1038--1039
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1039--1041
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1029
 
  []
 
 ! Double subscript.
-l.1047 ...approx \vert_{x_0 \approx 1 = \sqrt{x}}_
+l.1035 ...approx \vert_{x_0 \approx 1 = \sqrt{x}}_
                                                   {\vert_{x = 1}} $$ \\
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1049--1050
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
 
  []
 
 ! Extra }, or forgotten $.
-l.1057 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
+l.1045 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
                                                   $
 ? 
 
-Overfull \hbox (4.42403pt too wide) in paragraph at lines 1059--1061
+Overfull \hbox (4.42403pt too wide) in paragraph at lines 1047--1049
 []\T2A/cmr/m/n/10 Если $\OML/cmm/m/it/10 x[]$ \T2A/cmr/m/n/10 - точ-ка ло-каль-
 но-го мак-си-му-ма функ-ции $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 1063--1063
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1051--1051
 
  []
 
-[49]
+[48]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1122 
+l.1110 
        
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1122 
+l.1110 
        
 ? 
 ! Display math should end with $$.
 <to be read again> 
                    \@@par 
-l.1122 
+l.1110 
        
 ? 
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1122 
+l.1110 
        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1123       F'(c) = 0 \Leftrightarrow
+l.1111       F'(c) = 0 \Leftrightarrow
                                        f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} ...
 
 ? 
@@ -1890,7 +1916,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1125   \end{proof}
+l.1113   \end{proof}
                     
 ? 
 
@@ -1900,7 +1926,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1125   \end{proof}
+l.1113   \end{proof}
                     
 ? 
 
@@ -1910,38 +1936,38 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1125   \end{proof}
+l.1113   \end{proof}
                     
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1125   \end{proof}
+l.1113   \end{proof}
                     
 ? 
-[50]
+[49]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 21.
-[51
+[50
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 22.
-[52
+[51
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 23.
 ! Extra }, or forgotten $.
-l.1175 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
+l.1163 ...СЏ РјРёРЅ. СЌРєСЃС‚СЂ $f(x_0) \geq f(x)}
                                                   $
 ? 
 
-Overfull \hbox (4.42403pt too wide) in paragraph at lines 1177--1179
+Overfull \hbox (4.42403pt too wide) in paragraph at lines 1165--1167
 []\T2A/cmr/m/n/10 Если $\OML/cmm/m/it/10 x[]$ \T2A/cmr/m/n/10 - точ-ка ло-каль-
 но-го мак-си-му-ма функ-ции $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
 
  []
 
@@ -1952,81 +1978,81 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1186       \begin{equation}
+l.1174       \begin{equation}
                              
 ? 
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1191     \end{equation}
+l.1179     \end{equation}
                          
 ? 
 
-! LaTeX Error: \begin{proof} on input line 1176 ended by \end{equation}.
+! LaTeX Error: \begin{proof} on input line 1164 ended by \end{equation}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1191     \end{equation}
+l.1179     \end{equation}
                          
 ? 
-[53
+[52
 
 ]
 
-! LaTeX Error: \begin{thm} on input line 1173 ended by \end{proof}.
+! LaTeX Error: \begin{thm} on input line 1161 ended by \end{proof}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1192   \end{proof}
+l.1180   \end{proof}
                     
 ? 
 
-! LaTeX Error: \begin{itemize} on input line 1004 ended by \end{thm}.
+! LaTeX Error: \begin{itemize} on input line 992 ended by \end{thm}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1193 \end{thm}
+l.1181 \end{thm}
                 
 ? 
-[54]
+[53]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 24.
-[55
+[54
 
 ]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1245 
+l.1233 
        
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1245 
+l.1233 
        
 ? 
 ! Display math should end with $$.
 <to be read again> 
                    \@@par 
-l.1245 
+l.1233 
        
 ? 
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1245 
+l.1233 
        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1246       F'(c) = 0 \Leftrightarrow
+l.1234       F'(c) = 0 \Leftrightarrow
                                        f(c) - \frac{f(b)-f(a)}{g(b) - g(a)} ...
 
 ? 
@@ -2037,7 +2063,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1248   \end{proof}
+l.1236   \end{proof}
                     
 ? 
 
@@ -2047,7 +2073,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1248   \end{proof}
+l.1236   \end{proof}
                     
 ? 
 
@@ -2057,17 +2083,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1248   \end{proof}
+l.1236   \end{proof}
                     
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1248   \end{proof}
+l.1236   \end{proof}
                     
 ? 
 
-Overfull \hbox (20.6022pt too wide) in paragraph at lines 1279--1283
+Overfull \hbox (20.6022pt too wide) in paragraph at lines 1267--1271
 \T2A/cmr/m/n/10 Геосмысл тео-ре-мы Лагран-жа: Пря-мая, про-хл-дя-щая че-рез точ
 -ки $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 f\OT
 1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; \OT1/cmr/m
@@ -2075,174 +2101,174 @@ Overfull \hbox (20.6022pt too wide) in paragraph at lines 1279--1283
 OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ))$
  []
 
-[56]
+[55]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 25.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1287--1288
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
 
  []
 
 
-Overfull \hbox (0.32219pt too wide) in paragraph at lines 1289--1291
+Overfull \hbox (0.32219pt too wide) in paragraph at lines 1277--1279
 []\T2A/cmr/bx/n/10 Замечание: \T2A/cmr/m/n/10 Пра-ви-ло Ло-пи-та-ля так-же спра
 -вед-ли-во, ес-ли $[][] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\O
 T1/cmr/m/n/10 ) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1291
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1279
 
  []
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1289.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1289.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1289.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1301.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1289.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1303--1306
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1294
 
  []
 
-[57
+[56
 
 ]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1302.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1302.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1302.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1314.
+LaTeX Font Warning: Command \large invalid in math mode on input line 1302.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1354--1355
+Underfull \hbox (badness 10000) in paragraph at lines 1342--1343
 
  []
 
 
-Overfull \hbox (45.76065pt too wide) in paragraph at lines 1356--1361
+Overfull \hbox (45.76065pt too wide) in paragraph at lines 1344--1349
 []$[][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\O
 T1/cmr/m/n/10 ) \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 (\OML/cmm/
 m/it/10 x\OT1/cmr/m/n/10 )) = [\OMS/cmsy/m/n/10 1   1\OT1/cmr/m/n/10 ] = [][]([
 ] \OMS/cmsy/m/n/10   []\OT1/cmr/m/n/10 ) = [][]([]) =
  []
 
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 1352--1353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1361--1362
+
+ []
+
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1373--1374
-
- []
-
-[59]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 26.
 
-Overfull \hbox (0.9878pt too wide) in paragraph at lines 1384--1385
+Overfull \hbox (0.9878pt too wide) in paragraph at lines 1372--1373
 \T2A/cmr/m/n/10 ных вы-чис-ле-ний зна-че-ний функ-ций. Эти зна-че-ния вы-чис-ля
 -ют-ся по фор-
  []
 
 
-Overfull \hbox (0.45773pt too wide) in paragraph at lines 1404--1407
+Overfull \hbox (0.45773pt too wide) in paragraph at lines 1392--1395
 \OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [] +
  [] + [] + \OML/cmm/m/it/10 ::: \OT1/cmr/m/n/10 + []$ 
  []
 
-[60
+[59
 
 ]
-Overfull \hbox (9.35567pt too wide) in paragraph at lines 1407--1414
+Overfull \hbox (9.35567pt too wide) in paragraph at lines 1395--1402
 \T2A/cmr/m/n/10 Таким об-ра-зом име-ет-ся, что $[] [] \OT1/cmr/m/n/10 = [([])] 
 = [] [] =
  []
 
 
-Overfull \hbox (6.71126pt too wide) in paragraph at lines 1414--1419
+Overfull \hbox (6.71126pt too wide) in paragraph at lines 1402--1407
 \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [] +
  [] + [] + \OML/cmm/m/it/10 ::: \OT1/cmr/m/n/10 + [] +
  []
 
 
-Overfull \hbox (6.71126pt too wide) in paragraph at lines 1419--1422
+Overfull \hbox (6.71126pt too wide) in paragraph at lines 1407--1410
 \OML/cmm/m/it/10 f[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = [] +
  [] + [] + \OML/cmm/m/it/10 ::: \OT1/cmr/m/n/10 + [] +
  []
 
-[61]
+[60]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 27.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1422.
+(hyperref)                removing `\\' on input line 1410.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1424 Р¤СѓРЅРєС†РёСЏ y = f\left
+l.1412 Р¤СѓРЅРєС†РёСЏ y = f\left
                                 ( x \right) РЅР°Р·С‹РІР°РµС‚СЃСЏ \\
 ? 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1412.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1424.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1412.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1426     \item
+l.1414     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1426     \item
+l.1414     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.1426     \item
+l.1414     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
@@ -2259,65 +2285,65 @@ Missing character: There is no я in font cmr10!
 ! Extra }, or forgotten \endgroup.
 \@par ... \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.1426     \item
+l.1414     \item
                  РІРѕР·СЂР°СЃС‚Р°СЋС‰РµР№ (РЅРµСѓР±С‹РІР°СЋС‰РµР№) РЅР° РёРЅ...
 
 ? 
 
-Overfull \hbox (18.01396pt too wide) in paragraph at lines 1426--1429
+Overfull \hbox (18.01396pt too wide) in paragraph at lines 1414--1417
 []\T2A/cmr/m/n/10 возрастающей (неубы-ва-ю-щей) на ин-тер-ва-ле $[]$, ес-ли $[]
 $ 
  []
 
 ! Undefined control sequence.
-l.1431 ... \Rightarrow f\left( {{x_1}} \right) \lt
+l.1419 ... \Rightarrow f\left( {{x_1}} \right) \lt
                                                    f\left( {{x_2}} \right);}$
 ? 
 ! Undefined control sequence.
-l.1437 ... \Rightarrow f\left( {{x_1}} \right) \gt
+l.1425 ... \Rightarrow f\left( {{x_1}} \right) \gt
                                                    f\left( {{x_2}} \right).}$
 ? 
 
-Overfull \hbox (18.01396pt too wide) in paragraph at lines 1432--1438
+Overfull \hbox (18.01396pt too wide) in paragraph at lines 1420--1426
 []\T2A/cmr/m/n/10 убывающей (невоз-рас-та-ю-щей) на ин-тер-ва-ле $[]$, ес-ли $[
 ]$ 
  []
 
 
-! LaTeX Error: \begin{enumerate} on input line 1319 ended by \end{itemize}.
+! LaTeX Error: \begin{enumerate} on input line 1307 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1438 \end{itemize}
+l.1426 \end{itemize}
                     
 ? 
-[62
+[61
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 28.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1442.
+(hyperref)                removing `\\' on input line 1430.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1448.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1436.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1448.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1436.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1448.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1436.
 
 Missing character: There is no и in font cmr10!
 Missing character: There is no т in font cmr10!
 Missing character: There is no о in font cmr10!
 ! Undefined control sequence.
-l.1454 \beign
+l.1442 \beign
              {thm}
 ? 
-[63
+[62
 
 ]
 
@@ -2327,13 +2353,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1465 \end{thm}
+l.1453 \end{thm}
                 
 ? 
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.1465 \end{thm}
+l.1453 \end{thm}
                 
 ? 
 
@@ -2342,7 +2368,7 @@ Make it at least 34.4317pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[64]
+[63]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 29.
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
@@ -2352,19 +2378,19 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1471 ...ѕР№ РІРІРµСЂС…, Р° РЅР° РґСЂСѓРіРѕРј в€’
+l.1459 ...ѕР№ РІРІРµСЂС…, Р° РЅР° РґСЂСѓРіРѕРј в€’
                                                    РІС‹РїСѓРєР»РѕР№ РІРЅРёР·...
 
 ? 
-<./pics/yyy.jpg, id=1230, 260.975pt x 252.945pt>
+<./pics/yyy.jpg, id=1108, 260.975pt x 252.945pt>
 File: ./pics/yyy.jpg Graphic file (type jpg)
 <use ./pics/yyy.jpg>
-Package pdftex.def Info: ./pics/yyy.jpg  used on input line 1480.
+Package pdftex.def Info: ./pics/yyy.jpg  used on input line 1468.
 (pdftex.def)             Requested size: 120.74947pt x 117.0354pt.
-<./pics/yyy2.jpg, id=1231, 271.0125pt x 252.945pt>
+<./pics/yyy2.jpg, id=1109, 271.0125pt x 252.945pt>
 File: ./pics/yyy2.jpg Graphic file (type jpg)
 <use ./pics/yyy2.jpg>
-Package pdftex.def Info: ./pics/yyy2.jpg  used on input line 1485.
+Package pdftex.def Info: ./pics/yyy2.jpg  used on input line 1473.
 (pdftex.def)             Requested size: 120.74947pt x 112.70103pt.
 
 ! Package inputenc Error: Invalid UTF-8 byte sequence.
@@ -2373,7 +2399,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1489 {\textbf Р
+l.1477 {\textbf Р
                  ќРµРѕР±С…РѕРґРёРјРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃС‚РІРѕРІР°РЅ...
 
 ? 
@@ -2384,7 +2410,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1489 {\textbf Рќ
+l.1477 {\textbf Рќ
                   РµРѕР±С…РѕРґРёРјРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃС‚РІРѕРІР°РЅ...
 
 ? 
@@ -2396,7 +2422,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1490 Р•СЃР»Рё ${x_0}$ в€’
+l.1478 Р•СЃР»Рё ${x_0}$ в€’
                             С‚РѕС‡РєР° РїРµСЂРµРіРёР±Р° С„СѓРЅРєС†РёРё $f\le...
 
 ? 
@@ -2407,11 +2433,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1492 Р
+l.1480 Р
         џСЂРµРґРїРѕР»РѕР¶РёРј, С‡С‚Рѕ РІ С‚РѕС‡РєРµ РїРµСЂРµРіРёР±Р° ${x_0}$...
 
 ? 
-[65
+[64
 
  <./pics/yyy.jpg> <./pics/yyy2.jpg>]
 
@@ -2421,12 +2447,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1496 {
+l.1484 {
         \textb РџРµСЂРІРѕРµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃ...
 
 ? 
 ! Undefined control sequence.
-l.1496 {\textb
+l.1484 {\textb
                РџРµСЂРІРѕРµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕРµ СѓСЃР»РѕРІРёРµ СЃСѓС‰РµСЃ...
 
 ? 
@@ -2437,604 +2463,604 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1506 Р
+l.1494 Р
         џСѓСЃС‚СЊ $f''\left( {{x_0}} \right) = 0, f'''\left( {{x_0}} \right)...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1509 РџРѕСЃРєРѕР»СЊРєСѓ f'''\left
+l.1497 РџРѕСЃРєРѕР»СЊРєСѓ f'''\left
                                    ( {{x_0}} \right) \ne 0, С‚Рѕ РІС‚РѕСЂР°С...
 
 ? 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyru invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \CYRT invalid in math mode on input line 1509.
+LaTeX Warning: Command \CYRT invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \CYRO invalid in math mode on input line 1509.
+LaTeX Warning: Command \CYRO invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyryu invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyryu invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyru invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrshch invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrshch invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyru invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
@@ -3044,69 +3070,69 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1509 ...ЂРµРјС‹, СЃР»РµРґСѓРµС‚ С‡С‚Рѕ {x_0} в€’
+l.1497 ...ЂРµРјС‹, СЃР»РµРґСѓРµС‚ С‡С‚Рѕ {x_0} в€’
                                                    С‚РѕС‡РєР° РїРµСЂРµРіРёР±...
 
 ? 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyro invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyre invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrg invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrg invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrb invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrb invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyra invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrf invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrf invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyru invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyrc invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyrc invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 1509.
+LaTeX Warning: Command \cyri invalid in math mode on input line 1497.
 
 
 ! LaTeX Error: Command \end{proof} invalid in math mode.
@@ -3115,7 +3141,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1510 \end{proof}
+l.1498 \end{proof}
                   \\
 ? 
 
@@ -3125,7 +3151,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1510 \end{proof}
+l.1498 \end{proof}
                   \\
 ? 
 
@@ -3135,13 +3161,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1510 \end{proof}
+l.1498 \end{proof}
                   \\
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1510 \end{proof}
+l.1498 \end{proof}
                   \\
 ? 
 Missing character: There is no т in font cmr10!
@@ -3361,7 +3387,7 @@ Missing character: There is no ц in font cmr10!
 Missing character: There is no и in font cmr10!
 Missing character: There is no и in font cmr10!
 
-Overfull \hbox (20.07857pt too wide) in paragraph at lines 1509--1511
+Overfull \hbox (20.07857pt too wide) in paragraph at lines 1497--1499
 []\T2A/cmr/m/n/10 Поскольку f'''$[] \OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 = 0\OML/c
 mm/m/it/10 ; []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f[] [] > \OT1/cmr/m/n/10 0)\OM
 L/cmm/m/it/10 ; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f[] [] < \OT1/cmr/m/n/10 0)\O
@@ -3369,93 +3395,93 @@ ML/cmm/m/it/10 :f[] [] \OT1/cmr/m/n/10 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1509--1511
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1499
 
  []
 
-[66]
+[65]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 30.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1515--1517
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1517--1518
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1523--1524
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1530--1531
+Underfull \hbox (badness 10000) in paragraph at lines 1518--1519
 
  []
 
-[67
+[66
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1533--1534
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1522
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1541--1542
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 
  []
 
 
-Overfull \hbox (9.35791pt too wide) in paragraph at lines 1543--1544
+Overfull \hbox (9.35791pt too wide) in paragraph at lines 1531--1532
 \T2A/cmr/m/n/10 Над мно-же-ством ком-плекс-ных чи-сел вво-дят-ся опе-ра-ции сло
 -же-ния,вычитания,
  []
 
-[68]
-Underfull \hbox (badness 10000) in paragraph at lines 1559--1561
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 1547--1549
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1566--1567
+Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
 
  []
 
 
-Overfull \hbox (0.57999pt too wide) in paragraph at lines 1569--1569
+Overfull \hbox (0.57999pt too wide) in paragraph at lines 1557--1557
 []\T2A/cmr/bx/n/14.4 Геометрическая ин-тер-при-та-ция ком-плекс-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1575
+Underfull \hbox (badness 10000) in paragraph at lines 1561--1563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1576--1580
+Underfull \hbox (badness 10000) in paragraph at lines 1564--1568
 
  []
 
 
-Overfull \hbox (2.55879pt too wide) in paragraph at lines 1580--1581
+Overfull \hbox (2.55879pt too wide) in paragraph at lines 1568--1569
 []\T2A/cmr/m/n/10 Координатная плос-кость, на ко-то-рой изоб-ра-же-ны в ви-де р
 адиус-векторов
  []
 
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 1589--1592
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1580
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1593--1595
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1583
 
  []
 
 
-Overfull \hbox (12.26314pt too wide) in paragraph at lines 1595--1597
+Overfull \hbox (12.26314pt too wide) in paragraph at lines 1583--1585
 \OML/cmm/m/it/10 z[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 = 
 \OML/cmm/m/it/10 z[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 z[]\O
 MS/cmsy/m/n/10 j\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 cos[] \OT1/cmr/m/n/10 + \OML
@@ -3468,12 +3494,12 @@ ML/cmm/m/it/10 z[]\OMS/cmsy/m/n/10 j\OT1/cmr/m/n/10 ([] \OML/cmm/m/it/10 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1595--1597
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1585
 
  []
 
-[70]
-Overfull \hbox (28.11661pt too wide) in paragraph at lines 1614--1617
+[69]
+Overfull \hbox (28.11661pt too wide) in paragraph at lines 1602--1605
 \T2A/cmr/m/n/10 различные зна-че-ния кор-ня по-лу-ча-ют-ся при раз-лич-ных зна-
 че-ни-ях $\OML/cmm/m/it/10 k \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n
 /10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; :::; n \OMS/cmsy/m/
@@ -3481,14 +3507,14 @@ n/10  
  []
 
 
-Overfull \hbox (37.4529pt too wide) in paragraph at lines 1622--1627
+Overfull \hbox (37.4529pt too wide) in paragraph at lines 1610--1615
 [] \OT1/cmr/m/n/10 = [] = [] =
  []
 
-[71]
+[70]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 31.
 
-Overfull \hbox (28.11661pt too wide) in paragraph at lines 1649--1652
+Overfull \hbox (28.11661pt too wide) in paragraph at lines 1637--1640
 \T2A/cmr/m/n/10 различные зна-че-ния кор-ня по-лу-ча-ют-ся при раз-лич-ных зна-
 че-ни-ях $\OML/cmm/m/it/10 k \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n
 /10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; :::; n \OMS/cmsy/m/
@@ -3497,40 +3523,40 @@ n/10  
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1653.
+(hyperref)                than one, level fixed on input line 1641.
 
-[72
+[71
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 32.
 ! Undefined control sequence.
 <recently read> \exosts 
                         
-l.1665     $\exosts
+l.1653     $\exosts
                     \xi \in (x_1; x_2): g(x-2) - g(x_1) = g'(\xi)\cdot(x_2 -...
 
 ? 
 
-Overfull \hbox (19.42856pt too wide) in paragraph at lines 1675--1676
+Overfull \hbox (19.42856pt too wide) in paragraph at lines 1663--1664
 []\T2A/cmr/bx/n/10 совокупность всех пер-во-об-раз-ных для функ-ции на-зы-ва-ет
 -ся неопре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1685--1685
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1685.
+(hyperref)                removing `\\' on input line 1673.
 
-[73
+[72
 
-] [74] [75]
+] [73] [74]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 33.
 
-Overfull \hbox (0.76025pt too wide) in paragraph at lines 1736--1737
+Overfull \hbox (0.76025pt too wide) in paragraph at lines 1724--1725
 \T2A/cmr/m/it/10 дифференцируема, при-чјм $\OMS/cmsy/m/n/10 D\OT1/cmr/m/n/10 (\
 OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )) \OMS/cms
 y/m/n/10  D\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )$\T2A/cmr/m/it/
@@ -3542,27 +3568,27 @@ it/10 dx$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1738--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1745--1745
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1733
 
  []
 
-[76
+[75
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 34.
 ! Display math should end with $$.
 <to be read again> 
                    \protect 
-l.1752   $\\
+l.1740   $\\
             $ \Rightarrow \int udv = uv - \int vdu
 ? 
 
-Overfull \hbox (8.61794pt too wide) detected at line 1752
+Overfull \hbox (8.61794pt too wide) detected at line 1740
 [][]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 uv\OT1/cmr/m/n/10 ) = (
 \OML/cmm/m/it/10 uv\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = (\O
 ML/cmm/m/it/10 u[]v \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 v[]u\OT1/cmr/m/n/10 )\OM
@@ -3576,56 +3602,76 @@ cmm/m/it/10 udv
 ! You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.1753 \end{equation}
+l.1741 \end{equation}
                      
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1753 \end{equation}
+l.1741 \end{equation}
                      
 ? 
 
-Overfull \hbox (17.47118pt too wide) in paragraph at lines 1757--1758
+Overfull \hbox (17.47118pt too wide) in paragraph at lines 1745--1746
 []\T2A/cmr/m/n/10 подинтегральная функ-ция есть про-из-ве-де-ние мно-го-чле-на 
 и си-ну-са/косинуса 
  []
 
-[77
+[76
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 35.
-[78
 
-] [79]
-Underfull \hbox (badness 10000) in paragraph at lines 1858--1858
+! Package tikz Error: You need to say \usetikzlibrary{patterns}.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1779               \closedcycle;
+                                  
+? 
+
+! Package tikz Error: You need to say \usetikzlibrary{patterns}.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1782         \end{axis}
+                         
+? 
+[77
+
+] [78]
+Underfull \hbox (badness 10000) in paragraph at lines 1846--1846
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1872--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1860--1860
 
  []
 
-[80] [81]
+[79] [80]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 36.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1893--1893
+Underfull \hbox (badness 10000) in paragraph at lines 1881--1881
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1894--1894
+Underfull \hbox (badness 10000) in paragraph at lines 1882--1882
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1895--1895
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1883
 
  []
 
 
-Overfull \hbox (0.16068pt too wide) in paragraph at lines 1897--1900
+Overfull \hbox (0.16068pt too wide) in paragraph at lines 1885--1888
 $\OT1/cmr/m/n/10 0 \OMS/cmsy/m/n/10  j\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x \OT
 1/cmr/m/n/10 + []) \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1
 /cmr/m/n/10 )\OMS/cmsy/m/n/10 j  \OML/cmm/m/it/10 M\OT1/cmr/m/n/10 []$ $\OML/
@@ -3635,119 +3681,119 @@ cmm/m/it/10 M\OT1/cmr/m/n/10 [] \OMS/cmsy/m/n/10 ! \OT1/cmr/m/n/10 0$ \T2A/cmr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1906
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1894
 
  []
 
-[82
+[81
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1907--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1895--1895
 
  []
 
-[83]
+[82]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1918
 
  []
 
 ! Undefined control sequence.
-l.1931 ...”Р»СЏ Р»СЋР±РѕРіРѕ $\alpha, \beta \in \R
+l.1919 ...”Р»СЏ Р»СЋР±РѕРіРѕ $\alpha, \beta \in \R
                                                   $ Рё РґР»СЏ Р»СЋР±С‹С… РёР...
 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1936--1937
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1925
 
  []
 
-[84
+[83
 
 ]
-Overfull \hbox (9.62045pt too wide) in paragraph at lines 1940--1942
+Overfull \hbox (9.62045pt too wide) in paragraph at lines 1928--1930
 []\T2A/cmr/m/n/20.74 Я НЕ ПО-НИ-МАЮ, ЧТО ДАЛЬ-ШЕ НА-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1944--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1932--1934
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1952--1953
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1941
 
  []
 
 ! Extra }, or forgotten $.
-l.1954 ...^{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}
+l.1942 ...^{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}
                                                   }=\lim_{b\to{+\infty}}(b-1...
 
 ? 
 ! Extra }, or forgotten $.
-l.1954 ...{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}}
+l.1942 ...{b}dx=\lim_{b\to{+\infty}}(x\Big|_1^b)}}
                                                   =\lim_{b\to{+\infty}}(b-1)...
 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1956--1957
+Underfull \hbox (badness 10000) in paragraph at lines 1944--1945
 
  []
 
 ! Extra }, or forgotten $.
-l.1960 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
+l.1948 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
                                                   }=
 ? 
 ! Extra }, or forgotten $.
-l.1960 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
+l.1948 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1963--1964
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1952
 
  []
 
 ! Extra }, or forgotten $.
-l.1967 ...\infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}
+l.1955 ...\infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}
                                                   }=
 ? 
 ! Extra }, or forgotten $.
-l.1967 ...infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}}
+l.1955 ...infty}}(\dfrac{x^{1+p}}{1+p}\Big|_1^b)}}
                                                   =
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1971
+Underfull \hbox (badness 10000) in paragraph at lines 1958--1959
 
  []
 
 ! Undefined control sequence.
 <recently read> \abs 
                      
-l.1973 ...\to{+\infty}}\int_{1}^{+\infty} \ln \abs
+l.1961 ...\to{+\infty}}\int_{1}^{+\infty} \ln \abs
                                                   {x}=
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1976--1977
+Underfull \hbox (badness 10000) in paragraph at lines 1964--1965
 
  []
 
 ! Extra }, or forgotten $.
-l.1980 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
+l.1968 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
                                                   }=
 ? 
 ! Extra }, or forgotten $.
-l.1980 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
+l.1968 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 ? 
-[85]
+[84]
 ! Extra }, or forgotten $.
-l.1989 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
+l.1977 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
                                                   $ СЃРїСЂР°РІРµРґР»РёРІРѕ $...
 
 ? 
-[86]
-Underfull \hbox (badness 10000) in paragraph at lines 1994--1996
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 1982--1984
 
  []
 
@@ -3758,38 +3804,38 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1996     \item С
+l.1984     \item С
                   ЃРѕРґРµСЂР¶РёС‚СЃСЏ: A $\subseteq$ B. РљР°Р¶РґС‹Р№ СЌР»РµР...
 
 ? 
 
-Underfull \hbox (badness 10000) detected at line 1996
+Underfull \hbox (badness 10000) detected at line 1984
 [][]
  []
 
 ! Undefined control sequence.
-l.2008 \item $\forall \alpha,\beta \in \R
+l.1996 \item $\forall \alpha,\beta \in \R
                                          , f(x),g(x)$ РёРЅС‚РµРіСЂРёСЂСѓРµРј...
 
 ? 
-[87]
+[86]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 38.
-[88
+[87
 
 ]
 ! Undefined control sequence.
-l.2041 ...РґРµР»СЏРµС‚СЃСЏ РѕРїРµСЂР°С†РёСЏ \texbf
+l.2029 ...РґРµР»СЏРµС‚СЃСЏ РѕРїРµСЂР°С†РёСЏ \texbf
                                                   {С‚СЂР°РЅСЃРїРѕРЅРёСЂРѕРІР...
 
 ? 
 
-Overfull \hbox (3.80371pt too wide) in paragraph at lines 2040--2042
+Overfull \hbox (3.80371pt too wide) in paragraph at lines 2028--2030
 \T2A/cmr/m/n/10 Для лю-бой мат-ри-цы опре-де-ля-ет-ся опе-ра-ция транс-по-ни-ро
 -ва-ния:каждая стро-
  []
 
-[89]
-Overfull \hbox (0.60155pt too wide) in paragraph at lines 2088--2098
+[88]
+Overfull \hbox (0.60155pt too wide) in paragraph at lines 2076--2086
 \T2A/cmr/bx/n/10 пол-не-ний\T2A/cmr/m/n/10 . Ал-геб-ра-и-че-ским до-пол-не-ни-е
 м к $\OML/cmm/m/it/10 a[]$ \T2A/cmr/m/n/10 на-зы-ва-ет-ся $\OML/cmm/m/it/10 A[]
  \OT1/cmr/m/n/10 = (\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 1)[] \OMS/cmsy/m/n/10 
@@ -3798,11 +3844,11 @@ Overfull \hbox (0.60155pt too wide) in paragraph at lines 2088--2098
 ! Missing } inserted.
 <inserted text> 
                 }
-l.2103 a_{2 1} & \color{violet}{a_{2 2} &
+l.2091 a_{2 1} & \color{violet}{a_{2 2} &
                                           \color{violet}{a_{2 3}}\\
 ? 
 
-Overfull \hbox (95.32635pt too wide) detected at line 2112
+Overfull \hbox (95.32635pt too wide) detected at line 2100
 []  []  \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it
 /10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OT1/cmr/m/n/10 + \OML/cmm/m/it
 /10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/i
@@ -3815,20 +3861,20 @@ m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10   \OML/cmm
 m/m/it/10 a[]
  []
 
-[90] [91]
+[89] [90]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 39.
 
-Overfull \hbox (108.59296pt too wide) detected at line 2139
+Overfull \hbox (108.59296pt too wide) detected at line 2127
 \OML/cmm/m/it/10 detA \OT1/cmr/m/n/10 = [] = [] \OMS/cmsy/m/n/10  \OML/cmm/m/i
 t/10 det []
  []
 
-[92
+[91
 
-] [93]
+] [92]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 40.
 ! Undefined control sequence.
-l.2152 	\tkzDefPoint
+l.2140 	\tkzDefPoint
                     (0,0){A};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -3839,7 +3885,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2153 	\tkzDefPoint
+l.2141 	\tkzDefPoint
                     (2.0,0){B};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -3852,7 +3898,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2154 	\tkzLabelPoint
+l.2142 	\tkzLabelPoint
                       [left](A){$A$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -3865,7 +3911,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2155 	\tkzLabelPoint
+l.2143 	\tkzLabelPoint
                       [right](B){$B$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -3885,7 +3931,7 @@ See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2157 ... at (\n)[circle,fill,inner sep=1.5pt]{};
+l.2145 ... at (\n)[circle,fill,inner sep=1.5pt]{};
                                                   
 ? 
 
@@ -3895,11 +3941,11 @@ See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2157 ... at (\n)[circle,fill,inner sep=1.5pt]{};
+l.2145 ... at (\n)[circle,fill,inner sep=1.5pt]{};
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2164
+Underfull \hbox (badness 10000) in paragraph at lines 2149--2152
 
  []
 
@@ -3911,7 +3957,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2179 \node[
+l.2167 \node[
              trapezium stretches=false,minimum height=1cm]
 ? 
 
@@ -3923,7 +3969,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2179 \node[
+l.2167 \node[
              trapezium stretches=false,minimum height=1cm]
 ? 
 
@@ -3935,7 +3981,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2179 \node[
+l.2167 \node[
              trapezium stretches=false,minimum height=1cm]
 ? 
 
@@ -3947,17 +3993,17 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2179 ...zium stretches=false,minimum height=1cm]
+l.2167 ...zium stretches=false,minimum height=1cm]
                                                   
 ? 
 
-Overfull \hbox (6.58745pt too wide) in paragraph at lines 2170--2184
+Overfull \hbox (6.58745pt too wide) in paragraph at lines 2158--2172
 \T2A/cmr/m/n/10 Для век-то-ра опре-де-ля-ют-ся опе-ра-ции от-кла-ды-ва-ния от з
 а-дан-ной точ-ки. Пусть
  []
 
 ! Undefined control sequence.
-l.2196 \tkzDefPoint
+l.2184 \tkzDefPoint
                    (0,0){O};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -3968,7 +4014,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2197 \tkzDefPoint
+l.2185 \tkzDefPoint
                    (5,0){B};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -3979,7 +4025,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2198 \tkzDefPoint
+l.2186 \tkzDefPoint
                    (2,3){A};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -3990,7 +4036,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2200 \tkzLabelPoint
+l.2188 \tkzLabelPoint
                      [right,below](O){$O$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -4010,7 +4056,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2201 \tkzLabelPoint
+l.2189 \tkzLabelPoint
                      [right](A){$A$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -4024,7 +4070,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2202 \tkzLabelPoint
+l.2190 \tkzLabelPoint
                      [right,below](B){$B$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -4043,11 +4089,11 @@ Missing character: There is no ] in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ) in font nullfont!
-[94
+[93
 
 ]
 ! Undefined control sequence.
-l.2212  \tkzDefPoint
+l.2200  \tkzDefPoint
                     (0,0){O};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -4058,7 +4104,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2213  \tkzDefPoint
+l.2201  \tkzDefPoint
                     (5,0){B};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -4069,7 +4115,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2214  \tkzDefPoint
+l.2202  \tkzDefPoint
                     (2,3){A};
 ? 
 Missing character: There is no ( in font nullfont!
@@ -4080,7 +4126,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Undefined control sequence.
-l.2216  \tkzLabelPoint
+l.2204  \tkzLabelPoint
                       [right,below](O){$O$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -4100,7 +4146,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2217  \tkzLabelPoint
+l.2205  \tkzLabelPoint
                       [right](A){$A$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -4114,7 +4160,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no ) in font nullfont!
 ! Undefined control sequence.
-l.2218  \tkzLabelPoint
+l.2206  \tkzLabelPoint
                       [right,below](B){$B$}
 ? 
 Missing character: There is no [ in font nullfont!
@@ -4134,71 +4180,71 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ) in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2221--2224
+Underfull \hbox (badness 10000) in paragraph at lines 2209--2212
 
  []
 
 ! Undefined control sequence.
-l.2226  $\vec{a}$ Рё $\lambda \in \R
+l.2214  $\vec{a}$ Рё $\lambda \in \R
                                     $:
 ? 
 ! Extra }, or forgotten $.
-l.2229 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
+l.2217 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
                                                   $
 ? 
 ! Extra }, or forgotten $.
-l.2230 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
+l.2218 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
                                                   $
 ? 
-[95]
+[94]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 41.
 
-Overfull \hbox (23.552pt too wide) in paragraph at lines 2236--2241
+Overfull \hbox (23.552pt too wide) in paragraph at lines 2224--2229
 []\OML/cmm/m/it/10 ; []:::[]$ \T2A/cmr/m/n/10 на-зы-ва-ют-ся \T2A/cmr/bx/n/10 л
 и-ней-но за-ви-си-мы-ми\T2A/cmr/m/n/10 , ес-ли су-ще-ству-ют чис-ла $\OML/cmm/m
 /it/10 []; []:::[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2236--2241
+Underfull \hbox (badness 10000) in paragraph at lines 2224--2229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2252--2257
+Underfull \hbox (badness 10000) in paragraph at lines 2240--2245
 
  []
 
-[96
+[95
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2260
+Underfull \hbox (badness 10000) in paragraph at lines 2246--2248
 
  []
 
 
-Overfull \hbox (55.09674pt too wide) in paragraph at lines 2272--2273
+Overfull \hbox (55.09674pt too wide) in paragraph at lines 2260--2261
 []\T2A/cmr/m/n/10 It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6
 uq0k
  []
 
 
-Overfull \hbox (55.09674pt too wide) in paragraph at lines 2279--2280
+Overfull \hbox (55.09674pt too wide) in paragraph at lines 2267--2268
 []\T2A/cmr/m/n/10 It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6
 uq0k
  []
 
 
-Overfull \hbox (55.09674pt too wide) in paragraph at lines 2286--2287
+Overfull \hbox (55.09674pt too wide) in paragraph at lines 2274--2275
 []\T2A/cmr/m/n/10 It's hard to explain: https://www.youtube.com/watch?v=BXkm6h6
 uq0k
  []
 
-[97]
+[96]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 42.
-[98
+[97
 
-] [99]
+] [98]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 43.
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
@@ -4208,7 +4254,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2350 РіРґРµ x, y в€’
+l.2338 РіРґРµ x, y в€’
                        РєРѕРѕСЂРґРёРЅР°С‚С‹ С‚РѕС‡РµРє РїСЂСЏРјРѕР№, A, B, C...
 
 ? 
@@ -4220,50 +4266,50 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2350 ...‚С‹ С‚РѕС‡РµРє РїСЂСЏРјРѕР№, A, B, C в€’
+l.2338 ...‚С‹ С‚РѕС‡РµРє РїСЂСЏРјРѕР№, A, B, C в€’
                                                    РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2350 ...‹Рµ С‡РёСЃР»Р° РїСЂРё СѓСЃР»РѕРІРёРё {A^
+l.2338 ...‹Рµ С‡РёСЃР»Р° РїСЂРё СѓСЃР»РѕРІРёРё {A^
                                                   2} + {B^2} \ne 0.
 ? 
 ! Extra }, or forgotten $.
-l.2350 ...µ С‡РёСЃР»Р° РїСЂРё СѓСЃР»РѕРІРёРё {A^2}
+l.2338 ...µ С‡РёСЃР»Р° РїСЂРё СѓСЃР»РѕРІРёРё {A^2}
                                                    + {B^2} \ne 0.
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2351 
+l.2339 
        
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2352--2355
+Underfull \hbox (badness 10000) in paragraph at lines 2340--2343
 
  []
 
-<./pics/2.jpg, id=1521, 305.14pt x 253.94875pt>
+<./pics/2.jpg, id=1398, 305.14pt x 253.94875pt>
 File: ./pics/2.jpg Graphic file (type jpg)
 <use ./pics/2.jpg>
-Package pdftex.def Info: ./pics/2.jpg  used on input line 2356.
+Package pdftex.def Info: ./pics/2.jpg  used on input line 2344.
 (pdftex.def)             Requested size: 122.05382pt x 101.5777pt.
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2361.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2349.
 
 Missing character: There is no а in font cmr10!
-<./pics/3.jpg, id=1522, 341.275pt x 266.9975pt>
+<./pics/3.jpg, id=1399, 341.275pt x 266.9975pt>
 File: ./pics/3.jpg Graphic file (type jpg)
 <use ./pics/3.jpg>
-Package pdftex.def Info: ./pics/3.jpg  used on input line 2364.
+Package pdftex.def Info: ./pics/3.jpg  used on input line 2352.
 (pdftex.def)             Requested size: 136.50757pt x 106.79709pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2368.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2356.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2368
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2356
 .
 
 
@@ -4274,17 +4320,17 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2369 ...ght), B\left( {{x_2},{y_2}} \right)$ в€’
+l.2357 ...ght), B\left( {{x_2},{y_2}} \right)$ в€’
                                                    РєРѕРѕСЂРґРёРЅР°С‚С‹ РґРІ...
 
 ? 
-[100
+[99
 
  <./pics/2.jpg> <./pics/3.jpg>]
-<./pics/4.jpg, id=1528, 341.275pt x 253.94875pt>
+<./pics/4.jpg, id=1405, 341.275pt x 253.94875pt>
 File: ./pics/4.jpg Graphic file (type jpg)
 <use ./pics/4.jpg>
-Package pdftex.def Info: ./pics/4.jpg  used on input line 2373.
+Package pdftex.def Info: ./pics/4.jpg  used on input line 2361.
 (pdftex.def)             Requested size: 136.50757pt x 101.5777pt.
 
 
@@ -4295,92 +4341,92 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2378 РіРґРµ k в€’
+l.2366 РіРґРµ k в€’
                     СѓРіР»РѕРІРѕР№ РєРѕСЌС„С„РёС†РёРµРЅС‚, Р° С‚РѕС‡РєР° $P\...
 
 ? 
 
-Overfull \hbox (6.99829pt too wide) in paragraph at lines 2376--2380
+Overfull \hbox (6.99829pt too wide) in paragraph at lines 2364--2368
 []$\OMS/cmsy/m/n/10 $ \T2A/cmr/m/n/10 Урав-не-ние пря-мой по точ-ке и уг-ло-во
 -му ко-эф-фи-ци-ен-ту $\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = [] + \OML/cmm/m/it/
 10 k []$\T2A/cmr/m/n/10 ,
  []
 
-<./pics/5.jpg, id=1529, 341.275pt x 253.94875pt>
+<./pics/5.jpg, id=1406, 341.275pt x 253.94875pt>
 File: ./pics/5.jpg Graphic file (type jpg)
 <use ./pics/5.jpg>
-Package pdftex.def Info: ./pics/5.jpg  used on input line 2382.
+Package pdftex.def Info: ./pics/5.jpg  used on input line 2370.
 (pdftex.def)             Requested size: 136.50757pt x 101.5777pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2386.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2374.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2386
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2374
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2386.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2374.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2386
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2374
 .
 
-<./pics/6.jpg, id=1530, 341.275pt x 253.94875pt>
+<./pics/6.jpg, id=1407, 341.275pt x 253.94875pt>
 File: ./pics/6.jpg Graphic file (type jpg)
 <use ./pics/6.jpg>
-Package pdftex.def Info: ./pics/6.jpg  used on input line 2390.
+Package pdftex.def Info: ./pics/6.jpg  used on input line 2378.
 (pdftex.def)             Requested size: 136.50757pt x 101.5777pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2394.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2382.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2394
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2382
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2394.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2382.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2394
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2382
 .
 
-<./pics/7.jpg, id=1531, 280.04625pt x 253.94875pt>
+<./pics/7.jpg, id=1408, 280.04625pt x 253.94875pt>
 File: ./pics/7.jpg Graphic file (type jpg)
 <use ./pics/7.jpg>
-Package pdftex.def Info: ./pics/7.jpg  used on input line 2398.
+Package pdftex.def Info: ./pics/7.jpg  used on input line 2386.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
-[101 <./pics/4.jpg> <./pics/5.jpg> <./pics/6.jpg>]
-<./pics/8.jpg, id=1536, 280.04625pt x 253.94875pt>
+[100 <./pics/4.jpg> <./pics/5.jpg> <./pics/6.jpg>]
+<./pics/8.jpg, id=1413, 280.04625pt x 253.94875pt>
 File: ./pics/8.jpg Graphic file (type jpg)
 <use ./pics/8.jpg>
-Package pdftex.def Info: ./pics/8.jpg  used on input line 2406.
+Package pdftex.def Info: ./pics/8.jpg  used on input line 2394.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2410.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2398.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2410
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2398
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2410.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2398.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2410
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2398
 .
 
-<./pics/9.jpg, id=1537, 288.07625pt x 253.94875pt>
+<./pics/9.jpg, id=1414, 288.07625pt x 253.94875pt>
 File: ./pics/9.jpg Graphic file (type jpg)
 <use ./pics/9.jpg>
-Package pdftex.def Info: ./pics/9.jpg  used on input line 2415.
+Package pdftex.def Info: ./pics/9.jpg  used on input line 2403.
 (pdftex.def)             Requested size: 115.22844pt x 101.5777pt.
-<./pics/12.jpg, id=1538, 315.1775pt x 253.94875pt>
+<./pics/12.jpg, id=1415, 315.1775pt x 253.94875pt>
 File: ./pics/12.jpg Graphic file (type jpg)
 <use ./pics/12.jpg>
-Package pdftex.def Info: ./pics/12.jpg  used on input line 2423.
+Package pdftex.def Info: ./pics/12.jpg  used on input line 2411.
 (pdftex.def)             Requested size: 126.06876pt x 101.5777pt.
-[102 <./pics/7.jpg> <./pics/8.jpg> <./pics/9.jpg>]
+[101 <./pics/7.jpg> <./pics/8.jpg> <./pics/9.jpg>]
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -4389,7 +4435,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2428 ...РїСЂСЏРјРѕР№, $\left( {x,y} \right)$ в€’
+l.2416 ...РїСЂСЏРјРѕР№, $\left( {x,y} \right)$ в€’
                                                    РєРѕРѕСЂРґРёРЅР°С‚С‹ РїСЂ...
 
 ? 
@@ -4401,7 +4447,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2428 ...РѕР№, $\left( {{b_1},{b_2}} \right)$ в€’
+l.2416 ...РѕР№, $\left( {{b_1},{b_2}} \right)$ в€’
                                                    РєРѕРѕСЂРґРёРЅР°С‚С‹ РІРµ...
 
 ? 
@@ -4413,255 +4459,255 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2428 ...ЅРѕРіРѕ РґР°РЅРЅРѕР№ РїСЂСЏРјРѕР№, t в€’
+l.2416 ...ЅРѕРіРѕ РґР°РЅРЅРѕР№ РїСЂСЏРјРѕР№, t в€’
                                                    РїР°СЂР°РјРµС‚СЂ.
 ? 
-<./pics/13.jpg, id=1544, 315.1775pt x 253.94875pt>
+<./pics/13.jpg, id=1420, 315.1775pt x 253.94875pt>
 File: ./pics/13.jpg Graphic file (type jpg)
 <use ./pics/13.jpg>
-Package pdftex.def Info: ./pics/13.jpg  used on input line 2430.
+Package pdftex.def Info: ./pics/13.jpg  used on input line 2418.
 (pdftex.def)             Requested size: 126.06876pt x 101.5777pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2435.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2423.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2435
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2423
 .
 
-<./pics/14.jpg, id=1545, 280.04625pt x 253.94875pt>
+<./pics/14.jpg, id=1421, 280.04625pt x 253.94875pt>
 File: ./pics/14.jpg Graphic file (type jpg)
 <use ./pics/14.jpg>
-Package pdftex.def Info: ./pics/14.jpg  used on input line 2438.
+Package pdftex.def Info: ./pics/14.jpg  used on input line 2426.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2444.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2432.
 
 Missing character: There is no и in font cmr10!
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2445.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2433.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2445
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2433
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2445.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2433.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2445
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2433
 .
 
-<./pics/15.jpg, id=1546, 434.62375pt x 253.94875pt>
+<./pics/15.jpg, id=1422, 434.62375pt x 253.94875pt>
 File: ./pics/15.jpg Graphic file (type jpg)
 <use ./pics/15.jpg>
-Package pdftex.def Info: ./pics/15.jpg  used on input line 2447.
+Package pdftex.def Info: ./pics/15.jpg  used on input line 2435.
 (pdftex.def)             Requested size: 173.8464pt x 101.5777pt.
-[103 <./pics/12.jpg> <./pics/13.jpg> <./pics/14.jpg>]
+[102 <./pics/12.jpg> <./pics/13.jpg> <./pics/14.jpg>]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2452.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2440.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2452
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2440
 .
 
-<./pics/16.jpg, id=1551, 398.48875pt x 338.26375pt>
+<./pics/16.jpg, id=1428, 398.48875pt x 338.26375pt>
 File: ./pics/16.jpg Graphic file (type jpg)
 <use ./pics/16.jpg>
-Package pdftex.def Info: ./pics/16.jpg  used on input line 2456.
+Package pdftex.def Info: ./pics/16.jpg  used on input line 2444.
 (pdftex.def)             Requested size: 159.39267pt x 135.30309pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2460.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2448.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2460
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2448
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2460.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2448.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2460
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2448
 .
 
-<./pics/17.jpg, id=1552, 405.515pt x 366.36874pt>
+<./pics/17.jpg, id=1429, 405.515pt x 366.36874pt>
 File: ./pics/17.jpg Graphic file (type jpg)
 <use ./pics/17.jpg>
-Package pdftex.def Info: ./pics/17.jpg  used on input line 2462.
+Package pdftex.def Info: ./pics/17.jpg  used on input line 2450.
 (pdftex.def)             Requested size: 162.20311pt x 146.54489pt.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2467.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2455.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2467
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2455
 .
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 2467.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2455.
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2467
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2455
 .
 
-[104 <./pics/15.jpg> <./pics/16.jpg> <./pics/17.jpg>]
+[103 <./pics/15.jpg> <./pics/16.jpg> <./pics/17.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 44.
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrd invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrd invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrya invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrya invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrery invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrery invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrerev invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrerev invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \CYRV invalid in math mode on input line 2472.
+LaTeX Warning: Command \CYRV invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyryo invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyryo invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrz invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyryu invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyryu invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrch invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrch invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2460.
 
 Missing character: There is no п in font cmr10!
 Missing character: There is no е in font cmr10!
@@ -4717,82 +4763,82 @@ Missing character: There is no ч in font cmr10!
 Missing character: There is no к in font cmr10!
 Missing character: There is no у in font cmr10!
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2460.
 
 
-LaTeX Warning: Command \cyrm invalid in math mode on input line 2472.
+LaTeX Warning: Command \cyrm invalid in math mode on input line 2460.
 
 Missing character: There is no н in font cmr10!
 Missing character: There is no а in font cmr10!
@@ -4827,19 +4873,19 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2472 ...СЂРѕРІРµРєС‚РѕСЂРёСЂСѓРµРј: $\vec{M_0 M}
+l.2460 ...СЂРѕРІРµРєС‚РѕСЂРёСЂСѓРµРј: $\vec{M_0 M}
                                                    = (x - x_0; y - y_0; z - ...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2472 ...С‚РѕСЂРёСЂСѓРµРј: $\vec{M_0 M} = (x - x_
+l.2460 ...С‚РѕСЂРёСЂСѓРµРј: $\vec{M_0 M} = (x - x_
                                                   0; y - y_0; z - z_0)$. РџС...
 
 ? 
 
-Overfull \hbox (24.08633pt too wide) in paragraph at lines 2472--2473
+Overfull \hbox (24.08633pt too wide) in paragraph at lines 2460--2461
 \T2A/cmr/m/n/10 Пусть в про-странт-ве за-да-на плос-кость $\OML/cmm/m/it/10 Q$\
 T2A/cmr/m/n/10 . За-да-на точ-кой $\OML/cmm/m/it/10 M[]\OT1/cmr/m/n/10 (\OML/cm
 m/m/it/10 x[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 ; \OML/cmm/m
@@ -4847,86 +4893,86 @@ m/m/it/10 x[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 ; \OML/cmm/m
  []
 
 
-Overfull \hbox (23.09685pt too wide) in paragraph at lines 2486--2487
+Overfull \hbox (23.09685pt too wide) in paragraph at lines 2474--2475
 \T2A/cmr/m/n/10 чим, что ко-ор-ди-на-та-ми на-прав-ля-ю-ще-го ко-си-ну-са яв-ля
 -ют-ся $[] \OT1/cmr/m/n/10 = (\OML/cmm/m/it/10 cos; cos; cos\OT1/cmr/m/n/10 
 )$\T2A/cmr/m/n/10 ,
  []
 
-[105
+[104
 
 ]
-Overfull \hbox (3.10944pt too wide) in paragraph at lines 2491--2493
+Overfull \hbox (3.10944pt too wide) in paragraph at lines 2479--2481
 \T2A/cmr/m/n/10 Данная фор-му-ла пред-став-ля-ет ска-ляр-ное про-из-ве-де-ние в
  ко-ор-ди-нат-ной фор-
  []
 
-[106]
+[105]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 45.
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 2504.
+LaTeX Warning: Command \cyri invalid in math mode on input line 2492.
 
 Missing character: There is no и in font cmr10!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2505 ...ЂРѕС…РѕРґРёС‚ С‡РµСЂРµР· С‚РѕС‡РєСѓ M(x_
+l.2493 ...ЂРѕС…РѕРґРёС‚ С‡РµСЂРµР· С‚РѕС‡РєСѓ M(x_
                                                   0, y_0, z_0) РїР°СЂР°Р»Р»Р...
 
 ? 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyra invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyra invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrn invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrv invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrv invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyre invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrk invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrk invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrt invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyro invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyro invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 2493.
 
 
-LaTeX Warning: Command \cyru invalid in math mode on input line 2505.
+LaTeX Warning: Command \cyru invalid in math mode on input line 2493.
 
 Missing character: There is no п in font cmr10!
 Missing character: There is no а in font cmr10!
@@ -4949,37 +4995,37 @@ Missing character: There is no у in font cmr10!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2505 ...»РµР»СЊРЅРѕ РІРµРєС‚РѕСЂСѓ $\overline{S}
+l.2493 ...»РµР»СЊРЅРѕ РІРµРєС‚РѕСЂСѓ $\overline{S}
                                                   =(m, n, p)$. Р’РµРєС‚РѕСЂ ...
 
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    $
-l.2507 ...t\\ y=y_0+nt\\z=z_0+pt\end{array}\right$
+l.2495 ...t\\ y=y_0+nt\\z=z_0+pt\end{array}\right$
                                                   .
 ? 
-[107
+[106
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 46.
-[108
+[107
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 47.
-[109
+[108
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 48.
 
-Overfull \hbox (24.97829pt too wide) in paragraph at lines 2551--2553
+Overfull \hbox (24.97829pt too wide) in paragraph at lines 2539--2541
 []\T2A/cmr/m/n/10 Найдјм урав-не-ние, за-да-ю-щее Ц.П. Рас-смот-рим про-из-воль
 -ную точ-ку $\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; z\OT1/cm
 r/m/n/10 )$
  []
 
 
-LaTeX Warning: File `./pics/.png' not found on input line 2558.
+LaTeX Warning: File `./pics/.png' not found on input line 2546.
 
 
 ! Package pdftex.def Error: File `./pics/.png' not found: using draft setting.
@@ -4988,11 +5034,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2558 ...includegraphics[scale=0.25]{./pics/.png}
+l.2546 ...includegraphics[scale=0.25]{./pics/.png}
                                                   
 ? 
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-2558.
+2546.
 
 ("C:\Users\s4d14\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmtt.f
 d"
@@ -5005,43 +5051,43 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2559 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.2547 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2559 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.2547 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2559 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2547 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2559 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
+l.2547 ...ґСЂ РІСЂР°С‰РµРЅРёСЏ(С€РєРѕР»СЊРЅС‹Р№).}
                                                   
 ? 
 
-Underfull \hbox (badness 4752) in paragraph at lines 2559--2559
+Underfull \hbox (badness 4752) in paragraph at lines 2547--2547
 []\T2A/cmr/m/n/9 (a) |Эл-лип-ти-че-ский
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2559--2559
+Underfull \hbox (badness 10000) in paragraph at lines 2547--2547
 
  []
 
-<./pics/shkarlupa.png, id=1592, 379.4175pt x 379.4175pt>
+<./pics/shkarlupa.png, id=1469, 379.4175pt x 379.4175pt>
 File: ./pics/shkarlupa.png Graphic file (type png)
 <use ./pics/shkarlupa.png>
-Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2564.
+Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2552.
 (pdftex.def)             Requested size: 94.85414pt x 94.85414pt.
 
-Overfull \hbox (8.60414pt too wide) in paragraph at lines 2564--2565
+Overfull \hbox (8.60414pt too wide) in paragraph at lines 2552--2553
  [][] 
  []
 
@@ -5052,40 +5098,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2565 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2553 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2565 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2553 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2565 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2553 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2565 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
+l.2553 ...rac{x^2}{a^2} - \frac{y^2}{b^2} = \pm1}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2565--2565
+Underfull \hbox (badness 10000) in paragraph at lines 2553--2553
 []\T2A/cmr/m/n/9 (b) |Ги-пер-бо-ли-че-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2565--2565
+Underfull \hbox (badness 10000) in paragraph at lines 2553--2553
 
  []
 
-<./pics/pip.jpg, id=1594, 200.75pt x 221.82875pt>
+<./pics/pip.jpg, id=1471, 200.75pt x 221.82875pt>
 File: ./pics/pip.jpg Graphic file (type jpg)
 <use ./pics/pip.jpg>
-Package pdftex.def Info: ./pics/pip.jpg  used on input line 2570.
+Package pdftex.def Info: ./pics/pip.jpg  used on input line 2558.
 (pdftex.def)             Requested size: 50.18736pt x 55.45705pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -5094,35 +5140,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2571 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2559 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2571 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2559 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2571 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2559 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2571 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
+l.2559 ...РЅРґСЂ \\ \boxedeq{eq:*}{x^2 = \pm 2py}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2571--2571
+Underfull \hbox (badness 10000) in paragraph at lines 2559--2559
 
  []
 
-<./pics/jizz.png, id=1595, 251.4996pt x 162.3666pt>
+<./pics/jizz.png, id=1472, 251.4996pt x 162.3666pt>
 File: ./pics/jizz.png Graphic file (type png)
 <use ./pics/jizz.png>
-Package pdftex.def Info: ./pics/jizz.png  used on input line 2575.
+Package pdftex.def Info: ./pics/jizz.png  used on input line 2563.
 (pdftex.def)             Requested size: 62.87474pt x 40.59154pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -5131,35 +5177,35 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2576 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2564 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2576 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2564 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2576 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2564 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2576 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
+l.2564 ...{\frac{x^2}{a^2} - \frac{y^2}{b^2} = 0}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2576--2576
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
 
  []
 
-<./pics/joq.jpg, id=1596, 142.28156pt x 142.28156pt>
+<./pics/joq.jpg, id=1473, 142.28156pt x 142.28156pt>
 File: ./pics/joq.jpg Graphic file (type jpg)
 <use ./pics/joq.jpg>
-Package pdftex.def Info: ./pics/joq.jpg  used on input line 2581.
+Package pdftex.def Info: ./pics/joq.jpg  used on input line 2569.
 (pdftex.def)             Requested size: 35.5703pt x 35.5703pt.
 
 ! LaTeX Error: Bad math environment delimiter.
@@ -5168,40 +5214,40 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2582 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2570 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 ! You can't use `\eqno' in restricted horizontal mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.2582 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2570 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 
-! LaTeX Error: \begin{equation*} on input line 2582 ended by \end{AmSequation*}
+! LaTeX Error: \begin{equation*} on input line 2570 ended by \end{AmSequation*}
 .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2582 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
+l.2570 ... \\ \boxedeq{eq:*}{\frac{x^2}{a^2} = 1}}
                                                   
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2570
 
  []
 
-[110
+[109
 
-] [111 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./
+] [110 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./
 pics/joq.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 49.
-<./pics/jiji.png, id=1622, 1027.84pt x 969.6225pt>
+<./pics/jiji.png, id=1499, 1027.84pt x 969.6225pt>
 File: ./pics/jiji.png Graphic file (type png)
 <use ./pics/jiji.png>
-Package pdftex.def Info: ./pics/jiji.png  used on input line 2598.
+Package pdftex.def Info: ./pics/jiji.png  used on input line 2586.
 (pdftex.def)             Requested size: 51.395pt x 48.48396pt.
 
 ! LaTeX Error: There's no line here to end.
@@ -5210,57 +5256,51 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2601 
+l.2589 
        
 ? 
-[112
+[111
 
- <./pics/jiji.png>] [113]
+ <./pics/jiji.png>] [112]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
-[114
+[113
 
-] [115] [116]
+] [114] [115]
 
-! LaTeX Error: \begin{enumerate} on input line 2697 ended by \end{document}.
+! LaTeX Error: \begin{enumerate} on input line 2685 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2712 \end{document}
+l.2700 \end{document}
                      
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2712.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2712.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2700.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2700.
 (math_sem1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2712.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2712.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2700.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2700.
 
+Package rerunfilecheck Info: File `math_sem1.out' has not changed.
+(rerunfilecheck)             Checksum: 03914ED4DCDEE0491EC25D66EAD29E55;32555.
 
-
-Package rerunfilecheck Warning: File `math_sem1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `math_sem1.out':
-(rerunfilecheck)             Before: 77FB97DFCDD50C33969D624D6F66480C;32293
-(rerunfilecheck)             After:  03914ED4DCDEE0491EC25D66EAD29E55;32555.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2712.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2700.
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 2697 (\begingroup)
-### simple group (level 1) entered at line 2350 ({)
+### semi simple group (level 2) entered at line 2685 (\begingroup)
+### simple group (level 1) entered at line 2338 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 35102 strings out of 492483
- 782176 string characters out of 3121590
- 964954 words of memory out of 3000000
- 38212 multiletter control sequences out of 15000+200000
- 34681 words of font info for 87 fonts, out of 3000000 for 9000
+ 34981 strings out of 492483
+ 778351 string characters out of 3121590
+ 957371 words of memory out of 3000000
+ 38099 multiletter control sequences out of 15000+200000
+ 33135 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,17n,103p,892b,2256s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh
@@ -5308,9 +5348,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/s4d14
 /Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
 ols/msam10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
-Output written on math_sem1.pdf (117 pages, 1491512 bytes).
+Output written on math_sem1.pdf (116 pages, 1459157 bytes).
 PDF statistics:
- 2725 PDF objects out of 2984 (max. 8388607)
- 615 named destinations out of 1000 (max. 500000)
- 1098 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2582 PDF objects out of 2984 (max. 8388607)
+ 614 named destinations out of 1000 (max. 500000)
+ 1102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
