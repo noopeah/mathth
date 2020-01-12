@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.6)  12 JAN 2020 22:03
 entering extended mode
 **./math_sem1.tex
 (math_sem1.tex
@@ -1134,131 +1134,7 @@ Package caption Info: wrapfig package is loaded.
 \c@subtable=\count155
 )
 \c@thm=\count156
- (math_sem1.aux
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq*:' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-
-LaTeX Warning: Label `eq:*' multiply defined.
-
-)
+ (math_sem1.aux)
 \openout1 = `math_sem1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -1374,24 +1250,20 @@ Overfull \hbox (85.13374pt too wide) in paragraph at lines 33--33
 
 
 {C:/Users/s4d14/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(math_sem1.tocpdfTeX warning (ext4): destination with the same identifier (name
-{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 ...РѕРЅРЅРёРµ РїСЂРµРґРµР»С‹.}{23}{chapter.9}
-                                                  % [1
 
-]
-Overfull \hbox (3.22122pt too wide) in paragraph at lines 34--34
- [] [][]\T2A/cmr/bx/n/10 Непрерывность эле-мен-тар-ных функ-ций. За-ме-ча-тель-
-ные пре- 
- []
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-[2] [3] [4])
 \tf@toc=\write5
 \openout5 = `math_sem1.toc'.
 
- [5]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 \chapter
+             {PUBLIC SERVICE ANNOUNCEMENT} [1
+
+]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
 ! LaTeX Error: \begin{enumerate} on input line 39 ended by \end{enumarate}.
@@ -1403,7 +1275,7 @@ Type  H <return>  for immediate help.
 l.47 \end{enumarate}
                     
 ? 
-[6
+[2
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{chapter.1}) 
 has been already used, duplicate ignored
@@ -1417,18 +1289,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-[7
+[3
 
-] [8]
+] [4]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
-[9
+[5
 
 ]
 Overfull \hbox (99.84491pt too wide) in paragraph at lines 193--194
 [][] 
  []
 
-[10]
+[6]
 NOTE: coordinate (2Y5.0e0],3Y0.0e0]) has been dropped because it is unbounded (
 in y). (see also unbounded coords=jump). 
 NOTE: coordinate (2Y4.58334e0],3Y0.0e0]) has been dropped because it is unbound
@@ -1491,7 +1363,7 @@ Overfull \hbox (88.69795pt too wide) in paragraph at lines 198--227
 [] []
  []
 
-[11] [12]
+[7] [8]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
 LaTeX Warning: Command \CYRM invalid in math mode on input line 238.
@@ -1503,9 +1375,9 @@ Overfull \hbox (17.68355pt too wide) in paragraph at lines 237--239
 н-тром окруж-
  []
 
-[13
+[9
 
-] [14] [15]
+] [10] [11]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
 
 Overfull \hbox (7.76749pt too wide) in paragraph at lines 334--335
@@ -1523,7 +1395,7 @@ Overfull \hbox (6.98465pt too wide) in paragraph at lines 337--338
 ] + [] = [] = [] =
  []
 
-[16
+[12
 
 ]
 Overfull \hbox (11.21756pt too wide) in paragraph at lines 343--344
@@ -1532,9 +1404,9 @@ OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C[]a[]b[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/
 10 C[]a[]b[]$ 
  []
 
-[17]
+[13]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-[18
+[14
 
 ]
 
@@ -1543,9 +1415,9 @@ Make it at least 12.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[19]
+[15]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
-[20
+[16
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
@@ -1554,9 +1426,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 439--440
 
  []
 
-[21
+[17
 
-] [22]
+] [18]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
 69.
@@ -1570,7 +1442,7 @@ Overfull \hbox (114.8951pt too wide) in paragraph at lines 505--506
 [][] 
  []
 
-[23
+[19
 
 ]
 
@@ -1579,9 +1451,9 @@ Make it at least 22.4317pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[24]
+[20]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 10.
-[25
+[21
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 11.
@@ -1590,7 +1462,7 @@ Overfull \hbox (17.40475pt too wide) in paragraph at lines 523--532
 \OMS/cmsy/m/n/10 U[]$ \T2A/cmr/m/n/10 и при этом $[][] []$
  []
 
-[26
+[22
 
 ]
 ! Undefined control sequence.
@@ -1612,7 +1484,7 @@ Overfull \hbox (63.0058pt too wide) in paragraph at lines 589--612
 [][] [] 
  []
 
-[27]
+[23]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 612.
@@ -1629,9 +1501,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 612.
 
-[28]
+[24]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 12.
-[29
+[25
 
 ]
 
@@ -1640,7 +1512,7 @@ Make it at least 24.51453pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[30]
+[26]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 13.
 
 LaTeX Warning: Command \cyrt invalid in math mode on input line 675.
@@ -1720,9 +1592,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 690--691
 
  []
 
-[31
+[27
 
-] [32]
+] [28]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 14.
 
 Overfull \hbox (37.17278pt too wide) in paragraph at lines 715--717
@@ -1736,9 +1608,9 @@ Overfull \hbox (63.0058pt too wide) in paragraph at lines 739--762
 [][] [] 
  []
 
-[33
+[29
 
-] [34]
+] [30]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 15.
 
 Overfull \hbox (9.13028pt too wide) in paragraph at lines 769--774
@@ -1756,9 +1628,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 778--783
 
  []
 
-[35
+[31
 
-] [36]
+] [32]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 16.
 
 Overfull \hbox (3.86574pt too wide) in paragraph at lines 820--828
@@ -1766,9 +1638,9 @@ Overfull \hbox (3.86574pt too wide) in paragraph at lines 820--828
 -ты-вая непре-
  []
 
-[37
+[33
 
-] [38]
+] [34]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 17.
 
 Overfull \hbox (2.75172pt too wide) in paragraph at lines 846--849
@@ -1777,9 +1649,9 @@ Overfull \hbox (2.75172pt too wide) in paragraph at lines 846--849
 /cmr/m/n/10 )$
  []
 
-[39
+[35
 
-] [40] [41]
+] [36] [37]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 18.
 
 ! LaTeX Error: File `pic1' not found.
@@ -1809,13 +1681,13 @@ Overfull \hbox (8.25462pt too wide) in paragraph at lines 928--952
 /n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) =
  []
 
-[42
+[38
 
-] [43]
+] [39]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 19.
-[44
+[40
 
-] [45]
+] [41]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 20.
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 1010.
@@ -1830,7 +1702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1013--1013
 
  []
 
-[46
+[42
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1021--1022
@@ -1872,12 +1744,12 @@ Overfull \hbox (4.42403pt too wide) in paragraph at lines 1047--1049
 0 x\OT1/cmr/m/n/10 )$\T2A/cmr/m/n/10 ,
  []
 
-[47]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 1051--1051
 
  []
 
-[48]
+[44]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -1945,13 +1817,13 @@ l.1113   \end{proof}
 l.1113   \end{proof}
                     
 ? 
-[49]
+[45]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 21.
-[50
+[46
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 22.
-[51
+[47
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 23.
@@ -1997,7 +1869,7 @@ Type  H <return>  for immediate help.
 l.1179     \end{equation}
                          
 ? 
-[52
+[48
 
 ]
 
@@ -2020,9 +1892,9 @@ Type  H <return>  for immediate help.
 l.1181 \end{thm}
                 
 ? 
-[53]
+[49]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 24.
-[54
+[50
 
 ]
 ! Missing $ inserted.
@@ -2101,7 +1973,7 @@ Overfull \hbox (20.6022pt too wide) in paragraph at lines 1267--1271
 OML/cmm/m/it/10 b\OT1/cmr/m/n/10 ))$
  []
 
-[55]
+[51]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 25.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
@@ -2137,7 +2009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1291--1294
 
  []
 
-[56
+[52
 
 ]
 
@@ -2165,7 +2037,7 @@ m/it/10 x\OT1/cmr/m/n/10 )) = [\OMS/cmsy/m/n/10 1   1\OT1/cmr/m/n/10 ] = [][]([
 ] \OMS/cmsy/m/n/10   []\OT1/cmr/m/n/10 ) = [][]([]) =
  []
 
-[57]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 1352--1353
 
  []
@@ -2175,7 +2047,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1361--1362
 
  []
 
-[58]
+[54]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 26.
 
 Overfull \hbox (0.9878pt too wide) in paragraph at lines 1372--1373
@@ -2189,7 +2061,7 @@ Overfull \hbox (0.45773pt too wide) in paragraph at lines 1392--1395
  [] + [] + \OML/cmm/m/it/10 ::: \OT1/cmr/m/n/10 + []$ 
  []
 
-[59
+[55
 
 ]
 Overfull \hbox (9.35567pt too wide) in paragraph at lines 1395--1402
@@ -2209,7 +2081,7 @@ Overfull \hbox (6.71126pt too wide) in paragraph at lines 1407--1410
  [] + [] + \OML/cmm/m/it/10 ::: \OT1/cmr/m/n/10 + [] +
  []
 
-[60]
+[56]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 27.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2319,7 +2191,7 @@ Type  H <return>  for immediate help.
 l.1426 \end{itemize}
                     
 ? 
-[61
+[57
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 28.
@@ -2343,7 +2215,7 @@ Missing character: There is no о in font cmr10!
 l.1442 \beign
              {thm}
 ? 
-[62
+[58
 
 ]
 
@@ -2368,7 +2240,7 @@ Make it at least 34.4317pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[63]
+[59]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 29.
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
@@ -2382,12 +2254,12 @@ l.1459 ...ѕР№ РІРІРµСЂС…, Р° РЅР° РґСЂСѓРіРѕРј в€’
                                                    РІС‹РїСѓРєР»РѕР№ РІРЅРёР·...
 
 ? 
-<./pics/yyy.jpg, id=1108, 260.975pt x 252.945pt>
+<./pics/yyy.jpg, id=525, 260.975pt x 252.945pt>
 File: ./pics/yyy.jpg Graphic file (type jpg)
 <use ./pics/yyy.jpg>
 Package pdftex.def Info: ./pics/yyy.jpg  used on input line 1468.
 (pdftex.def)             Requested size: 120.74947pt x 117.0354pt.
-<./pics/yyy2.jpg, id=1109, 271.0125pt x 252.945pt>
+<./pics/yyy2.jpg, id=526, 271.0125pt x 252.945pt>
 File: ./pics/yyy2.jpg Graphic file (type jpg)
 <use ./pics/yyy2.jpg>
 Package pdftex.def Info: ./pics/yyy2.jpg  used on input line 1473.
@@ -2437,7 +2309,7 @@ l.1480 Р
         џСЂРµРґРїРѕР»РѕР¶РёРј, С‡С‚Рѕ РІ С‚РѕС‡РєРµ РїРµСЂРµРіРёР±Р° ${x_0}$...
 
 ? 
-[64
+[60
 
  <./pics/yyy.jpg> <./pics/yyy2.jpg>]
 
@@ -3399,7 +3271,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1497--1499
 
  []
 
-[65]
+[61]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 30.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1503--1505
@@ -3421,7 +3293,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1518--1519
 
  []
 
-[66
+[62
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1521--1522
@@ -3439,7 +3311,7 @@ Overfull \hbox (9.35791pt too wide) in paragraph at lines 1531--1532
 -же-ния,вычитания,
  []
 
-[67]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 1547--1549
 
  []
@@ -3470,7 +3342,7 @@ Overfull \hbox (2.55879pt too wide) in paragraph at lines 1568--1569
 адиус-векторов
  []
 
-[68]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 1577--1580
 
  []
@@ -3498,7 +3370,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1583--1585
 
  []
 
-[69]
+[65]
 Overfull \hbox (28.11661pt too wide) in paragraph at lines 1602--1605
 \T2A/cmr/m/n/10 различные зна-че-ния кор-ня по-лу-ча-ют-ся при раз-лич-ных зна-
 че-ни-ях $\OML/cmm/m/it/10 k \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n
@@ -3511,7 +3383,7 @@ Overfull \hbox (37.4529pt too wide) in paragraph at lines 1610--1615
 [] \OT1/cmr/m/n/10 = [] = [] =
  []
 
-[70]
+[66]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 31.
 
 Overfull \hbox (28.11661pt too wide) in paragraph at lines 1637--1640
@@ -3525,7 +3397,7 @@ n/10  
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1641.
 
-[71
+[67
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 32.
@@ -3551,20 +3423,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 1673--1673
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 1673.
 
-[72
+[68
 
-] [73] [74]
+] [69] [70]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 33.
 
-Overfull \hbox (0.76025pt too wide) in paragraph at lines 1724--1725
-\T2A/cmr/m/it/10 дифференцируема, при-чјм $\OMS/cmsy/m/n/10 D\OT1/cmr/m/n/10 (\
+Overfull \hbox (5.46591pt too wide) in paragraph at lines 1724--1725
+\T2A/cmr/m/it/10 дифференцируема, при-чјм $\OMS/cmsy/m/n/10 E\OT1/cmr/m/n/10 (\
 OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )) \OMS/cms
 y/m/n/10  D\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 )$\T2A/cmr/m/it/
-10 , то-гда $[] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m
-/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 []\OT1/cmr/m/n/10 
-(\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dt \OT1/cmr/m/n/10 = [] \O
-ML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m/
-it/10 dx$
+10 , то-гдаF $[] \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/
+m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 []\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dt \OT1/cmr/m/n/10 = [] \
+OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OML/cmm/m
+/it/10 dx$
  []
 
 
@@ -3577,7 +3449,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1733--1733
 
  []
 
-[75
+[71
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 34.
@@ -3617,7 +3489,7 @@ Overfull \hbox (17.47118pt too wide) in paragraph at lines 1745--1746
 и си-ну-са/косинуса 
  []
 
-[76
+[72
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 35.
@@ -3641,9 +3513,9 @@ Type  H <return>  for immediate help.
 l.1782         \end{axis}
                          
 ? 
-[77
+[73
 
-] [78]
+] [74]
 Underfull \hbox (badness 10000) in paragraph at lines 1846--1846
 
  []
@@ -3653,7 +3525,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1860--1860
 
  []
 
-[79] [80]
+[75] [76]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 36.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1881--1881
@@ -3685,14 +3557,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1894--1894
 
  []
 
-[81
+[77
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1895--1895
 
  []
 
-[82]
+[78]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 37.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1917--1918
@@ -3709,7 +3581,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1924--1925
 
  []
 
-[83
+[79
 
 ]
 Overfull \hbox (9.62045pt too wide) in paragraph at lines 1928--1930
@@ -3786,13 +3658,13 @@ l.1968 ...\infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}
 l.1968 ...infty}}(\dfrac{x^{1-p}}{1-p}\Big|_1^b)}}
                                                   =
 ? 
-[84]
+[80]
 ! Extra }, or forgotten $.
 l.1977 ... Р”Р»СЏ Р»СЋР±РѕРіРѕ $x \in [a;+\infty]}
                                                   $ СЃРїСЂР°РІРµРґР»РёРІРѕ $...
 
 ? 
-[85]
+[81]
 Underfull \hbox (badness 10000) in paragraph at lines 1982--1984
 
  []
@@ -3818,9 +3690,9 @@ l.1996 \item $\forall \alpha,\beta \in \R
                                          , f(x),g(x)$ РёРЅС‚РµРіСЂРёСЂСѓРµРј...
 
 ? 
-[86]
+[82]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 38.
-[87
+[83
 
 ]
 ! Undefined control sequence.
@@ -3834,7 +3706,7 @@ Overfull \hbox (3.80371pt too wide) in paragraph at lines 2028--2030
 -ва-ния:каждая стро-
  []
 
-[88]
+[84]
 Overfull \hbox (0.60155pt too wide) in paragraph at lines 2076--2086
 \T2A/cmr/bx/n/10 пол-не-ний\T2A/cmr/m/n/10 . Ал-геб-ра-и-че-ским до-пол-не-ни-е
 м к $\OML/cmm/m/it/10 a[]$ \T2A/cmr/m/n/10 на-зы-ва-ет-ся $\OML/cmm/m/it/10 A[]
@@ -3861,7 +3733,7 @@ m/it/10 a[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 a[] \OMS/cmsy/m/n/10   \OML/cmm
 m/m/it/10 a[]
  []
 
-[89] [90]
+[85] [86]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 39.
 
 Overfull \hbox (108.59296pt too wide) detected at line 2127
@@ -3869,9 +3741,9 @@ Overfull \hbox (108.59296pt too wide) detected at line 2127
 t/10 det []
  []
 
-[91
+[87
 
-] [92]
+] [88]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 40.
 ! Undefined control sequence.
 l.2140 	\tkzDefPoint
@@ -4089,7 +3961,7 @@ Missing character: There is no ] in font nullfont!
 Missing character: There is no ( in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no ) in font nullfont!
-[93
+[89
 
 ]
 ! Undefined control sequence.
@@ -4196,7 +4068,7 @@ l.2217 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
 l.2218 ...ёР№ РґР»РёРЅРЅСѓ $l=\lambda \mid{a}\mid}
                                                   $
 ? 
-[94]
+[90]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 41.
 
 Overfull \hbox (23.552pt too wide) in paragraph at lines 2224--2229
@@ -4215,7 +4087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2240--2245
 
  []
 
-[95
+[91
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 2246--2248
@@ -4240,11 +4112,11 @@ Overfull \hbox (55.09674pt too wide) in paragraph at lines 2274--2275
 uq0k
  []
 
-[96]
+[92]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 42.
-[97
+[93
 
-] [98]
+] [94]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 43.
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
@@ -4291,7 +4163,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2340--2343
 
  []
 
-<./pics/2.jpg, id=1398, 305.14pt x 253.94875pt>
+<./pics/2.jpg, id=857, 305.14pt x 253.94875pt>
 File: ./pics/2.jpg Graphic file (type jpg)
 <use ./pics/2.jpg>
 Package pdftex.def Info: ./pics/2.jpg  used on input line 2344.
@@ -4300,7 +4172,7 @@ Package pdftex.def Info: ./pics/2.jpg  used on input line 2344.
 LaTeX Warning: Command \cyra invalid in math mode on input line 2349.
 
 Missing character: There is no а in font cmr10!
-<./pics/3.jpg, id=1399, 341.275pt x 266.9975pt>
+<./pics/3.jpg, id=858, 341.275pt x 266.9975pt>
 File: ./pics/3.jpg Graphic file (type jpg)
 <use ./pics/3.jpg>
 Package pdftex.def Info: ./pics/3.jpg  used on input line 2352.
@@ -4324,10 +4196,10 @@ l.2357 ...ght), B\left( {{x_2},{y_2}} \right)$ в€’
                                                    РєРѕРѕСЂРґРёРЅР°С‚С‹ РґРІ...
 
 ? 
-[99
+[95
 
  <./pics/2.jpg> <./pics/3.jpg>]
-<./pics/4.jpg, id=1405, 341.275pt x 253.94875pt>
+<./pics/4.jpg, id=865, 341.275pt x 253.94875pt>
 File: ./pics/4.jpg Graphic file (type jpg)
 <use ./pics/4.jpg>
 Package pdftex.def Info: ./pics/4.jpg  used on input line 2361.
@@ -4352,7 +4224,7 @@ Overfull \hbox (6.99829pt too wide) in paragraph at lines 2364--2368
 10 k []$\T2A/cmr/m/n/10 ,
  []
 
-<./pics/5.jpg, id=1406, 341.275pt x 253.94875pt>
+<./pics/5.jpg, id=866, 341.275pt x 253.94875pt>
 File: ./pics/5.jpg Graphic file (type jpg)
 <use ./pics/5.jpg>
 Package pdftex.def Info: ./pics/5.jpg  used on input line 2370.
@@ -4371,7 +4243,7 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2374.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2374
 .
 
-<./pics/6.jpg, id=1407, 341.275pt x 253.94875pt>
+<./pics/6.jpg, id=867, 341.275pt x 253.94875pt>
 File: ./pics/6.jpg Graphic file (type jpg)
 <use ./pics/6.jpg>
 Package pdftex.def Info: ./pics/6.jpg  used on input line 2378.
@@ -4390,13 +4262,13 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2382.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2382
 .
 
-<./pics/7.jpg, id=1408, 280.04625pt x 253.94875pt>
+<./pics/7.jpg, id=868, 280.04625pt x 253.94875pt>
 File: ./pics/7.jpg Graphic file (type jpg)
 <use ./pics/7.jpg>
 Package pdftex.def Info: ./pics/7.jpg  used on input line 2386.
 (pdftex.def)             Requested size: 112.0165pt x 101.5777pt.
-[100 <./pics/4.jpg> <./pics/5.jpg> <./pics/6.jpg>]
-<./pics/8.jpg, id=1413, 280.04625pt x 253.94875pt>
+[96 <./pics/4.jpg> <./pics/5.jpg> <./pics/6.jpg>]
+<./pics/8.jpg, id=874, 280.04625pt x 253.94875pt>
 File: ./pics/8.jpg Graphic file (type jpg)
 <use ./pics/8.jpg>
 Package pdftex.def Info: ./pics/8.jpg  used on input line 2394.
@@ -4416,17 +4288,17 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2398.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2398
 .
 
-<./pics/9.jpg, id=1414, 288.07625pt x 253.94875pt>
+<./pics/9.jpg, id=875, 288.07625pt x 253.94875pt>
 File: ./pics/9.jpg Graphic file (type jpg)
 <use ./pics/9.jpg>
 Package pdftex.def Info: ./pics/9.jpg  used on input line 2403.
 (pdftex.def)             Requested size: 115.22844pt x 101.5777pt.
-<./pics/12.jpg, id=1415, 315.1775pt x 253.94875pt>
+<./pics/12.jpg, id=876, 315.1775pt x 253.94875pt>
 File: ./pics/12.jpg Graphic file (type jpg)
 <use ./pics/12.jpg>
 Package pdftex.def Info: ./pics/12.jpg  used on input line 2411.
 (pdftex.def)             Requested size: 126.06876pt x 101.5777pt.
-[101 <./pics/7.jpg> <./pics/8.jpg> <./pics/9.jpg>]
+[97 <./pics/7.jpg> <./pics/8.jpg> <./pics/9.jpg>]
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -4462,7 +4334,7 @@ Type  H <return>  for immediate help.
 l.2416 ...ЅРѕРіРѕ РґР°РЅРЅРѕР№ РїСЂСЏРјРѕР№, t в€’
                                                    РїР°СЂР°РјРµС‚СЂ.
 ? 
-<./pics/13.jpg, id=1420, 315.1775pt x 253.94875pt>
+<./pics/13.jpg, id=881, 315.1775pt x 253.94875pt>
 File: ./pics/13.jpg Graphic file (type jpg)
 <use ./pics/13.jpg>
 Package pdftex.def Info: ./pics/13.jpg  used on input line 2418.
@@ -4474,7 +4346,7 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2423.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2423
 .
 
-<./pics/14.jpg, id=1421, 280.04625pt x 253.94875pt>
+<./pics/14.jpg, id=882, 280.04625pt x 253.94875pt>
 File: ./pics/14.jpg Graphic file (type jpg)
 <use ./pics/14.jpg>
 Package pdftex.def Info: ./pics/14.jpg  used on input line 2426.
@@ -4497,12 +4369,12 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2433.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2433
 .
 
-<./pics/15.jpg, id=1422, 434.62375pt x 253.94875pt>
+<./pics/15.jpg, id=883, 434.62375pt x 253.94875pt>
 File: ./pics/15.jpg Graphic file (type jpg)
 <use ./pics/15.jpg>
 Package pdftex.def Info: ./pics/15.jpg  used on input line 2435.
 (pdftex.def)             Requested size: 173.8464pt x 101.5777pt.
-[102 <./pics/12.jpg> <./pics/13.jpg> <./pics/14.jpg>]
+[98 <./pics/12.jpg> <./pics/13.jpg> <./pics/14.jpg>]
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 2440.
 
@@ -4510,7 +4382,7 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2440.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2440
 .
 
-<./pics/16.jpg, id=1428, 398.48875pt x 338.26375pt>
+<./pics/16.jpg, id=888, 398.48875pt x 338.26375pt>
 File: ./pics/16.jpg Graphic file (type jpg)
 <use ./pics/16.jpg>
 Package pdftex.def Info: ./pics/16.jpg  used on input line 2444.
@@ -4529,7 +4401,7 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2448.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2448
 .
 
-<./pics/17.jpg, id=1429, 405.515pt x 366.36874pt>
+<./pics/17.jpg, id=889, 405.515pt x 366.36874pt>
 File: ./pics/17.jpg Graphic file (type jpg)
 <use ./pics/17.jpg>
 Package pdftex.def Info: ./pics/17.jpg  used on input line 2450.
@@ -4548,7 +4420,7 @@ LaTeX Font Warning: Command \large invalid in math mode on input line 2455.
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 2455
 .
 
-[103 <./pics/15.jpg> <./pics/16.jpg> <./pics/17.jpg>]
+[99 <./pics/15.jpg> <./pics/16.jpg> <./pics/17.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 44.
 
 LaTeX Warning: Command \cyrp invalid in math mode on input line 2460.
@@ -4899,7 +4771,7 @@ Overfull \hbox (23.09685pt too wide) in paragraph at lines 2474--2475
 )$\T2A/cmr/m/n/10 ,
  []
 
-[104
+[100
 
 ]
 Overfull \hbox (3.10944pt too wide) in paragraph at lines 2479--2481
@@ -4907,7 +4779,7 @@ Overfull \hbox (3.10944pt too wide) in paragraph at lines 2479--2481
  ко-ор-ди-нат-ной фор-
  []
 
-[105]
+[101]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 45.
 
 LaTeX Warning: Command \cyri invalid in math mode on input line 2492.
@@ -5005,15 +4877,15 @@ l.2493 ...»РµР»СЊРЅРѕ РІРµРєС‚РѕСЂСѓ $\overline{S}
 l.2495 ...t\\ y=y_0+nt\\z=z_0+pt\end{array}\right$
                                                   .
 ? 
-[106
+[102
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 46.
-[107
+[103
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 47.
-[108
+[104
 
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 48.
@@ -5081,7 +4953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2547--2547
 
  []
 
-<./pics/shkarlupa.png, id=1469, 379.4175pt x 379.4175pt>
+<./pics/shkarlupa.png, id=938, 379.4175pt x 379.4175pt>
 File: ./pics/shkarlupa.png Graphic file (type png)
 <use ./pics/shkarlupa.png>
 Package pdftex.def Info: ./pics/shkarlupa.png  used on input line 2552.
@@ -5128,7 +5000,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2553--2553
 
  []
 
-<./pics/pip.jpg, id=1471, 200.75pt x 221.82875pt>
+<./pics/pip.jpg, id=940, 200.75pt x 221.82875pt>
 File: ./pics/pip.jpg Graphic file (type jpg)
 <use ./pics/pip.jpg>
 Package pdftex.def Info: ./pics/pip.jpg  used on input line 2558.
@@ -5165,7 +5037,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2559--2559
 
  []
 
-<./pics/jizz.png, id=1472, 251.4996pt x 162.3666pt>
+<./pics/jizz.png, id=941, 251.4996pt x 162.3666pt>
 File: ./pics/jizz.png Graphic file (type png)
 <use ./pics/jizz.png>
 Package pdftex.def Info: ./pics/jizz.png  used on input line 2563.
@@ -5202,7 +5074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
 
  []
 
-<./pics/joq.jpg, id=1473, 142.28156pt x 142.28156pt>
+<./pics/joq.jpg, id=942, 142.28156pt x 142.28156pt>
 File: ./pics/joq.jpg Graphic file (type jpg)
 <use ./pics/joq.jpg>
 Package pdftex.def Info: ./pics/joq.jpg  used on input line 2569.
@@ -5239,12 +5111,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2570--2570
 
  []
 
-[109
+[105
 
-] [110 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./
+] [106 <./pics/shkarlupa.png> <./pics/pip.jpg> <./pics/jizz.png (PNG copy)> <./
 pics/joq.jpg>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 49.
-<./pics/jiji.png, id=1499, 1027.84pt x 969.6225pt>
+<./pics/jiji.png, id=970, 1027.84pt x 969.6225pt>
 File: ./pics/jiji.png Graphic file (type png)
 <use ./pics/jiji.png>
 Package pdftex.def Info: ./pics/jiji.png  used on input line 2586.
@@ -5259,13 +5131,13 @@ Type  H <return>  for immediate help.
 l.2589 
        
 ? 
-[111
+[107
 
- <./pics/jiji.png>] [112]
+ <./pics/jiji.png>] [108]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 50.
-[113
+[109
 
-] [114] [115]
+] [110] [111]
 
 ! LaTeX Error: \begin{enumerate} on input line 2685 ended by \end{document}.
 
@@ -5282,11 +5154,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 2700.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2700.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2700.
 
-Package rerunfilecheck Info: File `math_sem1.out' has not changed.
-(rerunfilecheck)             Checksum: 03914ED4DCDEE0491EC25D66EAD29E55;32555.
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `math_sem1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `math_sem1.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  03914ED4DCDEE0491EC25D66EAD29E55;32555.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2700.
  )
@@ -5296,10 +5174,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2700.
 ### simple group (level 1) entered at line 2338 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 34981 strings out of 492483
- 778351 string characters out of 3121590
- 957371 words of memory out of 3000000
- 38099 multiletter control sequences out of 15000+200000
+ 34852 strings out of 492483
+ 776588 string characters out of 3121590
+ 956513 words of memory out of 3000000
+ 37976 multiletter control sequences out of 15000+200000
  33135 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,17n,103p,892b,2256s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -5309,16 +5187,16 @@ ur/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts
 /pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2
 .9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk> <C:\Users\s4d14\AppData\Local\
 MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\s4d14\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\s4d1
-4\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Us
-ers\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1000.pk
-> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
-m0700.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\labx1440.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\labx2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\lasl1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\font
-s/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\
-2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\s4d14\AppData\Local
+a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasl1000.pk> <C:\Users\s4d1
+4\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Us
+ers\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk
+> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lat
+i1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dp
+i600\larm0700.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\labx1000.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\s4d14\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\s4d14\AppData\Local
 \MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\s4d14\AppDa
 ta\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\s4d
 14\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Us
@@ -5348,9 +5226,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/s4d14
 /Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
 ols/msam10.pfb><C:/Users/s4d14/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/symbols/msbm10.pfb>
-Output written on math_sem1.pdf (116 pages, 1459157 bytes).
+Output written on math_sem1.pdf (112 pages, 1361457 bytes).
 PDF statistics:
- 2582 PDF objects out of 2984 (max. 8388607)
- 614 named destinations out of 1000 (max. 500000)
- 1102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2036 PDF objects out of 2073 (max. 8388607)
+ 610 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
